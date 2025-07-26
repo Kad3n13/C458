@@ -2,257 +2,134 @@
 
 # C458
 
-# Body Systems and Health Overview
-
-## Body Systems
-
-### Skeletal and Muscular Systems
-
 ---
 
-### Nervous System
-- Command Center  
-- Controls and regulates body  
+# Study Guide: Competencies, SEL, Health & Wellness
 
----
+## Competency Examples
 
-### Cardiovascular and Respiratory Systems
-- Cardio delivers blood throughout the body  
+| Scenario                                                                                                             | Competency                      |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| Scheduling a team dinner after sunset for Muslim members observing Ramadan                                           | Social Awareness                |
+| Choosing a restaurant with vegetarian options for coworkers                                                          | Communication and Leadership    |
+| Watching a free instructional video on Excel for data analysis                                                       | Executive Function              |
+| Reviewing a coaching report and contacting math center after a low test score                                        | Self Management                 |
+| Using gender-neutral pronouns with non-gender-conforming colleagues                                                  | Communication and Leadership    |
+| Finding a compromise during a team disagreement                                                                      | Communication and Leadership    |
+| Using breathing exercises before a presentation                                                                      | Self Management                 |
+| Setting short-term and long-term goals                                                                               | Self Management                 |
+| Viewing feedback as opportunity to improve, not personal criticism                                                   | Self Awareness                  |
 
----
+## Self Awareness
 
-### Digestive System
-- Ingestion, digestion, absorption, and elimination  
+- Viewing evaluator’s feedback as a way to improve instead of personal criticism
 
----
+## Social Awareness
 
-### Urinary System
-- Filters blood and removes waste as urine  
+- Empathy for people from different backgrounds
 
----
+## SEL Key Characteristic
 
-### Immune System
-- Cells, tissues, and organs that fight disease-causing pathogens  
-- Lymph nodes, bone marrow, tonsils, spleen, thymus gland  
+- Understanding how to manage your emotions
 
----
+## Common Stress Behaviors
 
-### Integumentary System
-- Consists of hair, skin, nails  
-- Maintains body temperature  
-- Protects from environment  
+- Smoking more often
+- Acting impulsively
+- Grinding teeth
+- Stuttering
 
----
+## Appropriate Ways to Manage Stress
 
-### Endocrine System
-- Controls through hormones  
-- Maintains homeostasis  
-- Glands and the hormones they produce  
+- Learn time management skills
+- Get sufficient sleep
+- Eat healthy
 
----
+## Drug Effects Matching
 
-### Reproductive System
+| Drug      | Effect                                              |
+|-----------|----------------------------------------------------|
+| Alcohol   | Causes release of dopamine, creates euphoria       |
+| Caffeine  | Increases wakefulness and physical activity        |
 
-#### Female
-- **Internal Organs:** fallopian tubes, uterus, ovaries, cervix  
-- **External:** labia, vagina, urethra, clitoris  
-- Menstrual cycle: 28-day cycle  
-- Fertilization occurs in fallopian tubes  
-- Menopause: ovulation ceases  
+## High Self-Esteem Traits
 
-#### Male
-- Testes  
-- Scrotum  
+- Nurture themselves
+- Take reasonable risks
+- Solve more problems
+- Confront things that frighten them
 
----
+## Stages of Grief
 
-## Diseases
+- Denial
+- Hope
+- Anger
+- Bargaining
+- Depression
+- Acceptance
 
-- **Communicable:** (strep throat) — can transfer to someone  
-- **Non-communicable:** (heart disease) — cannot transfer to someone  
+## Sexual Harassment
 
----
+- Unwanted advances
 
-## Physical Fitness
+## Bulimia Signs
 
-### Cardiorespiratory
-- Running; ability to perform large muscle whole-body exercises at moderate to vigorous intensities  
+- Diminished appetite
+- Feeling of worthlessness
+- Difficulty concentrating
+- Loss of interaction with others
 
-### Muscular Strength
-- Maximum amount of force produced in a single effort  
+## Food Safety
 
-### Muscular Endurance
-- Ability to exert near-maximal amount of force for a short time  
+- After preparing food: wash hands
 
-### Intensity and FIT
-- **Target Heart Rate:**
-  - Moderate: 50–70%  
-  - Vigorous: 70–85%  
-- **FITT Principle:**
-  - Frequency  
-  - Intensity  
-  - Time  
-  - Type  
-- **Recommendations:**
-  - Children: 60 minutes of physical activity every day  
-  - Adults: 150–300 minutes of moderate intensity, 75–150 vigorous  
-  - Advised: 2 days per week  
+## Vegan Diet Includes
 
----
+- Cucumbers (misclassified)
+- Nuts
 
-## Personal Care and Safety
+## Healthy Items
 
-### Personal Hygiene
-- Visit dentist twice a year  
-- Remove contacts before shower  
+- Trail mix
 
----
+## Dietician Recommendation: Whole Grain
 
-### Unintentional Injuries
-- Drowning, poison, fires, and falls  
-- Drowning is the 5th leading cause of death  
-- Maintain a smoke alarm  
-- Don’t leave hot stoves unsupervised  
-- Prevent burns from water heater  
-- Only call 911 in life-threatening emergencies  
+- More fiber
 
-### CPR
-- **Hands-only:** for adults/adolescents if sudden collapse and not breathing  
-- **Conventional CPR:** standard approach when trained  
+## Source of Energy
 
----
+- Calories
 
-## Sleep and Health
+## Nutrient Functions
 
-- **Stage 1 (Non-REM):** Transition between wakefulness and sleep  
-- **Stage 2 (Non-REM):** Pre-deep sleep; heart rate and breathing slow  
-- **Stage 3 (Non-REM):** Deep or slow-wave sleep — needed to feel refreshed  
-- **REM:** Rapid eye movement, faster breathing, increased heart rate and blood pressure  
+| Nutrient | Function                        |
+|----------|---------------------------------|
+| Carbs    | Provides energy                 |
+| Protein  | Promotes growth (cell function) |
+| Fat      | Stores energy                   |
 
-> The entire sleep cycle is repeated several times per night  
-> A 2-month-old baby needs **at least 14 hours** of sleep  
+## Kids Sleep Recommendation
 
----
+- 9–11 hours
 
-## Vitamins
+## Sleep Stages
 
-- **Vitamin A:** Vision  
-- **Vitamin C:** Collagen formation, immune support  
-- **Vitamin D:** Bone marrow  
-- **Vitamin K:** Bone health, blood clotting  
-- **Vitamin E:** Immune and blood cell function  
+- Stage 3: Deep sleep (comes after Stage 2)
 
----
+## Physical Inactivity Consequences
 
-## Substance Effects
+- Increased childhood obesity
+- Increased healthcare cost
+- Decreased healthy years of life
 
-- **Weed:** Hallucinogen  
-- **Alcohol:** Depressant  
-- **Caffeine:** Stimulant  
-- **Meth, Cocaine, MDMA (Ecstasy):** Stimulants  
+## Aerobic Exercise Effects
 
----
+- More blood pumped per stroke
+- More capillaries in trained muscles
+- Increased oxygen inhaled
 
-## Mental Health and Disorders
+## Hepatitis A Prevention (Sanitation Worker)
 
-### Anorexia
-- **Body dysmorphia:** Thinks they are overweight  
-- **Internal factors:** High anxiety, picky eating, perfectionism  
-- **Symptoms:**
-  - Afraid of gaining weight  
-  - Not eating  
-  - Hair growth all over the body  
-  - Mineral deficiency, low metabolism, low iron  
-  - Body consumes muscle  
-- Leading cause of death in teenage girls  
-- **Related Disorders:** Binging, bulimia  
-
----
-
-### Generalized Anxiety Disorder
-- Anxiousness over specific or general situations  
-- Common symptoms:
-  - Worry, poor concentration, easily scared  
-  - Trouble sleeping, stomach issues, headaches  
-
----
-
-### OCD (Obsessive-Compulsive Disorder)
-- **Obsessions:** Intrusive thoughts  
-- **Compulsions:** Repetitive behaviors  
-- Often irrational but still performed  
-- Examples: Double-checking locks, rituals  
-
----
-
-### ADHD
-- Inattention, hyperactivity, impulsivity  
-- Various types with unique symptom sets  
-- Tasks requiring focus are difficult  
-
----
-
-### Autism Spectrum Disorder
-- **Symptoms:**
-  - Non-verbal or high-functioning  
-  - Poor emotional recognition ("mind blindness")  
-  - Restricted interests, hypersensitivity  
-  - Repetitive language or behaviors  
-  - Difficulty adjusting to routine changes  
-- **Strengths:**
-  - Detail-oriented, good memory  
-  - Passionate about niche subjects  
-
----
-
-## 5 Stages of Grief (Kubler-Ross Model)
-
-> Not always linear or applicable to all
-
-1. **Denial** – e.g., "I don’t have cancer."  
-2. **Anger** – "Why me?"  
-3. **Bargaining** – Often faith-based  
-4. **Depression** – Sadness, loss  
-5. **Acceptance** – Comes to terms with reality  
-
-> People may go back and forth between stages  
-
----
-
-## SEL (Social and Emotional Learning)
-
-### Self Skills
-
-#### Self-Awareness
-- Recognize emotions  
-- Self-efficacy (belief in yourself)  
-- Growth mindset  
-
-#### Self-Management
-- Goal setting  
-- Self-discipline  
-- Stress management  
-
-#### Executive Function
-- Problem-solving  
-- Adaptability  
-- Self-directed learning  
-
----
-
-### Social Awareness
-- **Empathy:** Feel for others emotionally  
-- **Conflict Resolution:** Solve disagreements  
-- **Teamwork & Collaboration:**  
-  - Appreciate diversity  
-  - Be open to new ideas  
-
----
-
-### SEL Key Skills Quiz
-
-- **Responsibility-to-others:** Ability to be accountable and attentive  
-- **Sociability:** Noticing verbal and non-verbal communication cues  
-- **Appreciation-for-diversity:** Supporting and learning from different cultures or individuals  
+- Get a vaccine
 
 ---
