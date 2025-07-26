@@ -1,3 +1,5 @@
+# Allocation of notes for class from college WGU 
+
 # C458
 
 # Body Systems and Health Overview
@@ -254,5 +256,3 @@
 - **Appreciation-for-diversity:** Supporting and learning from different cultures or individuals  
 
 ---
-
-> 📘 *This document is designed for health education, awareness, and general well-being topics. Contributions welcome!*
