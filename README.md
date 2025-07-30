@@ -212,7 +212,8 @@ Because kidneys are close to the body surface and protected only by fat, footbal
 
 ---
 ---
-<h1>Study Guide: Competencies, SEL, Health & Wellness</h1>
+<h1>Study Guide</h1>
+<h1>(Competencies, SEL, Health & Wellness)</h1>
 
 ## Competency Examples
 
