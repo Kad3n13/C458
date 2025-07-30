@@ -72,17 +72,18 @@ Identify the function and major organs in the cardiovascular, respiratory, diges
 
 ---
 
-## Cardiovascular System
 
-| Component             | Notes                                                                                                                    |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Heart                 | Powerful muscular pump; responsible for circulating blood. Weighs less than a pound, about the size of an adult fist.   |
-|                       | Located on the left side of the chest, between lungs and beneath the sternum.                                           |
-|                       | Four chambers: two atria (upper), two ventricles (lower).                                                               |
-| Heart Rate            | The faster the heart beats, the more oxygen it transports. Sounds are heart valves closing. Beats 72 times/min (avg).    |
-| Blood Vessels         | Two categories: arteries (away from heart), veins (return to heart).                                                    |
-| Arteries              | The aorta (largest artery) branches to smaller arteries and capillaries to every organ.                                 |
-| Circulation           | Oxygenated blood enters left side of heart, pumped through aorta, delivered via arteries/capillaries, returns via veins.|
+---
+
+### Cardiovascular System
+
+| Component      | Notes |
+|----------------|-------|
+| **Heart**      | - Powerful muscular pump; circulates blood.<br>- Weighs less than a pound; about the size of an adult fist.<br>- Located left of the chest, between the lungs and beneath the sternum.<br>- Four chambers: two atria (upper), two ventricles (lower). |
+| **Heart Rate** | - Faster beats increase oxygen transport.<br>- Heart sounds are valves closing.<br>- Average rate: 72 beats per minute. |
+| **Blood Vessels** | - Two main types: arteries (carry blood away from heart), veins (return blood to heart). |
+| **Arteries**   | - The aorta (largest artery) branches into smaller arteries and capillaries, reaching every organ. |
+| **Circulation**| - Oxygenated blood enters the left side of the heart, is pumped through the aorta, delivered via arteries and capillaries, and returns through veins. |
 
 ---
 
@@ -206,13 +207,11 @@ Because kidneys are close to the body surface and protected only by fat, footbal
 | Major glands            | Pineal gland, pituitary gland, thyroid, thymus, adrenals, pancreas, ovaries, testes.                                        |
 | System traits           | Glands are scattered throughout the body but considered one system due to similar function and mechanisms.                    |
 
----
-
 *Start back on page 11*
 
 ---
-
-# Study Guide: Competencies, SEL, Health & Wellness
+---
+<h1>Study Guide: Competencies, SEL, Health & Wellness</h1>
 
 ## Competency Examples
 
