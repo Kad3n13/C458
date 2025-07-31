@@ -211,6 +211,197 @@ Because kidneys are close to the body surface and protected only by fat, footbal
 <h2>BOOKMARK ^^^</h2>
 
 ---
+
+# Extended Notes (Bookmark Page 11+)
+
+## Learning Objectives
+
+### Identify the function and major organs in the immune, integumentary, endocrine, and reproductive systems
+
+---
+
+## Female Reproductive System
+
+### Internal Organs
+
+| Organ           | Function                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| Vagina          | Muscular tube connecting external genitals to the cervix and uterus      |
+| Cervix          | Lower, narrow end of the uterus; opens during childbirth and ovulation   |
+| Uterus          | Triangular organ where fetus develops during pregnancy                   |
+| Fallopian Tubes | Tubes through which eggs travel; site of fertilization                   |
+| Ovaries         | Produce egg cells (ova) and hormones                                    |
+
+#### Questions & Answers
+
+1. **Where does the fetus develop during pregnancy?**  
+   **Answer:** Uterus  
+2. **Where are eggs produced?**  
+   **Answer:** Ovaries  
+3. **Where is the egg fertilized?**  
+   **Answer:** Fallopian tubes  
+4. **Which part opens during childbirth?**  
+   **Answer:** Cervix  
+5. **Which part sheds during menstruation?**  
+   **Answer:** Uterus  
+
+### External Genitalia (Vulva)
+
+| Structure    | Description                                                                             |
+|--------------|-----------------------------------------------------------------------------------------|
+| Labia        | Folds of skin ("lips") surrounding the vaginal opening                                  |
+| Clitoris     | Small, erectile organ, highly sensitive, analogous to the penis                         |
+| Urethra      | Tube for urine excretion; located anterior to vaginal opening                           |
+| Vagina       | External opening leads to internal reproductive organs                                  |
+
+### Mammary Glands
+
+- Accessory organs of reproduction; produce and deliver milk via ducts and sinuses to the nipple.
+
+---
+
+## Menstrual Cycle, Fertilization, & Menopause
+
+| Process           | Description                                                                                         |
+|-------------------|-----------------------------------------------------------------------------------------------------|
+| Menstrual Cycle   | ~28-day cycle; ovulation around days 13–14; menstruation if no fertilization                        |
+| Fertilization     | Sperm meets ovum in the fallopian tube; gestation (pregnancy) lasts ~38–40 weeks                    |
+| Menopause         | Occurs when eggs are depleted; estrogen drops; menstrual cycle ends                                 |
+
+---
+
+## Male Reproductive System
+
+| Organ        | Function                                                                    |
+|--------------|-----------------------------------------------------------------------------|
+| Testes       | Produce sperm                                                               |
+| Scrotum      | Sac that holds and protects testes outside the body                         |
+| Prostate     | Gland that helps make semen                                                 |
+| Vas Deferens | Carries sperm to the urethra                                                |
+| Urethra      | Transports urine and semen out of the body                                  |
+| Penis        | Erectile organ for sexual intercourse and urination                         |
+
+---
+
+## Body System Functions Overview
+
+| System           | Major Organs/Parts                | Function                                                      |
+|------------------|-----------------------------------|---------------------------------------------------------------|
+| Immune           | White blood cells, lymphatic tissue | Defend/protect against disease                                |
+| Integumentary    | Skin, hair, nails, glands         | Cover/protect body                                            |
+| Endocrine        | Glands (e.g., pituitary, thyroid) | Hormone regulation, growth, homeostasis                       |
+| Reproductive     | Ovaries/testes, uterus, penis     | Produce, nourish, and transport gametes (egg or sperm)        |
+
+---
+
+## Module Quiz Sample Questions
+
+1. **Which body system communicates via electrical impulses?**  
+   **Answer:** Nervous system
+
+2. **Where does oxygen and carbon dioxide exchange occur?**  
+   **Answer:** Lungs
+
+3. **What is the function of the integumentary system?**  
+   **Answer:** Protect body parts
+
+---
+
+## Introduction to Diseases
+
+### Top 10 Deadliest Diseases (examples):
+
+- Coronary artery disease, stroke, respiratory infections, chronic obstructive pulmonary disease, respiratory cancers, diabetes, Alzheimer’s, diarrheal diseases, tuberculosis, cirrhosis.
+
+---
+
+## Communicable Diseases
+
+| Germ Type | Description                              | Example Disease        | Treatment/Prevention                |
+|-----------|------------------------------------------|-----------------------|-------------------------------------|
+| Bacteria  | Single-celled, rapid multiplication      | Strep throat          | Antibiotics, some vaccines          |
+| Virus     | Genetic material in a protein capsule    | Cold, flu, mono       | Vaccines, symptomatic care          |
+| Fungi     | Primitive plant-like organisms           | Athlete’s foot        | Antifungals                         |
+| Parasite  | Lives on/in other organisms              | Malaria, lice         | Antiparasitics, hygiene             |
+
+#### Transmission Modes
+
+- Direct contact (touching, kissing, sexual contact)
+- Indirect contact (contaminated surfaces)
+- Bites (insect/animal)
+- Contamination (food/water/soil/plants)
+
+---
+
+## Infectious Diseases by System
+
+### Respiratory System
+
+| Disease         | Cause    | Transmission                | Symptoms                                  | Prevention                                      |
+|-----------------|----------|-----------------------------|--------------------------------------------|-------------------------------------------------|
+| Common Cold     | Virus    | Droplets, touch             | Watery eyes, congestion, sneezing, sore throat | Handwashing, avoid sick people                  |
+| Influenza (Flu) | Virus    | Droplets, touch             | Fatigue, fever, cough, headache            | Annual vaccine                                  |
+| Mononucleosis   | Virus    | Saliva, droplets, utensils  | Fatigue, swollen nodes, sore throat        | Avoid sharing drinks/utensils                   |
+
+### Integumentary System
+
+| Disease      | Cause     | Transmission                              | Symptoms                                         | Prevention                  |
+|--------------|-----------|-------------------------------------------|--------------------------------------------------|-----------------------------|
+| MRSA         | Bacteria  | Contact with infected people/objects      | Fever, red bumps/rash, swelling, pus             | Hygiene, cover wounds       |
+| Cold Sores   | Virus     | Close contact (kissing, sharing, etc.)    | Painful blisters, tingling, oozing               | Do not share lip products   |
+| Lice         | Parasite  | Close contact, shared items               | Itching, visible lice/nits                       | Heat-wash items, hygiene    |
+| Chicken Pox  | Virus     | Person to person                          | Itchy rash, fever, headache                      | Vaccination                 |
+| Measles      | Virus     | Person to person                          | Rash, fever, cough, conjunctivitis               | Vaccination                 |
+
+### Urinary System
+
+| Disease | Cause    | Transmission                | Symptoms                                        | Prevention                |
+|---------|----------|-----------------------------|-------------------------------------------------|---------------------------|
+| UTI     | Bacteria | GI bacteria to urethra      | Painful urination, frequent urge, cloudy urine  | Hydration, hygiene        |
+
+### Reproductive System
+
+| Disease (STI)  | Cause     | Transmission               | Symptoms                                   | Prevention                         |
+|----------------|-----------|----------------------------|--------------------------------------------|------------------------------------|
+| Chlamydia      | Bacteria  | Sexual contact             | Discharge, pain, sometimes none            | Condom use, hygiene                |
+| Gonorrhea      | Bacteria  | Sexual contact             | Discharge, pain, sometimes none            | Condom use, hygiene                |
+| HIV/AIDS       | Virus     | Blood, semen, vaginal fluid| Immune deficiency, infections              | Condom use, safe practices         |
+| HPV            | Virus     | Sexual contact             | Warts, sometimes none                      | Vaccination, condom use            |
+| Syphilis       | Bacteria  | Sexual contact             | Sores, rash, systemic effects              | Condom use, hygiene                |
+| Trichomoniasis | Parasite  | Sexual contact             | Discharge, irritation                      | Condom use, hygiene                |
+
+### Digestive System
+
+| Disease    | Cause    | Transmission                       | Symptoms                         | Prevention                   |
+|------------|----------|------------------------------------|----------------------------------|------------------------------|
+| Hepatitis A| Virus    | Contaminated food/water            | Appetite loss, jaundice          | Handwashing, vaccination     |
+| Hepatitis B| Virus    | Bodily fluids                      | Appetite loss, jaundice          | Vaccination, avoid fluids    |
+| Hepatitis C| Virus    | Bodily fluids                      | Appetite loss, jaundice          | Avoid sharing needles, hygiene|
+
+---
+
+## Summary Table
+
+| System           | Common Diseases         | Main Prevention                |
+|------------------|------------------------|-------------------------------|
+| Respiratory      | Cold, flu, mono        | Handwashing, vaccines         |
+| Nervous          | Meningitis             | Vaccines, hygiene             |
+| Integumentary    | MRSA, lice, chickenpox | Hygiene, vaccination          |
+| Urinary          | UTI                    | Hydration, hygiene            |
+| Reproductive     | STIs                   | Safe sex, vaccination         |
+| Digestive        | Hepatitis              | Handwashing, vaccination      |
+
+---
+
+## Key Takeaways
+
+- Infectious diseases are caused by bacteria, viruses, fungi, and parasites.
+- Transmission occurs via contact, contaminated surfaces, bites, or food/water.
+- Prevention relies on hygiene, vaccination, and safe practices.
+- Know the major organs, functions, and common diseases for each system.
+
+---
+---
 ---
 <h1>Study Guide</h1>
 <h1>(Competencies, SEL, Health & Wellness)</h1>
