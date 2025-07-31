@@ -212,7 +212,7 @@ Because kidneys are close to the body surface and protected only by fat, footbal
 
 ---
 
-# Extended Notes (Bookmark Page 11+)
+# Extended Notes (Bookmark Page 16)
 
 ## Learning Objectives
 
