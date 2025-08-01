@@ -401,6 +401,128 @@ Because kidneys are close to the body surface and protected only by fat, footbal
 - Know the major organs, functions, and common diseases for each system.
 
 ---
+
+## Learning Objectives
+
+| Objective                                                                                 |
+|-------------------------------------------------------------------------------------------|
+| Identify risk factors and effects of common noncommunicable diseases on the body.         |
+
+---
+
+## Overview: Noncommunicable (Chronic) Diseases
+
+Noncommunicable diseases, also known as chronic diseases, are responsible for approximately 40 million deaths annually—about 70% of all deaths worldwide. These conditions affect individuals across all demographic groups, religions, and countries. This lesson covers the most prevalent chronic diseases, their risk factors, and their effects on the human body.
+
+---
+
+## Chronic Disease in America
+
+| Statistic                                              | Source   |
+|--------------------------------------------------------|----------|
+| 6 in 10 adults in the U.S. have at least one chronic disease. | CDC 2019 |
+| 4 in 10 adults in the U.S. have two or more chronic diseases. | CDC 2019 |
+| Annual healthcare costs for prevention and treatment of chronic diseases: over $3.3 trillion. | CDC 2019 |
+
+---
+
+## Top Deadliest Noncommunicable Diseases
+
+| Disease Type                | Examples                                 |
+|-----------------------------|------------------------------------------|
+| Cardiovascular Disease      | Heart disease, Stroke, Hypertension      |
+| Cancer                      | Various forms                            |
+| Chronic Respiratory Disease | Chronic lung disease                     |
+| Neurological Disease        | Alzheimer’s disease                      |
+| Renal Disease               | Chronic kidney failure                   |
+| Endocrine Disease           | Diabetes                                 |
+
+---
+
+### Common Types of Heart Disease
+
+| Condition                  | Type of Heart Disease? |
+|----------------------------|:---------------------:|
+| Coronary artery disease    | ✔️                    |
+| Diabetes                   | ❌                    |
+| Hypertension               | ✔️                    |
+| Stroke                     | ✔️                    |
+
+---
+
+## Key Noncommunicable Diseases and Their Effects
+
+### Hypertension
+
+| Aspect                | Description                                                      |
+|-----------------------|------------------------------------------------------------------|
+| Definition            | A condition where the force of blood against artery walls is too high. |
+| Effects on the Body   | Can cause damage to blood vessels, increase risk of heart attack or stroke. |
+
+### Stroke
+
+| Aspect                | Description                                                      |
+|-----------------------|------------------------------------------------------------------|
+| Definition            | Damage to the brain due to interruption of its blood supply.     |
+| Effects on the Body   | May result in paralysis, speech difficulties, and cognitive impairment. |
+
+### Coronary Artery Disease (CAD)
+
+| Aspect                | Description                                                      |
+|-----------------------|------------------------------------------------------------------|
+| Definition            | Damage or disease in the heart’s major blood vessels.            |
+| Effects on the Body   | Chest pain, shortness of breath, heart attack, heart failure, arrhythmia. |
+
+### Diabetes
+
+| Aspect                | Description                                                      |
+|-----------------------|------------------------------------------------------------------|
+| Definition            | Disease of the endocrine system affecting blood sugar processing.|
+| Effects on the Body   | Increased risk of heart disease, kidney damage, nerve damage, vision problems. |
+
+---
+
+### Impact of Heart Disease in the United States
+
+| Statistic                              | Value                                |
+|-----------------------------------------|--------------------------------------|
+| Deaths per minute (heart disease event) | 1                                    |
+| Annual cost                            | $207 billion                         |
+| Preventable                            | Yes                                  |
+
+Heart disease includes several cardiovascular conditions such as coronary artery disease (CAD), stroke, and hypertension.
+
+---
+
+## Coronary Artery Disease (CAD): Details
+
+| Aspect                | Description                                                                                                        |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------|
+| Prevalence            | Most common type of heart disease in the U.S.                                                                      |
+| First Sign            | Often a heart attack                                                                                               |
+| Etiology              | Starts when factors (e.g., high blood pressure) damage the inner layers of coronary arteries.                      |
+| Pathophysiology       | Plaque buildup can rupture, causing blood clots that narrow arteries and may result in a heart attack.             |
+| Long-Term Effects     | Weakened heart muscle (heart failure), arrhythmia (irregular heartbeat).                                           |
+
+---
+
+## CAD: Risk Factors
+
+| Modifiable Risk Factors       | Non-Modifiable Risk Factors      |
+|------------------------------|----------------------------------|
+| Smoking                      | Age (risk increases after 65)    |
+| High cholesterol             | Sex (males at higher risk)       |
+| Obesity                      | Family history (heart disease, high blood pressure, obesity, diabetes) |
+| Lack of exercise             | Race (higher risk for people of African descent) |
+| Diet and alcohol consumption |                                  |
+| Stress                       |                                  |
+
+> **Tip:**  
+> Having risk factors does not guarantee you will develop cardiovascular disease. The more risk factors present, the higher the likelihood. Addressing modifiable risk factors is essential for prevention.
+
+---
+
+
 ---
 ---
 <h1>Study Guide</h1>
