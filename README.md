@@ -788,11 +788,117 @@ The five core components of physical fitness include:
 - **Flexibility** – Promotes joint mobility and reduces the risk of injury.  
 - **Body fat composition** – Supports a healthy balance between fat and lean mass for optimal function.
 
+# The FITT Principles
+
+There are four elements used to develop exercise plans to improve fitness levels in each of the five components of physical fitness. Use the acronym FITT to remember these elements:
+
+- **Frequency** is the number of days that you engage in physical activity.
+- **Intensity** is the amount of workload (resistance) of the activity (how hard you exercise).
+- **Time** is the duration of the activity measured in seconds, minutes, and hours. It may also be specified as the number of sets and repetitions.
+- **Type** describes the type of activity in which you engage, such as swimming, walking, resistance training, or stretching. Exercise plans should incorporate a variety of activities that include all five physical fitness components.
+
+---
+
+| Bookmark       | (pg[21])      |
+|------------------------------|----------------------------------|
+
+### Example Weekly Exercise Plan Using FITT Principles
+
+| FITT Element | Cardiorespiratory Fitness (Aerobic Exercises)                         | Muscular Strength and Muscular Endurance                | Flexibility                                        |
+|--------------|------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|
+| **Frequency** | 3–5 days per week                                                     | 2–3 days per week with 48 hours rest between sessions   | Most if not all days per week                      |
+| **Intensity** | Keep heart rate in the target zone: 50–70% HRMax (moderate) or 70–85% (vigorous) | Sustain sufficient resistance to fatigue muscles; last repetitions should be difficult | Sustain resistance to the point of slight discomfort |
+| **Time**     | Work at least 10 minutes at a time, for a total of 2.5 hours/week moderate or 1.25 hours/week vigorous | For general fitness, perform 3–5 sets of 5–7 repetitions | Complete 2–4 repetitions of each stretch and hold for 15–30 seconds; 10–12 repetitions for dynamic stretches |
+| **Type**     | Continuous rhythmic activities (e.g., running, walking, swimming, cycling) | Strength training exercises targeting all major muscle groups | Stretching exercises targeting all major muscle groups |
+
+<h1>Intensity Matters</h1>
+
+<h5>intensity</h5>
+<p>Frequency, time and type of activity are all self-explnatory. However, intensity needs a more in depth review. One way of moniotiring physical activity. intensity is to determeine wheather and indivual's pulse or heart rate is within the target zone during physical activity. This measurement is called target hear rate (THR) and can be measures using a digitial device or with your fingers and a clock. When you starting an exercise program, caculating a target heart rate zone (THR zone) is very benefical to ensure that you are exercisign safely and effectively.</p>
+
+<h5>Moderate  versus Vigorus and intensity</h5>
+<p>> For moderate-intesity physical activity, a person's target heart rate should be 50%-70% of his or her maximum heart rate. For vigorus-intensity physical activity, a person's target heart rate should be 70-85% of their maximum heart rate</p>
+
+<h5>Calculating THR and THR Zone</h5>
+<p>To caculate the heart rate zone by determining the maximum heart rate (MHR). An estimate of a person's maximum age-related heart rate can be obtained by subtracting the person's age from 220. (220 - age = MHR). Computer the precentage MHR for the low and high values. For examples, the MHR for a 30-year old is 190 bpm. To obtain teh moderate intesity 50%- 70% heart rate zone, multiply (190 x 0.50 = 95 bpm) for the low value and (190 x 0x70 = 133 bpm) for the high value </p>
+
+| AGE | MAXIMUM   | 50%              | 70%               | 85%               |
+|-----|-----------|------------------|-------------------|-------------------|
+| 30  | 190 bpm   | 190 x 0.50 = 95 bpm  | 190 x 0.70 = 133 bpm | 190 x 0.85 = 162 bpm |
+| 40  | 180 bpm   | 180 x 0.50 = 90 bpm  | 180 x 0.70 = 126 bpm | 180 x 0.85 = 153 bpm |
+| 50  | 170 bpm   | 170 x 0.50 = 85 bpm  | 170 x 0.70 = 119 bpm | 170 x 0.85 = 145 bpm |
+| 60  | 160 bpm   | 160 x 0.50 = 80 bpm  | 160 x 0.70 = 112 bpm | 160 x 0.85 = 136 bpm |
+
+---
+
+<h1>Physical Activity Guidelines: Children and Adolescents</h1>
+<p>The U.S Department of Health and Human Services developed recommened physcial activity guidlines to reduce the risk of chronic diseases and conditions such as obesity, heart disease, and high blood pressure. The guidelines are given on weekly basis and can be described using the FITT principles</p>
+
+<h3>Key Guidelines for School-Aged Children and Adolescents </h3>
+
+<p>it is important to provide young people oppourunityies and encouragement to paticipate in physcial activites that are appropriate for their age that are enjoyable and the offer variety</p>
+
+| Category  | Cardiorespiratory Fitness                                                                                                    | Muscular Strength and Endurance                   |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Frequency | Seven days a week (daily)                                                                                                    | Three times per week                              |
+| Intensity | Moderate (50–70% MHR) daily AND Vigorous (70–85% MHR) three times per week                                                   | Moderate                                          |
+| Time      | 60 minutes (one hour) or more                                                                                                | Incorporate into the 60 minutes of daily activity |
+| Type      | Continuous aerobic (e.g., walking, running, climbing, hiking, bicycling, swimming, basketball, football, soccer, kickboxing) | Resistance training; body weight exercises        |
+
+> Bone-Strengthening Guidelines
+
+> Tip:
+> <p>The U.S. Physical Activity Guidelines include recommendations for bone-strengthening exercise. Muscle strengthening exercises (e.g., resistance training, circuit weight training, body weight exercises) and weight-bearing exercises (e.g., walking, running) are considered bone-strengthening exercises. Bone-strengthening exercise should be part of the 60 minutes of daily physical activity performed three times per week.</p>
+
+<h1>Physical Activity Guidelines: Adults</h1>
+<p>dults should move more and sit less throughout the day. Adults who sit less and do any amount of moderate to vigorous physical activity gain some health benefits. </p>
+> "xD"
+
+| **FITT Principle** | **Cardiorespiratory Fitness / Muscular Endurance**                                                                           | **Muscle Strengthening**                                                           |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Frequency**      | Throughout the week                                                                                                          | Two times per week                                                                 |
+| **Intensity**      | Moderate (50–70% MHR) OR Vigorous (70–85% MHR)                                                                               | Moderate to vigorous intensity                                                     |
+| **Time**           | 150–300 minutes moderate intensity OR 75–150 minutes vigorous intensity                                                      | Varies based on the activities                                                     |
+| **Type**           | Continuous aerobic (e.g., walking, running, climbing, hiking, bicycling, swimming, basketball, football, soccer, kickboxing) | Resistance training; body weight exercises; should involve all major muscle groups |
+
+> More is Better
+
+> Tip:
+><p>Additional health benefits are gained by engaging in physical activity beyond the equivalent of 300 minutes (5 hours) of moderate-intensity physical activity a week.</p>
+
+| **Question**   | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Question 1** | Maya has walked the dog briskly this week for a total of two hours. She has also taken a restorative yoga class and a 30-minute Pilates (core strength training) class. <br><br>**Instructions:** Select the two activities that ensure Maya meets the physical fitness guidelines for adults.<br><br>**Options:** <ul><li>15 minutes of indoor cycling (&lt; 10 mph)</li><li>Circuit weight training machines</li><li>A 30-minute group aerobics class</li><li>Stretching before and after walking the dog</li></ul><br>**Answer:** Pilates and circuit training are muscle-strengthening activities. Adding a 30-minute aerobics class to her 120 minutes of dog walking helps her meet the weekly cardiovascular activity goal. |
+| **Question 2** | Maya also wants her children to meet the physical activity guidelines. <br><br>**Instructions:** Select three physical activity guidelines that apply to children and adolescents.<br><br>**Options:** <ul><li>Include muscle-strengthening exercise.</li><li>Participate in vigorous activities twice per week.</li><li>Exercise a minimum of 150 minutes per week.</li><li>Participate in physical activities for at least 60 minutes a day.</li><li>Be physically active every day.</li></ul><br>**Answer:** Children and adolescents should include muscle-strengthening exercise, be physically active every day, and participate in at least 60 minutes of moderate to vigorous physical activity daily. |
+| **Lesson Summary** | - The four elements of the FITT principles (Frequency, Intensity, Time, and Type) are used to develop a successful workout plan.<br>- Moderate exercise should reach 50–70% of maximum heart rate (MHR); vigorous exercise should reach 70–85% MHR.<br>- Examples of moderate-intensity activities: gardening, brisk walking, water aerobics.<br>- Examples of vigorous-intensity activities: race walking, jogging, running, jumping rope.<br>- Physical activity guidelines based on age:<br>  • Children/adolescents (6–17 years): 60+ minutes daily of moderate to vigorous physical activity including aerobic, muscle-strengthening, and bone-strengthening exercises.<br>  • Adults: 150–300 minutes per week of moderate-intensity or 75–150 minutes per week of vigorous-intensity aerobic activity, plus muscle-strengthening exercises twice per week. |
+
+<h3>Take a moment to think about what you have learned in this module:</h3>
+
+>     The five components of fitness necessary for good health include cardiorespiratory fitness, muscular strength, muscular endurance, flexibility, and body composition. 
+    The FITT principles (frequency, intensity, time, and type) are used to develop exercise plans.
+    Target heart rate zones are used to establish exercise intensity levels.
+    The physical activity guidelines are based on age. Activities include moderate and vigorous activities as well as muscle strengthening. 
+
+| Question Number | Question                                                                                  | Options                                                                                                                      |
+|-----------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| 1               | What are the five health-related components of fitness?                                  | - Power, muscular endurance, balance, body composition, and flexibility<br>- Body composition, cardiorespiratory fitness, muscular strength, muscular endurance, and balance<br>- Muscular strength, muscular endurance, agility, flexibility, and body composition<br>- Cardiorespiratory fitness, muscular strength, muscular endurance, flexibility, and body composition |
+| 2               | According to the U.S. Physical Activity Guidelines, what is an example of a vigorous physical activity? | - Brisk walking<br>- Race walking<br>- Water aerobics<br>- Gardening                                                          |
+| 3               | Which statement aligns to the U.S. Physical Activity Guidelines for school-aged children and teens? | - Lift weights every day.<br>- Exercise 30 minutes four days a week.<br>- Exercise daily.<br>- Exercise at a moderate intensity 150–300 minutes each week. |
+
+---
+
+Module 4
+
+_
+
+_
 
 ---
 ---
 <h1>Study Guide</h1>
 <h1>(Competencies, SEL, Health & Wellness)</h1>
+
+
 
 ## Competency Examples
 
