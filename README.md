@@ -522,6 +522,272 @@ Heart disease includes several cardiovascular conditions such as coronary artery
 
 ---
 
+# Module 3
+
+## Physical Activity & Fitness
+
+### Importance of Physical Activity:
+- Key for people of all ages to improve overall health.
+- Supports normal growth and development.
+- Enhances mood, energy, and sleep quality.
+- Reduces risk of chronic diseases.
+
+---
+
+### Beyond Basic Exercise:
+Not just walking, running, or weightlifting.  
+Includes activities for:
+- Muscle strength
+- Cardiorespiratory endurance
+- Muscle endurance
+- Flexibility
+- Healthy body fat composition
+
+---
+
+### Outcome of Module:
+- Understand the 5 components of physical fitness.
+- Learn physical activity guidelines.
+- Apply principles daily to improve health.
+
+---
+
+## Learning Objectives
+- Describe each component of fitness, including the benefits and example activities.
+
+> Only 1 in 3 children are physically active every day.  
+> Less than 5% of adults participate in 30 minutes of physical activity each day.  
+> More than 80% of adults do not meet the physical fitness guidelines.  
+
+Do these statistics apply to you or your family?  
+You already know that exercise is good for you. What you may not know is exactly what qualifies as exercise. In this lesson, you will learn about the five components of physical activity:  
+**cardiorespiratory fitness, muscular strength, muscular endurance, flexibility, and body composition.**
+
+---
+
+## Physical Fitness: What and Why
+The definition of physical fitness is to perform daily tasks without injury or fatigue.  
+Physical fitness is not the same as exercise. Exercise is a form of physical activity that is planned, structured, and repetitive, performed with the goal of improving health or fitness.  
+
+In other words:
+> All exercise is physical activity, but not all physical activity is exercise.
+
+---
+
+## Five Components of Fitness
+As previously mentioned, physical fitness is more than just exercise.  
+This lesson will review the description, benefits, and activity examples of the five components of fitness:
+
+1. Cardiorespiratory fitness
+2. Muscular strength
+3. Muscular endurance
+4. Flexibility
+5. Body composition
+
+---
+
+## Additional Fitness Components
+**Tip:**  
+In addition to the general five components of fitness, exercise and sports professionals may refer to other components of fitness that relate to specific sports performance.  
+
+These are called skill-related components and include:  
+- Power  
+- Speed  
+- Agility  
+- Balance  
+- Coordination
+
+---
+
+## Cardiorespiratory Fitness
+The first component that most people associate with being physically fit is cardiorespiratory fitness.  
+Cardiorespiratory fitness is the ability to perform large-muscle, whole-body exercise at moderate to vigorous intensities for extended periods of time.  
+
+Cardiovascular fitness may also be referred to as **aerobic activities** because it requires the heart to supply the body with oxygen.  
+The difference between this component and the others is that these activities can be sustained over a long time and improve the fitness of the heart and lungs.
+
+---
+
+### Benefits of Cardiovascular Fitness
+Cardiovascular fitness helps the heart and lungs and reduces the risk of chronic diseases.  
+The benefits of cardiovascular fitness, in conjunction with a healthy diet, include:
+- Weight control and a reduced risk of obesity
+- Reduced risk of cardiovascular disease, type 2 diabetes, and some cancers
+- Reduced blood pressure
+- Improved mood, self-esteem, sleep, and blood cholesterol levels
+
+---
+
+### Types of Activities
+The following activities help you achieve cardiovascular fitness:
+1. Walking briskly
+2. Running or jogging
+3. Dancing
+4. Swimming
+5. Biking
+6. Climbing stairs at work
+7. Playing sports such as tennis, basketball, soccer, or racquetball
+8. Using an elliptical trainer or a stair-stepping machine
+
+---
+
+## Muscular Strength
+If you have ever been to a gym or fitness center, you have probably seen people lifting weights or using strength-building machines.  
+They are improving a component of fitness called **muscular strength.**
+
+Muscular strength is the amount of force a muscle group can produce. It is usually measured by the maximum amount of force produced in a single effort.  
+In other words, it is how much weight you can lift, push, or pull one time.
+
+---
+
+### Benefits of Muscular Strength
+You do not have to be an athlete or a bodybuilder to benefit from muscular strengthening activities.  
+Incorporating any type of resistance activity into an exercise plan can:
+- Improve muscle strength, posture, and ease of movement
+- Improve the ability to perform everyday activities
+- Strengthen tendons, ligaments, and bones
+- Decrease the risk of falls and injury
+
+---
+
+### Examples of Activities
+Strengthening exercises work a single muscle or small group of muscles as they move against resistance.  
+This resistance can come from a number of sources:
+1. Workout machines  
+2. Free weights or barbells  
+3. Elastic (resistance) bands  
+4. Stairs, hills, and inclines  
+5. Objects of higher weight (e.g., water, groceries)  
+6. Bodyweight exercises (e.g., push-ups, pull-ups, squats)  
+
+---
+
+### Bodyweight Exercises
+**Tip:**  
+Activities that require you to push or pull your body against gravity (e.g., push-ups, pull-ups, squats without weights) require muscle strength.  
+
+The muscles in your arms and back push against the force of gravity to move your body, hence the reason these are called **bodyweight exercises.**
+
+[Not mentioned but remember weighted calisthenics!]
+
+---
+
+## Muscular Endurance
+As you learned in the previous section, muscle strength is the ability to exert a maximal amount of force for a short period of time.  
+However, there are activities, such as skiing and walking uphill, that require specific muscle groups to work for longer periods of time.  
+These activities fall into the category of **muscular endurance.**
+
+---
+
+### Benefits of Muscular Endurance
+The benefits of muscular endurance are similar to those of cardiorespiratory fitness and include:
+1. Improving heart health  
+2. Aiding in weight loss  
+3. Improving mood and sleep quality  
+4. Preventing age-related decline  
+5. Increasing life span  
+
+---
+
+### Muscular Endurance Activities
+Muscular endurance activities are sustained over a period of time.  
+The following list of activities is a combination of cardiorespiratory activities and muscular strength activities:
+1. Sustained walking, jogging, and running  
+2. Cycling and swimming  
+3. Resistance training with bands (lower weight and more repetitions)  
+4. Circuit training  
+5. Aerobics, kickboxing, and dance  
+6. Rope climbing  
+7. HIIT (high-intensity interval training)
+
+---
+
+### Muscular Endurance versus Cardiovascular Endurance
+**Tip:**  
+Muscular endurance activities benefit a muscle or small group of muscles.  
+Cardiorespiratory fitness activities benefit the heart and lungs.
+
+---
+
+## Flexibility
+Flexibility is one component of physical fitness that is often ignored.  
+Most people think that flexibility only involves the muscles.  
+
+In actuality, however, flexibility refers to the movement of the joints.  
+The definition of flexibility is the ability of the joints to move through their full range of motion.
+
+Flexibility is an important part of physical fitness because it:
+- Allows the muscles to work at their full potential
+- Reduces the risk of injury and pain
+- Improves posture and balance
+
+---
+
+### Examples of Activities
+Flexibility activities can be performed before or after an exercise session or can be a standalone activity.  
+Examples include:
+1. Stretching (static, dynamic, isostatic)  
+2. Yoga  
+3. Tai Chi  
+4. Pilates  
+
+---
+
+## Body Composition
+Body composition is a special term used in physical fitness that involves measuring the percentage of fat, muscle, water, and bone found in the human body.  
+
+Body composition is expressed as the ratio of fat mass to fat-free mass.  
+
+**Formula:**  
+`Total body weight = lean body mass (water, bone, muscle, and organs) + fat mass`
+
+---
+
+### Methods to Determine Body Composition
+- Bioelectrical impedance (found in some bathroom scales)  
+- Skinfold thickness measurements (with calipers)  
+- Dual-energy X-ray absorptiometry (DXA)  
+- Underwater weighing  
+
+---
+
+### Benefits of a Good Body Composition
+Excess fat increases the risk of chronic diseases such as diabetes and heart disease.  
+The benefits of maintaining a healthy amount of body fat include:
+1. Decreased risk of type 2 diabetes, hypertension, and heart disease  
+2. Increased functional ability (i.e., being able to move and exercise more freely)  
+3. A better calorie-burning metabolism throughout the day  
+4. A lean and toned body  
+
+---
+
+### Instructions
+Match the name of the physical fitness component to its matching description.  
+
+<img width="486" height="360" alt="image" src="https://github.com/user-attachments/assets/d2f3776a-e295-47bf-851a-f50ddbdab721" />
+
+
+1. Flexibility is the range of motion of a joint. Flexibility improves posture and balance, reduces injuries, and decreases pain during movement.  
+2. Muscular endurance is the ability of a group of muscles or a specific muscle to work for a period of time. Examples include sustained walking, cycling, and resistance training.  
+3. Muscular strength is the amount of force produced by the muscles. It is often measured by how much weight you can lift, push, or pull.  
+4. Cardiorespiratory fitness is the ability to perform large-muscle, whole-body exercises at moderate to vigorous intensities for extended periods of time.  
+5. A lower body fat composition reduces the risk of chronic diseases.  
+
+---
+
+## Lesson Summary
+You should be able to clearly explain each component of physical fitness, along with its benefits and example activities.
+
+Physical fitness is a state of overall health and well-being, characterized by the ability to effectively perform sports, occupational tasks, and daily activities.  
+Engaging in regular physical activity and exercise supports weight management and significantly reduces the risk of various chronic diseases.
+
+The five core components of physical fitness include:
+- **Cardiorespiratory fitness** – Enhances heart and lung efficiency for sustained activity.  
+- **Muscular strength** – Improves the ability to exert force.  
+- **Muscular endurance** – Increases the capacity to perform repeated movements over time.  
+- **Flexibility** – Promotes joint mobility and reduces the risk of injury.  
+- **Body fat composition** – Supports a healthy balance between fat and lean mass for optimal function.
+
 
 ---
 ---
