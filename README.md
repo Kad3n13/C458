@@ -891,6 +891,148 @@ There are four elements used to develop exercise plans to improve fitness levels
 
 <h1>Module 4<h1/>
 
+<p>in this module, you should be able to identify recommendations for personal care and prevention of unintentional injuries.</p>
+<h3>Why Pracftice Good Hygine</h3>
+<p>Practicing good hygiene reduces the risk of infectious dieseases from germs such as bacteria, parasites, viruses, and fungi. In this lesson you will review the personal hygiene recommendtations for adults adolescents and children</p>
+
+<h1>Recommendations of Good Hygiene (Children, Teens, Adults)</h1>
+<p>it is important to practice good health habits of proper hygiene in ordcer to avoiud the onset and spread of infectious diseases. To develop good hygiene habits, there are many recommendatiopns to follow, such as bathing, taking care of the mouth hair, and nails, and using toilets</p>
+
+<h3>Personal Hygiene Recommendations</h3>
+---
+# Personal Hygiene Recommendations
+
+Answer the following questions to see how much you already know about the recommendations for personal hygiene. Then review the table outlining a summary of recommendations for all the guidelines.
+
+---
+> <h1>Questions</h1>
+## Instructions
+Identify the examples of good personal hygiene. **Choose all that apply.**
+
+- [x] Washing your hands with soap and water  
+- [ ] Exercising every day  
+- [x] Washing clothes  
+- [x] Brushing your teeth twice a day  
+- [x] Trimming your hair and nails  
+- [x] Bathing or showering regularly  
+
+# Toilet Cleaning Recommendations
+
+The toilet provides ideal conditions for germs to grow.  
+
+---
+
+## Instructions
+Identify four techniques to properly clean a toilet.  
+
+- [x] Use a toilet brush  
+- [x] Close the lid when flushing  
+- [ ] Wipe the seat with toilet paper before use  
+- [x] Wipe down the handle, seat, and lid with disinfectant  
+- [x] Use seat sanitizer  
+
+---
+
+These are all good examples of how to keep a toilet clean and avoid spreading bacteria.  
+
+# Handwashing Recommendations
+
+Having clean hands is the best way to reduce the risk of getting sick.
+
+---
+
+## Instructions
+Select five situations after which you should clean your hands.
+
+- [x] Coughing or sneezing  
+- [x] Treating an open wound  
+- [x] Using the restroom  
+- [x] Handling animals  
+- [ ] Typing on your keyboard  
+- [x] Preparing food  
+
+---
+
+Washing your hands after these activities will help you reduce the risk of becoming sick.  
+
+# Facial Hygiene and Ear Care
+
+Facial hygiene includes the ears. The ears are sensitive small organs of hearing and balance in mammals.
+
+---
+
+## Instructions  
+Identify the object that is appropriate to use to clean your ears.
+
+- [ ] Pencil eraser  
+- [ ] Cotton balls  
+- [x] Nothing  
+- [ ] Cotton swabs  
+
+---
+
+Placing small items in your ears can lead to damage. Review the recommendations for ear cleaning.  
+
+# Oral Hygiene Recommendations
+
+Oral hygiene is an important part of overall good health. It involves keeping the teeth, mouth, and gums healthy to prevent infection and diseases of the mouth.
+
+---
+
+## Instructions  
+Identify five recommendations to maintain proper oral health.
+
+- [x] Drinking water with fluoride  
+- [x] Flossing on a regular basis  
+- [x] Brushing your teeth on a regular basis  
+- [x] Getting an annual dental exam  
+- [x] Using fluoride toothpaste  
+- [ ] Rinsing with water after drinking soda  
+- [ ] Avoiding between-meal snacking  
+
+---
+
+
+These are key steps to maintaining proper oral health.  
+
+# Toothbrush Replacement Recommendation
+
+How often should you change your toothbrush?
+
+---
+
+## Instructions  
+Select the correct term to complete the recommendation.
+
+You should replace your toothbrush every **three months** (four times a year).
+
+---
+
+You should replace your toothbrush four times a year.  
+
+# Causes of Acne
+
+What causes acne?
+
+---
+
+## Instructions  
+Select the correct term to complete the sentence.
+
+Acne is caused by **pores becoming clogged with bacteria and dead skin cells**.
+
+---
+
+ 
+Acne occurs when pores become clogged with bacteria and dead skin cells.
+---
+
+
+
+
+---
+
+
 _
 
 _
