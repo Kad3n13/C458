@@ -1047,6 +1047,44 @@ Acne occurs when pores become clogged with bacteria and dead skin cells.
 >TIP:
 > <p>Everyone has bad breath (halitosis) at some point in their life. Many of the tips for keeping your mouth healthy are the same as the tips for stopping bad breath, such as brushing and flossing. To prevent bad breath, it is also important to decrease your consumption of sugary foods and drinks and have your teeth cleaned by a dental hygienist at least twice a year.</p>
 ><h1>have your teeth cleaned by a dental hygienist at least twice a year</h1>
+
+<h1>Special Recommendations for Adolescents</h1>
+
+<h3>Daily Bathing</h3>
+<p>Sweating is a natural function that helps cool the body. Sweat production increases with the onset of puberty. It is recommended to take a daily shower, ensuring that all body parts are washed, and use deodorants or antiperspirants.</p>
+
+<h3>Acne Treatment</h3>
+<p>Many teens experience acne during their teenage years due to changing hormones and an increase in certain bacteria. Acne occurs when pores get clogged with bacteria and dead skin cells. Acne treatments include washing the face twice daily with a mild cleanser, using over-the-counter acne medications, using doctor-prescribed medications, avoiding oil-based makeups, and limiting the consumption of fried foods.</p>
+
+<h3>Hair Care</h3>
+<p>Good nutrition, physical activity, sun protection, and other healthy habits can help your hair be healthy. Take caution when using blow dryers and curling irons, as they can damage the hair. If your hair is oily, it should be washed on a daily basis with an oil-free shampoo. Those with dry hair should wash less frequently and use a conditioning rinse after shampooing.</p>
+
+<h1>Lesson Summary</h1>
+
+<p>Now that you have completed this lesson, you should be able to identify personal hygiene recommendations for children, adolescents, and adults. Take a moment to think about what you have learned in this lesson:</p>
+
+<h2>Lesson Summary</h2>
+
+<p>Now that you have completed this lesson, you should be able to identify personal hygiene recommendations for children, adolescents, and adults.</p>
+
+<ul>
+  <li>Know the hygiene recommendations for:
+    <ul>
+      <li>Bathing</li>
+      <li>Using the toilet</li>
+      <li>Handwashing</li>
+      <li>Taking care of the nails, hair, ears, eyes, and mouth</li>
+    </ul>
+  </li>
+  <li>Special recommendations for adolescents include:
+    <ul>
+      <li>Showering daily and using deodorants or antiperspirants</li>
+      <li>Washing the face daily and avoiding oil-based makeup and fried foods to prevent clogged pores and acne</li>
+      <li>Washing oily hair daily; washing dry hair less frequently while also using a conditioning rinse</li>
+    </ul>
+  </li>
+</ul>
+
 ---
 
 
