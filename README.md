@@ -1085,7 +1085,264 @@ Acne occurs when pores become clogged with bacteria and dead skin cells.
   </li>
 </ul>
 
+<h1>Learning Objectives</h1>
+> Identify methods to prevent and respond to unintentional injuries.
+
+<p>Injuries and violence affect everyone, regardless of age, race, or economic status. In the first half of life, more Americans die from violence and injuries—such as motor vehicle crashes, falls, or homicides—than from any other cause, including cancer, HIV, or the flu. This makes injury the leading cause of death among persons aged 1–44.1 In this lesson, you will learn how to prevent unintentional injuries from drowning, poisoning, fires, and falls and how to respond should an injury occur.</p>
+
+<h2>Drowning</h2>
+<p>Each day, about 10 people in the U.S. die from unintentional (accidental) drowning. The highest drowning rates are among children one to four years of age. Drowning is the fifth leading cause of unintentional injury death for people of all ages. </p>
+
+<h3>Key Prevention Tips</h3>
+<p>According to the CDC, the four most important actions that can help prevent drowning include the following:</p>
+<ul>
+  <li>1 Learn life-saving skills. Everyone should know the basics of swimming (i.e., floating, moving through the water) and how to perform cardiopulmonary resuscitation (CPR).</li><li>2 Fence it off. Install a four-sided isolation fence, with self-closing and self-latching gates, around backyard swimming pools. </li>
+  
+  <li>3 Make life jackets a must. Make sure children wear life jackets in and around natural bodies of water, such as lakes or the ocean, even if they know how to swim. Adults who are weaker swimmers or in a watercraft should also use life jackets. </li>
+  
+  <li>Be on the lookout. When kids are in or near water (including bathtubs), closely supervise them at all times. Because drowning happens quickly and quietly, adults watching kids in or near water should avoid distracting activities like playing cards, reading books, talking on the phone, and using alcohol or drugs.</li>
+</ul>
+
+<h3>Poison</h3>
+<p>Every 14 seconds, someone calls a poison control center. A child ingesting any more than a taste of hand sanitizer could be at risk for alcohol poisoning. This year, poison control centers have managed 5,700 cases related to laundry detergent packet exposure in children five and younger. A poison is any substance, including medications, that is harmful to the body if too much is eaten, inhaled, injected, or absorbed through the skin.  </p>
+
+<h3>Sources of Poisons</h3>
+<p>It’s not just chemicals in your home marked with clear warning labels that can be dangerous to children. Everyday items in your home, such as household cleaners and medicines, can be poisonous to children as well. Medication dosing mistakes and unsupervised ingestion are common ways that children are poisoned. Active, curious children will often investigate—and sometimes try to eat or drink—anything that they can get into.</p>
+
+<h3>Key Prevention Tips</h3>
+> Use these tips to poison-proof your home and school to protect children.
+
+<ul>
+  <li>Lock poisons up and away. Keep medicines and toxic products, such as cleaning solutions and detergent pods, in their original packaging where children can't see or get them.</li>
+  
+  <li>Know the number. Put the nationwide poison control center phone number on or near every telephone, and program it into your cell phone. Call the poison control center if you think a child has been poisoned but is awake and alert. Call 911 if there is a poison emergency and the child has collapsed or is not breathing.</li>
+  
+  <li>Read the label. Follow label directions carefully and read all warnings when giving medicines to children.</li>
+  
+  <li>Don't keep it if you don't need it. Safely dispose of unused, unneeded, or expired prescription drugs and over-the-counter drugs, vitamins, and supplements. To dispose of medicines, turn them in at a local take-back program or during National Drug Take-Back events. If you cannot find a program, mix them with coffee grounds or kitty litter and throw them away.</li>
+
+</ul>
+
+<h3>Fires and Burns</h3>
+<p>Fortunately, deaths due to fires have declined over the past few years, which is likely because of the increased use of smoke alarms as well as education programs about what to do if you are in a fire. However, over 300 children ages 0 to 19 are treated in emergency rooms every day for burn-related injuries, and two children die as a result of being burned.</p>
+
+<h3>Key Prevention Tips</h3>
+> The CDC provides the following steps to prevent burns from fires and scalding.
+
+<ul>
+  
+  <li>Be "alarmed." Install and maintain smoke alarms in your home on every floor and near all rooms that family members sleep in. Test your smoke alarms once a month to make sure they are working properly. Use long-life batteries when possible.</li>
+  
+  <li>Have an escape plan. Create and practice a family fire escape plan, and involve children in the planning. Make sure everyone knows at least two ways out of every room. Identify a central meeting place outside.</li>
+  
+  <li>Cook with care. Use safe cooking practices. For example, never leave food unattended on the stove. Additionally, supervise or restrict children's use of stoves, ovens, and especially microwaves.</li>
+  
+  <li>Check the water heater temperature. Set your water heater's thermostat to 120 degrees Fahrenheit or lower. Infants and small children may not be able to get away from water that may be too hot. Maintaining a constant thermostat setting can help control the water temperature throughout your home, preventing it from getting too high. Test the water at the tap if possible.</li>
+  
+</ul>
+
+> <h3>Younger versus Older Children</h3>
+
+>TIP:
+> <p>Younger children are more likely to sustain injuries from scald burns that are caused by hot liquids or steam. Older children are more likely to sustain injuries from flame burns that are caused by direct contact with fire.</p>
+
+<h3>Falls</h3>
+<p>Falls are the leading cause of non-fatal injuries for all children ages 0 to 19. Every day, approximately 8,000 children are treated in U.S. emergency rooms for fall-related injuries. This adds up to almost 2.8 million children each year.</p>
+
+<h3>Key Prevention Tips</h3>
+<p>The CDC provides the following tips to protect children from unintentional falls and injuries on the playground.</p>
+
+<ul>
+  
+  <li>Play safely. Falls on the playground are a common cause of injury. Check to make sure that the surfaces under playground equipment are safe and soft and consist of appropriate materials (such as wood chips or sand, not dirt or grass). The surface materials should be well-maintained and appropriately deep.</li>
+  
+  <li>Make your home safer. Use home safety devices, such as guards on windows that are above ground level, stair gates, and guard rails. These devices can help keep a busy, active child from falling.5</li>
+  
+</ul>
+
+<h1>Biking and Skateboarding</h1>
+
+<h3>Biking Safety</h3>
+
+<p>Bicycle falls account for only 1% of all falls in the United States. However, bicyclists face a higher risk of crash-related injuries and deaths than occupants in motor vehicles.</p>
+
+<h3>Key Prevention Tips for Biking</h3>
+<p>In 2015, in the United States, over 1,000 bicyclists died, and there were almost 467,000 bicycle-related injuries. These bicycle-related injuries and deaths can be prevented.</p>
+
+<h3>Bicycle Helmets and Helmet Laws</h3>
+<p>Bicycle helmets reduce the risk of head and brain injuries in the event of a crash. All bicyclists, regardless of age, can help protect themselves by wearing properly fitted bicycle helmets every time they ride. When purchasing a helmet, make sure it is approved by the Consumer Product Safety Commission. Following bicycle helmet laws and increasing helmet use reduces the number of crash-related injuries and deaths among children and adults.</p>
+
+<h3>Active Lighting and Rider Visibility</h3>
+
+> Use the following tips to increase visibility when cycling.
+
+<ul>
+  
+  <li>Fluorescent clothing can make bicyclists visible from further away than regular clothing during the daytime.</li>
+  
+  <li>Retro-reflective clothing can make bicyclists more visible at night.</li>
+  
+  <li>Active lighting can include front white lights, rear red lights, or other lighting on the bicycle or bicyclist. This lighting may improve the visibility of bicyclists</li>
+  
+</ul>
+
+
+<h3>Skateboarding Safety</h3>
+<p>Before using the skateboard, ensure it is checked for safety. Wear a helmet, knee and elbow pads, and wrist guards. Non-slippery shoes are also a good idea so that you can have better control of your board.</p>
+
+
+<h3>Skateboarding Helmets</h3>
+<p>It's important to use helmets that are approved by one of the groups that test helmets. The Snell B-95 standard is best for skateboarding helmets</p>
+
+<h1>Responding to an Injury</h1>
+<p>Accidents happen, and some are more serious than others. Calling 911 should be reserved for life-threatening emergencies. In these cases, if help cannot arrive in time, you may be able to save someone's life. Cardiopulmonary resuscitation (CPR), for example, is used to help people whose hearts or breathing have stopped. The choking maneuver is used on people who have choked on something.</p>
+
+<h3>Responding to Minor Injuries</h3>
+<p>You can also learn to handle common injuries and wounds. Cuts and scrapes, for example, should be rinsed with cool water. To stop bleeding, apply firm but gentle pressure using gauze. If blood soaks through, add more gauze, keeping the first layer in place. Continue to apply pressure.</p>
+
+<h3>First Aid Kit</h3>
+<p>It is important to have a first aid kit available. Keep one at home and one in your car. It should include a first-aid guide. Since each first aid kit has different types of items, read the guide in the first aid kit to learn how to use the items in case an emergency happens</p>
+
+<h3>CPR</h3>
+> When someone's blood flow or breathing stops, seconds count. Permanent brain damage or death can transpire quickly.
+
+<h3>Hands-only CPR</h3>
+<p>If an adult or adolescent suddenly collapses and is still breathing, you can do "hands-only" CPR, even if you have not had training. "Hands-only" CPR uses chest compressions to keep blood circulating until emergency help arrives.</p>
+
+<h3>Conventional CPR</h3>
+<p>The American Heart Association recommends conventional CPR (that is, CPR with a combination of breaths and compressions) for all infants and children, for adult victims who are found already unconscious and not breathing normally, and for any victims of drowning or collapse due to breathing problems (American Heart Association, 2019).</p>
+
+## Preventing and Responding to Unintentional Injuries
+
+### Question 1:
+**Which strategy is recommended to prevent children from drowning?**
+
+- [ ] Put a child gate at the pool entrance.  
+- [x] Put life jackets on all children.  
+- [ ] Learn how to use a defibrillator.  
+- [ ] Take a lifeguarding course.  
+
+
+To prevent drowning, make sure children wear life jackets in and around natural bodies of water, such as lakes or oceans, even if they know how to swim.  
+Other tips include:  
+- Learning lifesaving skills  
+- Installing fences around the pool  
+- Supervising children around water  
+
+### Question 2:
+**A child is sitting next to a bottle of chewable vitamins that has been opened. The child is alert and awake. What should you do?**
+
+- [ ] Call the doctor.  
+- [ ] Call the emergency room.  
+- [ ] Call 911.  
+- [x] Call the poison control center.  
+
+
+Call the poison control center if you think a child has been poisoned but is awake and alert.  
+
+**Prevention tips:**
+- Put medications and poisonous materials out of the reach of children.  
+- Dispose of medications by mixing them with coffee grounds or kitty litter before throwing them away.  
+- Read the label and follow directions when giving medications to children.  
+
+### Question 3:
+**Smoke alarms in the home can help save lives and prevent burns from fires. How often should you test the smoke alarms to ensure they are working properly?**
+
+- [x] Monthly  
+- [ ] Four times a year  
+- [ ] Every other month  
+- [ ] Every six months  
+
+
+Test your smoke alarms **once a month** to make sure they are working properly.  
+
+**Additional tips:**
+- Use long-life batteries when possible and change the batteries twice a year.  
+- Create an escape plan in case of fire.  
+- Supervise children while cooking.  
+- Never leave food unattended on the stove.  
+- Set the water heater’s thermostat to **120°F** to prevent burns.  
+
+### Question 4:
+**Helmets can reduce the risk of head and brain injuries in the event of a crash. Who should wear helmets when biking or skateboarding?**
+
+- [ ] Children under the age of 10  
+- [x] Adults and children  
+- [ ] Children under the age of 12  
+- [ ] Children under the age of 18  
+
+
+Regardless of age, **all bicyclists** can help protect themselves by wearing properly fitted bicycle helmets every time they ride.  
+
+**Additional tips:**
+- Ensure helmets are approved by the **Consumer Product Safety Commission (CPSC)**.  
+- Replace helmets after a crash or if damaged.  
+- Make sure helmets fit snugly and sit level on the head.  
+
+### Question 5:
+**An adult has collapsed in your house. It may be a heart attack. You have not been trained in CPR. What is the first step you should take?**
+
+- [x] Call 911.  
+- [ ] Go next door to find help.  
+- [ ] Make the person comfortable.  
+- [ ] Administer chest compressions.  
+
+
+The first step is to **call 911** or designate someone else to call 911.  
+
+**Additional tips:**
+- After calling 911, administer chest compressions at a rate of **100–120 compressions per minute** until help arrives.  
+- Follow the dispatcher's instructions if given.  
+- If trained, provide rescue breaths along with compressions.  
+
+<h2>Lesson Summary</h2>
+
+<p>Now that you have completed this lesson, you should be able to identify methods to prevent and respond to unintentional injuries. Take a moment to think about what you have learned in this lesson:</p>
+
+<ul>
+  <li>Unintentional injuries from drowning, burns, falls, and bike and skateboard crashes are preventable.</li>
+  <li>Prevent children from drowning by:
+    <ul>
+      <li>Using life jackets</li>
+      <li>Teaching children how to swim</li>
+      <li>Supervising children around bodies of water</li>
+      <li>Putting up barriers around pools</li>
+    </ul>
+  </li>
+  <li>Prevent burns from fires by:
+    <ul>
+      <li>Installing fire alarms</li>
+      <li>Supervising children around the stove</li>
+      <li>Havi
+
+
+<h2>Module Summary</h2>
+
+<p>Take a moment to think about what you have learned in this module:</p>
+
+<ul>
+  <li>To avoid infectious diseases, follow the recommendations for:
+    <ul>
+      <li>Bathing</li>
+      <li>Using the toilet</li>
+      <li>Handwashing</li>
+      <li>Taking care of the nails, hair, ears, eyes, and mouth</li>
+    </ul>
+  </li>
+  <li>Unintentional injuries such as drowning, burns, falls, and injuries from bike and skateboard crashes are preventable. Prevention techniques include:
+    <ul>
+      <li>Ensuring the house and playground are safe</li>
+      <li>Installing fire alarms</li>
+      <li>Using helmets and safety equipment</li>
+      <li>Supervising children</li>
+    </ul>
+  </li>
+  <li>Have a first aid kit available for minor injuries.</li>
+</ul>
+
+
 ---
+
 
 
 _
