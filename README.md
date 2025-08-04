@@ -1027,9 +1027,26 @@ Acne is caused by **pores becoming clogged with bacteria and dead skin cells**.
 Acne occurs when pores become clogged with bacteria and dead skin cells.
 ---
 
+| Category              | Recommendations                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| **Bathing hygiene**   | - Bathe or shower with soap and water daily.<br>- If you are not able to bathe, wash with a hand towel.<br>- Wash all body parts, including armpits, groin, neck, belly, knees, elbows, back, and feet. |
+| **Toilet hygiene**    | - Clean and disinfect the toilet and toilet brush regularly.<br>- Shut the toilet lid prior to flushing.<br>- Use a seat sanitizer to remove germs. |
+| **Handwashing hygiene** | - Wash hands and nails with soap and water for 20 seconds.<br>- Wash hands before, during, and after food preparation and eating.<br>- Wash hands before and after treating an open wound or helping someone with an illness.<br>- Wash hands before and after using the restroom.<br>- Wash hands after handling animals.<br>- Wash hands after blowing your nose, coughing, or sneezing.<br>- Use alcohol hand sanitizer along with hand washing. |
+| **Nail hygiene**      | - Wash and trim your fingernails on a regular basis.<br>- Keep nails short.<br>- Use a brush to scrub the underside of nails.<br>- Sterilize nail grooming tools.<br>- Avoid cutting, biting, or ripping the cuticle. |
+| **Hair hygiene**      | - Wash hair and scalp with soap or shampoo at least weekly. |
+| **Ears**              | - Keep the ears dry.<br>- Do not put objects in your ears (cotton swabs or cotton balls).<br>- Avoid the removal of ear wax to prevent infections. |
+| **Eyes**              | - Visit the eye doctor at least once per year.<br>- Replace contact lenses often.<br>- Do not sleep in contact lenses unless prescribed.<br>- Clean contact case with solution daily.<br>- Remove contacts before showering, swimming, or hot tubs.<br>- Only use fresh disinfecting solution. |
+| **Dental hygiene (Children & Adolescents)** | - Get a dental exam every six months.<br>- Floss at least once a day.<br>- Avoid frequent between-meal snacking.<br>- Brush after eating.<br>- Brush twice a day using a soft-bristled toothbrush.<br>- Brush for about two minutes.<br>- Replace your toothbrush every 3–4 months. |
+| **Dental hygiene (Adults)** | - Avoid tobacco products.<br>- Limit alcohol consumption. |
+| **Dental hygiene (Children & Babies)** | - Use a small amount of fluoride toothpaste for children under seven years.<br>- Babies should have their first dental appointment within six months of their first tooth or by 12 months of age. |
+| **Female-specific hygiene** | - Use soap and water to clean the external genital area.<br>- Avoid the use of douches.<br>- During menstruation, wash the body as usual.<br>- Change tampons and sanitary napkins 4–5 times per day. |
+| **Male-specific hygiene** | - Use soap and water to clean the genital area.<br>- If uncircumcised, pull back the foreskin and clean with water to remove secretions. |
 
+> <h3>Bad breath</h3>
 
-
+>TIP:
+> <p>Everyone has bad breath (halitosis) at some point in their life. Many of the tips for keeping your mouth healthy are the same as the tips for stopping bad breath, such as brushing and flossing. To prevent bad breath, it is also important to decrease your consumption of sugary foods and drinks and have your teeth cleaned by a dental hygienist at least twice a year.</p>
+><h1>have your teeth cleaned by a dental hygienist at least twice a year</h1>
 ---
 
 
@@ -1037,7 +1054,6 @@ _
 
 _
 
----
 ---
 <h1>Study Guide</h1>
 <h1>(Competencies, SEL, Health & Wellness)</h1>
