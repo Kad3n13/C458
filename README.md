@@ -1339,9 +1339,47 @@ The first step is to **call 911** or designate someone else to call 911.
   </li>
   <li>Have a first aid kit available for minor injuries.</li>
 </ul>
+## Module Quiz
 
+### Question 1 of 3
+**Which oral hygiene recommendation can prevent tooth decay?**
+
+- [ ] Brush your teeth and floss twice a day.  
+- [ ] Brush your teeth three times a day for about three minutes.  
+- [x] Brush your teeth twice a day for about two minutes.  
+- [ ] Brush your teeth after every meal for about one minute.  
+
+
+Brushing your teeth **twice a day for about two minutes** is the recommended way to prevent tooth decay.
 
 ---
+
+### Question 2 of 3
+**How should you dispose of unused medications?**
+
+- [ ] Flush them down the toilet.  
+- [ ] Wash them down the sink.  
+- [ ] Place them in a plastic bag and throw away.  
+- [x] Bring them to a take-back program.  
+
+
+Unused medications should be brought to a **take-back program** to ensure safe and environmentally friendly disposal.
+
+---
+
+### Question 3 of 3
+**Which strategy can prevent a child from drowning?**
+
+- [ ] Use a flotation belt.  
+- [ ] Have a life-saving ring available.  
+- [x] Use a life jacket.  
+- [ ] Put floaties on the child's arms.  
+
+
+Children should **wear life jackets** around natural bodies of water to prevent drowning. Supervision and pool barriers are also recommended.
+---
+<h1>Module 5</h1>
+> <h1>BOOKMARK(pg)[29]</h1>
 
 
 
