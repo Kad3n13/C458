@@ -1381,8 +1381,453 @@ Children should **wear life jackets** around natural bodies of water to prevent 
 <h1>Module 5</h1>
 > <h1>BOOKMARK(pg)[29]</h1>
 
+<h1>Learning Objectives<</h1>
+> identify the sleep stages and cycles.
+
+<p> Sleep is an important part of your daily routine you spend about one third of your time doing it. Quality sleep and getting enough of it at the right times is an essential to surival as food and water. Without sleep you can't form or maintain the pathwas in your brain that let you learn and create new memories. it's also harder to concentrate and respond quickly in this lesson, you will learn about the two methods your body uses to control the amount of time you are asleep and awake and what happens to your brain and body while you sleep </p>
+
+<h3>sleep wake cycles </h3>
+<p>if you've ever traveled to a different time zone and felt "jet-lagged," you can blame it on your internal clock. That's right your body is a virtual 24 hour clock that controls when you are awake and when your body is ready for sleep. Most people notice that they naturally experience diffrenet levels of sleepiness and alertness throughout the day, but the what causes these patterns? there are two internal biological mechanism homeostasis and circadian ryhtem that work tegoether to regulate when you are awake and sleep </p>
+
+<h3>Homeostasis</h3>
+<p>Homeostasis literally means "stable body." It is the automatic process the body uses to remain internally stable while adjusting to conditions. For example, if you don't drink fluids throughout the day, you would start to feel thirsty, which is your body's mechanism to trigger you to drink. How does homeostasis work with the sleep-wake cycle? Sleep-wake homeostasis keeps track of the body's need for sleep. The homeostatic sleep drive reminds the body to sleep after a certain time and regulates sleep intensity. This sleep drive gets stronger every hour you are awake and causes you to sleep longer and more deeply after a period of sleep deprivation.</p>
+
+<h3>Circadian Rhythms</h3>
+<p>Your body has several internal clocks, called circadian clocks. These typically follow a 24-hour repeating rhythm called the circadian rhythm. Your central circadian clock, located in your brain, tells you when it is time for sleep. Other circadian clocks are located in organs throughout your body. Your body's internal clocks are in sync with certain cues in the environment. For example, light signals received through your eyes tell a special area in your brain that it is daytime. This area of your brain helps align your body clock with periods of the day and night. Light, darkness, and other cues help determine when you feel awake and when you feel drowsy. The rhythm diminishes and shifts due to aging, which impacts the sleep-wake cycle.</p>
+
+> <h3>Sleep Cycles Change with Age</h3>
+
+> TIP:
+<p>The rhythm and timing of the body clock change with age. Teens fall asleep later at night than younger children and adults. One reason for this is because melatonin is released and peaks later in the 24-hour cycle for teens. As a result, it's natural for many teens to prefer later bedtimes and to sleep later in the morning than adults.</p>
+
+<h1>Stages of Sleep</h1>
+<p>Sleep is not a uniform state of being. Instead, sleep is composed of four different stages that are differentiated by brainwave activity. During a typical night, the brain cycles through all the stages several times while sleeping. </p>
+
+<h3>REM versus Non-REM Sleep</h3>
+<p>The stages of sleep can be divided into two general phases: rapid eye movement (REM) sleep and non-REM (NREM) sleep. REM sleep is characterized by darting movements of the eyes under closed eyelids. In contrast, there is no rapid eye movement during NREM sleep, which occurs in the first three stages of sleep. The body cycles through all stages of non-REM and REM sleep several times during a typical night. Increasingly longer, deeper REM periods occur toward morning.</p>
+
+<h1>Stages of Sleep</h1>
+
+# Stages of One Sleep Cycle
+
+The hypnogram chart shows a person's passage through one cycle of the stages of sleep.  
+
+- **Y-axis**: Stages in the sleep-wake cycle (from lowest to highest: Stage 3, Stage 2, Stage 1, REM, Wakefulness)  
+- **X-axis**: Time in minutes  
+
+The cycle moves from **wakefulness → stage 1 → stage 2 → stage 3 → REM sleep → wakefulness**.  
+- **Stages 1–3**: Non-REM sleep, occurring during the first **65 minutes** of sleep.  
+- **REM sleep**: Occurs after non-REM for **10–15 minutes** before the brain moves back to a wakeful state, and the cycle repeats.
+
+---
+
+## Stage 1: Non-REM Sleep
+- Transition between wakefulness and sleep.  
+- Lasts several minutes.  
+- Light sleep where the body fluctuates between sleep and wakefulness.
+
+---
+
+## Stage 2: Non-REM Sleep
+- You are now asleep.  
+- Prepares the body for deeper sleep.  
+- Heartbeat and breathing slow down.  
+- Muscles relax further.  
+
+ **Tip**: A person spends more of the repeated sleep cycles in **stage 2** sleep than in any other stage.
+
+---
+
+## Stage 3: Non-REM Sleep
+- Known as **deep sleep** or **slow-wave sleep**.  
+- Essential for feeling refreshed in the morning.  
+
+ **Tip**: Stage 3 occurs in **longer periods** during the **first half of the night**.
+
+---
+
+## REM Sleep Stage
+- First occurs about **75–90 minutes** after falling asleep.  
+- Eyes move rapidly behind closed eyelids.  
+- Breathing becomes faster and irregular.  
+- Heart rate and blood pressure increase to near waking levels.  
+
+ **Tip**:  
+  - Most dreaming happens during REM sleep (some dreams can also occur in non-REM).  
+  - Arm and leg muscles are temporarily paralyzed to prevent acting out dreams.  
+  - REM sleep typically occurs later in the night.  
+  - People experience less REM sleep in **colder temperatures**.
+
+# Terminology
+
+It is important to know the terminology related to the human sleep cycle.
+
+## Definitions and Terms
+
+| Definition                                                                                 | Term               |
+|-------------------------------------------------------------------------------------------|--------------------|
+| The automatic process that maintains the body's internal stability                        | Sleep-wake homeostasis |
+| Short period between wakefulness and sleep                                                | Stage 1 sleep      |
+| Deep, non-REM sleep that occurs in longer periods during the first half of the night      | Stage 3 sleep      |
+| Internal 24-hour cycle that helps the body regulate activities, like sleep               | Circadian rhythm   |
+| Period of light sleep as the body prepares for deeper sleep                               | Stage 2 sleep      |
+| Period when most dreaming occurs                                                          | REM sleep          |
+
+---
+
+## Explanations
+
+- **Sleep-wake homeostasis**: Homeostasis is automatic and keeps the body's internal activity stable.  
+- **Stage 1 sleep**: The stage in which the body is drifting from being awake to being asleep.  
+- **Stage 3 sleep**: Non-REM, but the most refreshing stage of sleep for humans. It is also called deep sleep and occurs in longer periods during the first half of the night.  
+- **Circadian rhythm**: Keeps the body's internal "clocks" in sync with the repeating pattern of day and night.  
+- **Stage 2 sleep**: Occurs between very light sleep in stage 1 and the deeper sleep of stage 3.  
+- **REM sleep**: When most of the dreaming occurs. The muscles become temporarily paralyzed at this time.
+
+---
+
+## Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify the sleep stages and cycles. Key points:
+
+- Two internal biological mechanisms work together to regulate when you are awake and sleep:  
+  - **Homeostasis**  
+  - **Circadian rhythm**
+- During sleep, you cycle between **non-REM** and **REM** sleep.
+- There are **three stages of non-REM sleep**:
+  1. **Stage 1**: Transition between wakefulness and sleep.  
+  2. **Stage 2**: Reached when you are asleep.  
+  3. **Stage 3**: Deep sleep or slow-wave sleep. The body needs this stage to feel refreshed in the morning.  
+- Most dreaming occurs during **REM sleep**, which first occurs about **75–90 minutes after falling asleep** and happens more frequently as the night progresses.
+
+<h1>Learning Objectives</h1>
+> Learning Objectives
+
+<h1>Sleep Recommendations</h1>
+
+<p>According to the National Sleep Foundation, age affects the number of hours of sleep people need as well as people's sleeping patterns. Sleep duration and pattern also vary among individuals. However, based on research, the following chart provides a recommended range of hours for sleep duration to achieve good health (National Sleep Foundation, 2019).</p>
+
+<img width="679" height="600" alt="image" src="https://github.com/user-attachments/assets/53135452-5b6c-4353-8070-574aedba79c6" />
+
+>
+
+> TIP:
+><p>In general, people get less sleep than they need due to longer work hours and the increasing availability of entertainment and other activities. Many people feel they can "catch up" on missed sleep during the weekend. However, depending on how sleep-deprived a person is, sleeping longer on the weekends may not be adequate.</p>
+
+<h1>Impact of Sleep Deprivation</h1>
+<p>Sleep deficiency is a common public health problem in the United States. People in all age groups report that they do not get enough sleep. The following data was gathered according to a CDC health survey</p>
+
+<ul>
+  <li><p>About 7–19% of adults in the United States do not get enough rest or sleep every day.</p></li>
+  
+  <li><p>Nearly 40% of adults report falling asleep during the day without meaning to at least once a month.</p></li>
+  
+  <li><p>Approximately 50–70 million Americans have chronic (ongoing) sleep disorders.</p></li>
+
+</ul>
+
+<h1>Sleep Deprivation and Chronic Health Problems</h1>
+<p>A common myth is that people can learn to function on little sleep with no negative effects. However, research shows that getting enough quality sleep at the right times is vital for mental health, physical health, quality of life, and safety. Sleep deficiency is linked to many chronic health problems, including:</p>
+<ul>
+  <li><h3>heart disease,</h3></li>
+  
+  <li><h3>kidney disease,</h3></li>
+  
+  <li><h3>high blood pressure,</h3></li>
+  
+  <li><h3>diabetes,</h3></li>
+  
+  <li><h3>diabetes,</h3></li>
+  
+  <li><h3>obesity,</h3></li>
+  
+  <li><h3>depression.</h3></li>
+  
+</ul>
+
+> <h1>REM Sleep and Mental Cognition</h1>
+
+> TIP:
+> <p>Memory consolidation most likely requires both non-REM and REM sleep. As a person ages, they spend less time in REM sleep, which may cause mild cognitive impairment.</p>
+
+<h1>Sleep Deprivation and Risks</h1>
+
+ <p>Sleep deficiency is associated with an increased risk of injury in adults, teens, and children and leads to a general slowing of response speed. For example, driver sleepiness (not related to alcohol) is responsible for serious car crash injuries and deaths. In the elderly, sleep deficiency might be linked to an increased risk of falls, broken bones, and cognitive impairment disorders. In addition, sleep deficiency has played a role in human errors linked to tragic accidents, such as nuclear reactor meltdowns, the grounding of large ships, and aviation accidents</p>
+
+> <h1>Children and Adolescents</h1>
+
+> TIP:
+> <p>Sleep (and the lack thereof) impacts critical thinking abilities. Studies suggest that sleeping shortly after learning new information helps people retain and recall that information later. Children and adolescents who do not get enough sleep are more likely to have attention and behavioral problems, which can contribute to poor academic performance in school.</p>
+
+# Strategies to Sleep Better
+
+Getting enough sleep is good for your health. Use the following tips to improve your sleep:
+
+1. **Set a schedule**  
+   Go to sleep and wake up at the same time each day.
+
+2. **Exercise daily**  
+   Exercise 20–30 minutes a day, but avoid exercising a few hours before going to sleep.
+
+3. **Avoid caffeine, nicotine, and alcohol**  
+   Do not consume caffeine or nicotine late in the day, and avoid alcoholic drinks before sleeping.
+
+4. **Limit digital device use**  
+   Avoid using tablets, smartphones, computers, or televisions 30 minutes before going to sleep.
+
+5. **Relax before bedtime**  
+   Try reading, taking a warm bath, or engaging in another calming activity.
+
+6. **Create a sleep-friendly environment**  
+   Avoid bright lights and loud sounds, keep the room at a comfortable temperature, and do not watch TV or keep a computer in your bedroom.
+
+7. **Do not lie awake in bed**  
+   If you can’t fall asleep, do something else—like reading—until you feel tired.
+
+8. **Consult a doctor if needed**  
+   If you have trouble sleeping or feel unusually tired during the day, see a doctor. Most sleep disorders can be treated effectively.
+
+# Sleep Duration
+
+### Question:
+Which statement about sleep duration is true?
+
+- Teenagers 14–17 years old need more sleep than preschoolers.  
+- Adolescents can "catch up" on missed sleep during the weekend.  
+-  Infants need more sleep than toddlers.  
+- Adults over 65 years of age need more sleep than adults and school-age children.  
+
+---
+
+### Correct Answer:
+**Infants need more sleep than toddlers.**
+
+---
+
+### Explanation:
+- **Infants (4–11 months):** 12–15 hours of sleep per day  
+- **Toddlers (1–2 years):** 11–14 hours of sleep per day  
+- The amount of sleep needed generally **decreases with age**.
 
 
+### Question:
+Which statement about sleep deficiency is true?
+
+- You can "catch up" on missed sleep during the weekend.  
+- Drinking coffee when sleep-deprived improves reaction time.  
+- Sleep deficiency decreases risk of injury.  
+-  Sleep deficiency is linked to high blood pressure.  
+
+---
+
+### Correct Answer:
+**Sleep deficiency is linked to high blood pressure.**
+
+---
+
+### Explanation:
+Sleep deficiency is associated with many chronic health problems, including:  
+- High blood pressure  
+- Heart disease  
+- Diabetes  
+- Obesity  
+- Depression
+
+
+### Question:
+Which strategy can improve the quality of sleep?
+
+- Exercise one to two hours before bedtime to help relax the body.  
+- Watch television or videos to help you fall asleep.  
+-  Refrain from using digital devices 30 minutes before going to sleep.  
+- Keep the room temperature as cold as possible.  
+
+---
+
+### Correct Answer:
+**Refrain from using digital devices 30 minutes before going to sleep.**
+
+---
+
+### Explanation:
+Digital devices such as cell phones, tablets, computers, and televisions emit enough light to miscue the brain and promote wakefulness, reducing sleep quality.
+
+Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify the impact of sleep on health and apply the strategies you learned to achieve better sleep. Take a moment to think about what you have learned in this lesson:
+
+  Generally, the number of hours of sleep required decreases with age. However, many adults do not get the recommended quantity of sleep due to work schedules, medications, lifestyle habits, and sleep disorders. 
+    Sleep insufficiency is linked to many chronic health problems and an increased risk of injury due to slowing of response speeds. It has played a role in human errors linked to tragic accidents.
+    Strategies to improve sleep quality include the following: establishing a sleep schedule; avoiding caffeine, alcohol, and stimulants late in the day; refraining from digital devices before bedtime; and incorporating relaxation techniques.
+
+# Sleep and Health: Summary and Quiz
+
+Take a moment to review what you have learned in this module:
+
+## Key Points
+
+- **Biological mechanisms of sleep**  
+  - **Homeostasis** and **circadian rhythms** work together to regulate the sleep-wake cycle.
+
+- **Sleep stages**  
+  - **Stage 1 (non-REM):** Transition between wakefulness and sleep.  
+  - **Stage 2 (non-REM):** Reached when you are asleep.  
+  - **Stage 3 (non-REM):** Deep sleep, with more time spent in this stage earlier in the sleep-wake cycle.  
+  - **REM sleep:** Occurs about 75–90 minutes after falling asleep and becomes more frequent as sleep progresses. Most dreaming occurs during REM sleep.
+
+- **Sleep duration**  
+  - The recommended amount of sleep decreases with age.
+
+- **Sleep deficiency**  
+  - Increases the risk of injury due to slower response time and reduced mental alertness.  
+  - Linked to chronic health issues such as diabetes, obesity, heart disease, and depression.
+
+- **Strategies to improve sleep quality**  
+  - Establish a consistent sleep schedule.  
+  - Avoid caffeine, alcohol, and stimulants late in the day.  
+  - Refrain from using digital devices before bedtime.  
+  - Incorporate relaxation techniques before sleep.
+
+# Quiz: Sleep and Health
+
+---
+
+### Question 1 of 3
+**Which stage of sleep provides the rest needed for the body to feel refreshed in the morning?**
+
+- Stage 1 (non-REM)  
+- Stage 2 (non-REM)  
+-  Stage 3 (non-REM)  
+- REM sleep  
+
+---
+
+### Question 2 of 3
+**What impact does insufficient sleep have on health?**
+
+- Causes imbalance due to changes in equilibrium  
+- Causes stomach ulcers  
+- Produces a rapid heart rate and labored breathing  
+-  Increases risk of obesity  
+
+---
+
+### Question 3 of 3
+**Which strategy helps improve the quality of sleep?**
+
+- Watch television or a video before going to sleep.  
+- Eat a big dinner before going to sleep.  
+-  Take a warm bath.  
+- Exercise 1–2 hours before going to sleep.  
+
+# Unit Quiz: Physical Health
+
+---
+
+# Unit Quiz: Physical Health
+
+---
+
+### Question 1 of 10  
+**Which body system is responsible for bringing oxygen into the body and expelling carbon dioxide?**
+
+- The digestive system  
+- The cardiovascular system  
+- The endocrine system  
+-  The respiratory system  
+
+---
+
+### Question 2 of 10  
+**Which body system is responsible for transporting a constant supply of nutrients and oxygen to body cells?**
+
+-  The cardiovascular system  
+- The endocrine system  
+- The respiratory system  
+- The digestive system  
+
+---
+
+### Question 3 of 10  
+**Which symptoms are associated with MRSA?**
+
+- High fever, fatigue, headaches, and muscle stiffness  
+-  Red bumps near a previous cut that are swollen, painful, warm to touch, and full of pus  
+- Watery eyes, nasal and chest congestion, sneezing, and a sore throat  
+- Cold-like symptoms followed by sudden high fever, severe headache, and stiff neck  
+
+---
+
+### Question 4 of 10  
+**What is a controllable risk factor of coronary artery disease?**
+
+- Pain down the arm  
+-  High cholesterol levels  
+- Lack of sleep  
+- Pain in the chest  
+
+---
+
+### Question 5 of 10  
+**Which recommendation aligns with the U.S. Physical Activity Guidelines for school-aged children?**
+
+- Complete 30 minutes of aerobic activity five days per week.  
+- Complete 30 minutes of moderate physical activity five days per week.  
+-  Complete 60 minutes or more of moderate to vigorous physical activity daily.  
+- Complete 20 minutes of muscle-strengthening exercises four days per week.  
+
+---
+
+### Question 6 of 10  
+**Which exercise is an example of a muscular endurance activity?**
+
+- Dynamic stretching  
+-  Pilates  
+- Lifting free weights  
+- Cycling uphill  
+
+---
+
+### Question 7 of 10  
+**What does the CDC recommend to prevent fire and burns?**
+
+-  Maintain home smoke alarms on every floor.  
+- Only leave food unattended on the stove if flame is low.  
+- Create an escape plan with one main exit from the home.  
+- Set water heater thermostats to 150 degrees Fahrenheit.  
+
+---
+
+### Question 8 of 10  
+**What is a recommendation for maintaining good dental hygiene?**
+
+- Floss at least twice per week.  
+- Replace toothbrush every month.  
+- Brush teeth once per day.  
+- Get a dental exam every six months.  
+
+---
+
+### Question 9 of 10  
+**Which sleep stage is characterized by slow breathing and heart rate that occurs before entering deeper sleep?**
+
+- REM  
+- Stage 3  
+-  Stage 2  
+- Stage 1  
+
+---
+
+### Question 10 of 10  
+**What is an effective strategy for sleeping better?**
+
+-  Set a schedule to go to bed at the same time every day.  
+- Lie in bed awake until you start to fall asleep.  
+- Exercise right before bedtime to exhaust yourself.  
+- Watch TV in bed until you fall asleep.  
+
+> <h1>UNIT 2</h1>
+> <h2>BOOKMARK(pg[36])</h2>
 _
 
 _
