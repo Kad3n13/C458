@@ -2254,6 +2254,14 @@ Nathan is teaching a class about nutrients that protect the body tissue from dam
 
  Vitamins A and E may prevent or delay some types of cell damage. Some nutrients that protect the body tissues from damage are called antioxidants.
 
+## Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify sources of common micronutrients and their role in body functions. You should also have a better understanding of how these vitamins and minerals work together with carbohydrates, proteins, and fats to maintain a healthy body. Take a moment to think about what you have learned in this lesson:
+
+- Vitamins and minerals are micronutrients that must be consumed from food. Vitamins are created by animals and plants, whereas minerals are absorbed by animals and plants.
+- There are 13 different vitamins: fat-soluble vitamins (A, D, E, K) and water-soluble vitamins (B-complex, C). Your body uses vitamins to support growth, digestion, and nerve function and to obtain or make energy from the macronutrients.
+- Important minerals include calcium, sodium, potassium, and iron. Your body uses these minerals to build bones, maintain water balance, and store oxygen in red blood cells.
+
 
 _
 
