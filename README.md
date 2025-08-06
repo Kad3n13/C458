@@ -1828,6 +1828,173 @@ Take a moment to review what you have learned in this module:
 
 > <h1>UNIT 2</h1>
 > <h2>BOOKMARK(pg[36])</h2>
+
+Just as a car requires gas or electricity to run, people need "fuel" in the form of food to power their bodies. The foods people eat provide them with a range of small and large nutrients.  
+
+- **Micronutrients**: Nutrients that are required in small quantities.  
+- **Macronutrients**: Nutrients that are required in large quantities.  
+
+(*"Micro"* means small, and *"macro"* means big.)  
+
+After engaging in this module, you should be able to:  
+- Identify the functions of macronutrients and micronutrients.  
+- Recognize the sources of macronutrients and micronutrients.  
+
+# Learning Objectives
+
+- Identify sources of macronutrients and their role in body functions.
+
+---
+
+## What Are Macronutrients?
+
+You have probably heard of **carbohydrates, proteins, and fats**, but did you know that they are considered macronutrients?  
+The human body requires large quantities of these nutrients because they are the only ones that provide the **energy** your body needs to grow, repair, insulate, and develop new tissues.  
+
+Foods are often made of a mixture of macronutrients:  
+- Example: Blueberry muffins have carbohydrates and fats.  
+- Example: Milk has carbohydrates, protein, and fat.  
+
+**Why is this important?**  
+Knowing the functions and sources of macronutrients in your foods will help you select healthy food choices and track your food intake.  
+
+---
+
+## Craving Carbohydrates? Learn Why
+
+### The Primary Function of Carbohydrates: Energy
+If you crave carbohydrates, it may be a sign that your body needs more energy. Only carbohydrates can provide a **quick source of energy** for your cells, tissues, and organs.  
+
+- **Energy yield:** 4 calories per gram  
+
+---
+
+### What Are the Sources of Carbohydrates?
+
+In general, **carbohydrates come from plants**. They can be divided into **complex** and **simple** carbohydrates.
+
+---
+
+#### Complex Carbohydrates
+Provide vitamins, minerals, and fiber.  
+**Sources:**
+- Breads and cereals  
+- Pasta  
+- Starchy vegetables (e.g., potatoes, cassava)  
+- Legumes (e.g., beans)  
+- Rice  
+- Corn  
+
+---
+
+#### Simple Carbohydrates
+Include sugars that occur naturally in foods or are added during processing.
+
+| **Naturally Occurring Sugars** | **Added Sugars*** |
+|-------------------------------|-------------------|
+| Fruits and 100% fruit juice   | Table sugar (white, brown, cane) |
+| Vegetables                    | Syrups (corn, maple, agave) |
+| Milk and dairy products       | High-fructose corn syrup (sodas, drinks) |
+| Honey, 100% maple syrup       | Baked goods (muffins, cookies) |
+
+\*Added sugars are either added during food processing or packaged as sugar.
+
+---
+
+### Dietary Fiber
+Fiber is a type of carbohydrate but cannot be digested and provides no calories.  
+**Types of Fiber:**
+- **Soluble:** Dissolves in water  
+- **Insoluble:** Does not dissolve in water  
+
+**Sources:**
+- Whole grains and cereals  
+- Whole fruit  
+- Vegetables  
+- Nuts and seeds  
+- Beans and legumes  
+
+**Tip: Sweet vs. Complex Carbohydrates**  
+- **Simple carbohydrates** taste sweet (short chains).  
+- **Complex carbohydrates** taste starchy (long chains).
+
+---
+
+## The Power of Protein
+
+### Important Functions of Protein
+Protein is found in every cell of the body. Your body needs protein to:  
+- Build and maintain bones, muscles, cartilage, blood, and skin.  
+- Provide energy (4 calories per gram).  
+
+Your body does **not store protein**, so you must eat enough daily.  
+
+---
+
+### Sources of Protein
+Proteins come from both **animal** and **plant-based** sources.
+
+| **Animal Sources (Complete)** | **Plant-Based Sources*** |
+|-------------------------------|--------------------------|
+| Fish                          | Soy (soy milk, tofu, tempeh, edamame) |
+| Eggs                          | Lentils, beans, legumes |
+| Dairy products (milk, yogurt) | Nuts and nut butters |
+| Red meat (beef, bison, deer)  | Quinoa, kamut, teff |
+| Poultry (chicken, turkey)     |                          |
+| Pork, lamb, goat              |                          |
+
+\*Plant proteins are usually incomplete except for soy and quinoa.
+
+---
+
+## Facts About Dietary Fats
+
+### Five Important Functions of Fats
+1. Provide energy (9 calories per gram)  
+2. Help absorb fat-soluble vitamins (A, D, E, K)  
+3. Support hormone production and nerve function  
+4. Provide essential fats (e.g., omega-3)  
+5. Make food more flavorful and help you feel full  
+
+---
+
+### Types of Fats
+- **Unsaturated Fats:** Healthy fats, usually liquid (oils).  
+- **Saturated Fats:** Solid at room temperature, raise cholesterol.  
+- **Trans Fats:** Created during processing, harmful to heart health.  
+
+---
+
+### Sources of Fats
+| **Type**        | **Sources** |
+|-----------------|-------------|
+| Unsaturated Fats | Vegetable oils (olive, canola, corn, safflower), mayonnaise, avocados, fatty fish, nuts, seeds |
+| Saturated Fats   | Whole milk products, butter, animal fats, coconut oil, palm oil |
+| Trans Fats      | Margarine, non-dairy creamers, processed baked goods, deep-fried foods |
+
+---
+
+## Macronutrient Summary Table
+
+| Macronutrient  | Calories per Gram | Main Functions                                | Common Sources |
+|-----------------|------------------|----------------------------------------------|---------------|
+| Carbohydrates  | 4                | Primary energy source for cells, tissues, and organs | Bread, pasta, beans, vegetables, fruits, dairy |
+| Proteins       | 4                | Build and maintain bones, muscles, and skin  | Beef, pork, fish, chicken, dairy, beans, legumes |
+| Fats           | 9                | Energy, vitamin absorption, hormone production | Oils, butter, avocados, fish, animal products |
+
+---
+
+## Lesson Summary
+- Foods contain a **mixture of macronutrients**.  
+- **Energy values:**
+  - Carbohydrates: 4 cal/g  
+  - Proteins: 4 cal/g  
+  - Fats: 9 cal/g  
+- **Carbohydrates:** Complex provide vitamins, minerals, and fiber; simple are sugars (natural or added); fiber is non-digestible.  
+- **Proteins:** Needed to build and repair tissues. Animal sources are complete proteins; plant sources are usually incomplete (except soy and quinoa).  
+- **Fats:** Required for vitamin absorption, hormone production, and healthy growth. Sources include unsaturated, saturated, and trans fats.
+
+
 _
 
 _
