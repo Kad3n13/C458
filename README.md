@@ -2262,6 +2262,40 @@ Now that you have completed this lesson, you should be able to identify sources 
 - There are 13 different vitamins: fat-soluble vitamins (A, D, E, K) and water-soluble vitamins (B-complex, C). Your body uses vitamins to support growth, digestion, and nerve function and to obtain or make energy from the macronutrients.
 - Important minerals include calcium, sodium, potassium, and iron. Your body uses these minerals to build bones, maintain water balance, and store oxygen in red blood cells.
 
+### Question 1 of 3
+This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.
+
+**Which micronutrients are required for optimal bone health?**
+
+- Vitamin D and calcium
+- Vitamin B, vitamin D, calcium, and iron
+- Vitamin A, vitamin D, and calcium
+- Vitamin D, vitamin K, and calcium
+
+---
+
+### Question 2 of 3
+This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.
+
+**From what type of macronutrient does the primary source of energy in nuts and avocados come?**
+
+- Fat
+- Cholesterol
+- Protein
+- Carbohydrates
+
+---
+
+### Question 3 of 3
+This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.
+
+**Which statement about macronutrients is true?**
+
+- Macronutrients provide energy in the form of calories.
+- Macronutrients are consumed in small quantities.
+- Carbohydrates promote growth and the repairing of bones and muscles.
+- Macronutrients help vitamins and minerals convert food into energy.
+
 
 _
 
