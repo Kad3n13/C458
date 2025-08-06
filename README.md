@@ -2067,6 +2067,92 @@ Vitamins play a major role in keeping your body healthy. When you eat, you consu
 **Tip:**  
 The best way to get enough vitamins is to eat a balanced diet with a variety of foods. You can usually get all your vitamins from the foods you eat. If you are on a restricted diet, however, you may need to take vitamin supplements. It's a good idea to talk to your healthcare provider first.
 
+### Question
+
+Which vitamin helps with vision and is found in red, orange, and yellow vegetables, as well as dark-green leafy vegetables?
+
+- Vitamin D
+- Vitamin A
+- Vitamin E
+- Vitamin C
+
+ Vitamin A is found in both plants and animals. The vitamin A in plant sources is called carotenoids. Animal sources include liver, dairy products, and fatty meats.
+
+### Question
+
+Which three nutrients are part of the B-vitamin complex? 
+
+- Thiamine
+- Folate
+- Niacin
+- Retinol
+
+ There are eight B vitamins that are referred to as B-complex vitamins. They include thiamine (B-1), riboflavin (B-2), niacin (B-3), pantothenic acid (B-5), biotin, vitamin B-6, vitamin B-12, and folate. The B vitamins help your body get or make energy from the food you eat. Animal proteins, leafy green vegetables, beans, and cereal are sources of B vitamins.
+
+### Question
+
+Which vitamin is only available from eating animal protein? 
+
+- Vitamin B-1 (Thiamine)
+- Vitamin B-12
+- Vitamin K
+- Niacin
+
+ Vitamin B-12 (cobalamine) is only found in animal products—poultry, meat, fish, and dairy products. Vegans and vegetarians may be more prone to a vitamin B-12 deficiency unless they supplement their diet with vitamin B-12 or nutritional yeast.
+
+Which food is the best source of vitamin C?
+
+Orange juice
+
+Spinach
+
+Strawberry
+
+Bell pepper
+
+ Although all the choices are sources of vitamin C, one cup of chopped raw red bell pepper has twice the amount of vitamin C as a cup of orange juice, 10 times more than strawberries, and four times more than spinach. 
+
+### Question
+
+Which vitamin can be produced by your body with exposure to sunlight?
+
+- Vitamin D
+- Vitamin K
+- Vitamin C
+- Folate
+
+ Your body naturally makes vitamin D with exposure to sunlight, but it is also found in milk and dairy products, egg yolks, salt water fish such as salmon, and liver. Vitamin D, a fat-soluble vitamin, is needed for bone development because it helps your body absorb calcium.
+
+### Question
+
+Which vitamin's primary function is to protect body tissue from damage caused by substances that can harm cells and tissues, and to keep the immune system strong against viruses and bacteria?
+
+- Vitamin K
+- Vitamin D
+- Vitamin E
+- Vitamin A
+Vitamin E, an antioxidant, plays an important role in protecting your body from harmful substances that break down body tissue and from viruses and bacteria. Good sources of vitamin E include vegetable oils, nuts, seeds, and leafy greens.
+
+### Question
+
+Which vitamin helps make proteins for healthy bones, tissues, and blood clotting?
+
+- Vitamin D
+- Vitamin E
+- Vitamin K
+- Vitamin A
+
+ Vitamin K, along with Vitamin D and calcium, are necessary for bone development and maintenance. Vitamin K also plays an important role in blood clotting. In fact, newborns have very little vitamin K and usually get a shot of vitamin K soon after they are born.
+
+### True or False
+
+Fat-soluble vitamins are only found in fatty foods.
+
+- True
+- False
+
+ Fat-soluble vitamins need fat to be absorbed by the gut but are not always found in foods with fat. For example, non-fat foods such as spinach, non-fat milk, and carrots are sources of the fat-soluble vitamin A.
+
 
 _
 
