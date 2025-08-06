@@ -2221,6 +2221,40 @@ You need to eat a variety of plant-based foods and animal proteins to obtain the
 - milk and dairy products |
 
 
+### Question
+
+Jose is learning about the importance of a balanced diet for healthy muscles. In addition to vitamins D and K, which three micronutrients play a role in muscle function?
+
+- Calcium
+- Vitamin A
+- Potassium
+- Sodium
+
+ The minerals calcium, potassium, and sodium help with muscle contraction and relaxation. Vitamin D and K help with the development and maintenance of bones.
+
+### Question
+
+Sanjay has been feeling lightheaded when standing up and much more tired than usual. After some tests, his nurse practitioner shares that Sanjay is anemic. His red blood cell count is low so he is not getting enough oxygen throughout his body. The nurse practitioner prescribes which micronutrient for Sanjay?
+
+- Iron
+- Vitamin A
+- Sodium
+- Potassium
+
+Iron is found in red blood cells. It helps provide oxygen to the cells of our body. The oxygen helps the cells produce energy. A main cause of anemia is iron deficiency.
+
+### Question
+
+Nathan is teaching a class about nutrients that protect the body tissue from damage caused by substances that can harm cells, tissues, and organs. Which two micronutrients should he include in his lesson?
+
+- Vitamin E
+- Iron
+- Vitamin A
+- Vitamin C
+
+ Vitamins A and E may prevent or delay some types of cell damage. Some nutrients that protect the body tissues from damage are called antioxidants.
+
+
 _
 
 _
