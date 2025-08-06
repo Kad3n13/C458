@@ -2153,6 +2153,73 @@ Fat-soluble vitamins are only found in fatty foods.
 
  Fat-soluble vitamins need fat to be absorbed by the gut but are not always found in foods with fat. For example, non-fat foods such as spinach, non-fat milk, and carrots are sources of the fat-soluble vitamin A.
 
+# Mineral Basics: Functions and Sources
+
+Nutrition facts label with minerals.
+
+"Two Percent Milk Nutrition Facts Label" © 2019 Syndigo
+
+Unlike vitamins, minerals are elements that are not broken down, and they are not created by plants and animals. Minerals are absorbed by plants and animals through the soil and food. When you eat, you consume the minerals that plants and animals absorbed.
+
+This lesson will focus on the following four important minerals:
+
+- calcium
+- sodium
+- potassium
+- iron
+
+---
+
+## Why Are Minerals Important?
+
+Minerals are important for your body to stay healthy. Your body uses minerals for many different jobs, including building bones, making hormones, and regulating your heartbeat. Many minerals work cooperatively with other minerals and vitamins to perform a bodily function. As you review the functions of minerals, try to identify the minerals and vitamins that have the same function.
+
+| MINERAL NAME | MOST NOTABLE FUNCTIONS |
+|--------------|-----------------------|
+| Calcium | Blood vessel contraction; proper structure and function of bones and teeth; muscle contraction  
+![blood icon](blood-icon) ![bones icon](bones-icon) ![muscles icon](muscles-icon) |
+| Iron | Found in red blood cells; helps provide oxygen to the cells, tissues, and organs; assists in the creation of certain hormones  
+![blood icon](blood-icon) ![metabolism icon](metabolism-icon) ![hormones icon](hormones-icon) |
+| Sodium | Electrolyte that aids fluid balance and maintenance of blood pressure; needed for muscle function  
+![water balance icon](water-balance-icon) ![muscles icon](muscles-icon) |
+| Potassium | Electrolyte that maintains fluid status in cells; helps with nerve transmission; muscle function  
+![water balance icon](water-balance-icon) ![nerves icon](nerves-icon) ![muscles icon](muscles-icon) |
+
+---
+
+### Electrolytes
+
+**Tip:**  
+Electrolytes are minerals that are "electric" because they carry an electric charge. Examples of electrolytes include sodium, potassium, and calcium.
+
+---
+
+## What Are the Sources of Minerals?
+
+You need to eat a variety of plant-based foods and animal proteins to obtain the essential minerals to stay healthy. Review the following table with a list of foods that are sources of calcium, iron, sodium, and potassium.
+
+| MINERAL | GOOD FOOD SOURCES |
+|---------|-------------------|
+| Calcium | - dairy products  
+- leafy greens and green vegetables  
+- fish with soft bones  
+- calcium-enriched cereals  
+- juices and soy and rice drinks  
+- tofu |
+| Iron | - animal protein (e.g., liver, mussels, clams, oysters, beef, chicken, pork)  
+- enriched breakfast cereals, pasta, grains  
+- beans and tofu  
+- spinach, broccoli |
+| Sodium | - table salt  
+- packaged and processed foods (e.g., chips, cold cuts, frozen meals, pizza)  
+- soy sauce and bottled dressings  
+- soups |
+| Potassium | - leafy greens  
+- fruit from vines (e.g., grapes, blackberries)  
+- vegetables (e.g., carrots, potatoes, tomatoes)  
+- fruits (e.g., banana, orange, grapefruit)  
+- milk and dairy products |
+
 
 _
 
