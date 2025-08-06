@@ -1994,6 +1994,79 @@ Proteins come from both **animal** and **plant-based** sources.
 - **Proteins:** Needed to build and repair tissues. Animal sources are complete proteins; plant sources are usually incomplete (except soy and quinoa).  
 - **Fats:** Required for vitamin absorption, hormone production, and healthy growth. Sources include unsaturated, saturated, and trans fats.
 
+# Learning Objectives
+
+    Identify sources of common micronutrients and their role in body functions.
+
+In the previous lesson, you learned about the macronutrients that provide the calories you need to live. But your body needs more than calories to survive and be healthy. It needs small amounts of vitamins and minerals (micronutrients) that help you use the calories. In this lesson, you will learn about the functions and sources of common vitamins and minerals that your body needs to work properly.
+
+---
+
+## What are Vitamins?
+### Vitamins A, B, C, D, E, and K
+Vitamins © 2019 WGU
+
+Vitamins are substances that your body needs to grow and develop normally. 
+
+There are 13 vitamins your body needs. They include the following:
+
+- Vitamin A
+- B vitamins  
+  - Thiamine (B-1)
+  - Riboflavin (B-2)
+  - Niacin (B-3)
+  - Pantothenic acid (B-5)
+  - Biotin
+  - Vitamin B-6
+  - Cobalamin (B-12)
+  - Folate
+- Vitamin C
+- Vitamin D
+- Vitamin E
+- Vitamin K
+
+---
+
+### B-Complex
+**Tip:**  
+The B vitamins are commonly known as B-complex because they work together. There are eight vitamins in the B-complex. B vitamins are more commonly known by their names than by their numbers.
+
+---
+
+## Vitamins: Water- versus Fat-Soluble
+Vitamins are classified as either water-soluble or fat-soluble. The difference between the two groups is very important as it determines how each vitamin acts within the body.  
+
+- A water-soluble vitamin can dissolve in water. It is carried through the body to the body tissues but cannot be stored in the body. Therefore, it is important you get enough of them in your food each day.  
+- Fat-soluble vitamins do not dissolve in water. They need fat in order to be absorbed. They are stored in the liver and in other fatty tissues for future use. Excessive amounts can be toxic.
+
+### Fat-Soluble vs Water-Soluble Vitamins
+| FAT-SOLUBLE | WATER-SOLUBLE |
+|-------------|---------------|
+| vitamin A   | B-vitamin complex |
+| vitamin D   | vitamin C |
+| vitamin E   | |
+| vitamin K   | |
+
+---
+
+## Vitamin Basics: Functions and Sources
+Vitamins play a major role in keeping your body healthy. When you eat, you consume the vitamins that plants and animals created. Review the following table of essential vitamin functions and good sources in the diet.
+
+| VITAMIN NAME | IMPORTANT FUNCTIONS | GOOD FOOD SOURCES | WATER- OR FAT-SOLUBLE |
+|--------------|--------------------|-------------------|-----------------------|
+| Vitamin A | Vision health; protects the body tissue from damage | **Plants:** colorful sources<br>**Animals:** whole-milk dairy products, liver | Fat-soluble |
+| B Vitamins (thiamine, riboflavin, niacin, pantothenic acid, biotin, vitamin B-6, vitamin B-12, and folate) | Helps the body obtain or make energy from the food eaten; essential for brain function; vitamin B-12 needed for the formation of red blood cells | **Animal:** variety<br>**Plants:** leafy green vegetables, beans, cereal | Water-soluble |
+| Vitamin C | Important for skin, bones, and connective tissue; promotes healing; helps the body absorb iron for blood; helps the body absorb calcium and is essential for bone development; plays a role in the nervous, muscular, and immune systems | **Plants:** fruits and vegetables (e.g., citrus, peppers, tomatoes, greens, juices) | Water-soluble |
+| Vitamin D | Helps the body absorb calcium and is essential for bone development; plays a role in the nervous, muscular, and immune systems | **Animals:** milk, egg yolks, liver, oily fish (including salmon and mackerel)<br>**Plants:** enriched cereal<br>(Note: The body makes it naturally with exposure to sunlight.) | Fat-soluble |
+| Vitamin E | Protects the body tissue from damage; keeps immune system strong; supports the formation of blood cells | **Plants:** vegetable oils and margarine, nuts, seeds, leafy greens | Fat-soluble |
+| Vitamin K | Helps the body make proteins for healthy bones, tissues, and blood clotting | **Animals:** limited source in meat and eggs<br>**Plants:** mostly green vegetables, dark berries | Fat-soluble |
+
+---
+
+### Supplementation
+**Tip:**  
+The best way to get enough vitamins is to eat a balanced diet with a variety of foods. You can usually get all your vitamins from the foods you eat. If you are on a restricted diet, however, you may need to take vitamin supplements. It's a good idea to talk to your healthcare provider first.
+
 
 _
 
