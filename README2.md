@@ -23,22 +23,27 @@
 <p>Develop a healthy eating pattern of consuming foods and beverages within an appropriate calorie level. An eating pattern represents the totality of all foods and beverages consumed. All foods consumed as part of a healthy eating pattern fit together like a puzzle to meet nutritional needs without exceeding limits, such as those for saturated fats, added sugars, sodium, and total calories. All forms of foods—including fresh, canned, dried, and frozen—can be included in healthy eating patterns.</p>
 
 <h1>What dose a Healthy Eating Pattern include and Limit</h1>
-<h3>A healthy eating pattern includes the following:</h3>
-<h3>* A variety of vegetables from all subgroups</h3>
+
+> <h3>A healthy eating pattern includes the following:</h3>
+
+> <h3> A variety of vegetables from all subgroups</h3>
+
 <ul>
   <li>Dark green vegetables</li>
   <li>Red and orange vegetables</li>
   <li>Legumes (e.g beans, and peas)</li>
   <li>Starchy vegetables (e.g corn, potatoes)</li>
   
-  <h3>Others</h3>
+  > <h3>Others</h3>
   
   <li>Fruits, especially whole fruits</li>
   <li>Grains, at least half of which are whole grains</li>
   <li>Fat-free or low-fat dairy, including milk, yogurt, cheese, and fortified soy beverages</li>
   <li>A variety of profein foods, including seafood, lean meats and poultry, eggs, legumes, nuts, seeds, and soy prodcuts</li>
   <li>Oils (e.g Canola, Olive)</li>
-  <h3>A healthy eating pattern limits the following:</h3>
+  
+  > <h3>A healthy eating pattern limits the following:</h3>
+  
   <li>Saturated fats</li>
   <li>Trans fats</li>
   <li>Added sugars</li>
