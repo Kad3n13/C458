@@ -198,4 +198,10 @@ There are many different strategies that you can use to align the **MyPlate** re
 - Opt for low-fat or fat-free dairy.
 - Limit added sugars, sodium, and saturated fats.
 
+<h1>Strategy: Dietary Guideline Eating Patterns</h1>
 
+<p>The first dietary guideline is to follow a healthy eating pattern over the life span. As you may recall, a healthy eating pattern is based on types and amounts of foods and is designed to meet nutrient needs while staying within calorie limits. The patterns recommend the amount of food to consume from each food group either each day or weekly. Because calorie needs vary based on age, sex, height, weight, and level of physical activity, the USDA created patterns for 12 different calorie levels. </p>
+
+<img width="328" height="374" alt="image" src="https://github.com/user-attachments/assets/fe945bc1-a801-43d3-8fd5-f379a8bdf1c8" />
+
+<h6>"US Dietary Guidelines" by USDA is in the Public Domain</h6>
