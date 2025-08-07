@@ -49,6 +49,7 @@
   <li>Added sugars</li>
   <li>Soduim</li>
 </ul>
+
 ---
 
 <h1>Recommendation 2: Focus on Variety, Nutrient Density, and Amount</h1>
