@@ -204,4 +204,14 @@ There are many different strategies that you can use to align the **MyPlate** re
 
 <img width="328" height="374" alt="image" src="https://github.com/user-attachments/assets/fe945bc1-a801-43d3-8fd5-f379a8bdf1c8" />
 
-<h6>"US Dietary Guidelines" by USDA is in the Public Domain</h6>
+<p>"US Dietary Guidelines" by USDA is in the Public Domain</p>
+
+<p>Review the sample eating pattern for an individual who needs to eat 2,000 calories per day to maintain a certain body weight. </p>
+
+<p>Did you notice that the pattern promotes specific portions of a variety of foods within each food group to meet the calorie needs? The pattern includes a recommended amount of oils and limited calories from low-nutrient foods like added sugars.</p>
+
+<h1>Strategy: Promote Healthy Snacking</h1>
+
+<p>Snacks can be an important part of your diet. They can also help children get the nutrients needed to grow. Snacks can provide energy in the middle of the day or when you exercise. A healthy snack between meals can also decrease your hunger and keep you from overeating at mealtime.</p>
+
+
