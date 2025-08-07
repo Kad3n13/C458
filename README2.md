@@ -361,13 +361,14 @@ Diego wants snacks to reduce sweets cravings. Which two are nutrient-dense?
 
 # Lesson Summary
 
-- Follow healthy eating patterns across the life span.  
-- Focus on variety, nutrient density, and amount.  
-- Limit calories from added sugars and saturated fats, reduce sodium.  
-- Shift to healthier food and beverage choices.  
-- Support healthy eating patterns in all situations.  
+Now that you have completed this lesson, you should be able to identify healthy eating strategies based on current Dietary Guidelines and recommendations. Take a moment to think about what you have learned in this lesson.
 
-Use tools like **MyPlate** and nutrition labels to make informed, healthy choices.
+There are many strategies to help you eat healthy, including the following:
+
+- Use the **MyPlate** tool to visually plan a meal with appropriate portions of food from all five food groups.  
+- Use the **USDA calorie-based eating patterns** that recommend the amount and types of foods to consume from each food group daily or weekly.  
+- Make **snacks part of a healthy eating plan**. Healthy snacks can provide energy when needed, decrease hunger, and help children get the nutrients they need to grow.  
+- Use **nutrition facts labels** to obtain product-specific information (e.g., serving size, calories, nutrient information). Compare food labels to help you select healthier, nutrient-dense foods and monitor portion sizes.
 
 
 
