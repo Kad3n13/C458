@@ -214,4 +214,28 @@ There are many different strategies that you can use to align the **MyPlate** re
 
 <p>Snacks can be an important part of your diet. They can also help children get the nutrients needed to grow. Snacks can provide energy in the middle of the day or when you exercise. A healthy snack between meals can also decrease your hunger and keep you from overeating at mealtime.</p>
 
-> <p>What makes a healthy snack Review the following suggestions for healthy snacks.</p>
+   <p>What makes a healthy snack Review the following suggestions for healthy snacks.</p>
+
+ <ul>
+   
+  > <li>* Snacks are a part of your overall eating plan and therefore should have nutritional value.</li>
+  
+  > <li>* Include two or more food groups, especially for children.</li>
+  
+  > <li>* Aim for fruits, vegetables, whole-grain snacks, and low-fat dairy.</li>
+  
+  > <li>* Pick foods that are low in added fat and sugar and high in fiber and water. This means an apple is a healthier snack than a bag of chips.</li>
+  
+  > <li>* Watch the portion size. Help younger children get just enough to satisfy their hunger.</li>
+ 
+  > <li>* Limit foods and drinks that contain added sugar.</li>
+ 
+  > <li>* Choose fresh fruit instead of a fruit-flavored drink.</li>
+  
+  > <li>* Pair a protein and a carbohydrate to keep you fuller for longer. Examples include having an apple with string cheese or yogurt.</li>
+
+
+  
+  
+</ul>
+
