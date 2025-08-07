@@ -214,4 +214,4 @@ There are many different strategies that you can use to align the **MyPlate** re
 
 <p>Snacks can be an important part of your diet. They can also help children get the nutrients needed to grow. Snacks can provide energy in the middle of the day or when you exercise. A healthy snack between meals can also decrease your hunger and keep you from overeating at mealtime.</p>
 
-
+> <p>What makes a healthy snack Review the following suggestions for healthy snacks.</p>
