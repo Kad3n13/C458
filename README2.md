@@ -53,3 +53,30 @@
 
 <h1>Recommendation 2: Focus on Variety, Nutrient Density, and Amount</h1>
 <p>choose a variety of nutrient-dense foods from each food group in recommended amounts. Focus on variety, nutrient density, and amount. Nutrient-dense foods provide vitamins, minerals, and other substances with little or no solid fats and added sugars, refined starches, or sodium.</p>
+
+<h3>Example of nutrient-dense food choices include the following:</h3>
+
+| **CHOOSE THIS FOOD**                       | **INSTEAD OF THIS FOOD**                      | **RATIONALE**                                                                                                                                                   |
+|-------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fresh fruit (80–100 calories)             | 1 cup fruit juice drink (140 calories)<br>12 ounces sweetened sugar drinks (160 calories) | Whole fruit has fiber not found in fruit juice or sweetened beverages. Unlike whole fruit, sweetened sugar drinks do not have any vitamins or minerals.         |
+| Skinless grilled chicken breast (31 calories per ounce) | Chicken nuggets (85 calories per ounce)        | Chicken nuggets have more calories, saturated fat, and sodium than grilled chicken.                                                                             |
+| 1 cup kale and quinoa salad (190 calories)| 1 cup Caesar salad with romaine lettuce (180 calories) | The calories of these salads are almost the same, but the kale and quinoa have more nutrient value. Kale has vitamins A, C, and K and fiber. Quinoa is a complete protein rich in fiber, iron, zinc, B vitamins, magnesium, potassium, and calcium. |
+
+---
+
+<h1>Recommendation 3: Limit Sugars and Saturated Fats and Reduce Sodium Intake</h1>
+
+<p>Consume food low in added sugars, saturated fats, and sodium. Cut back on foods and beverages higher in these components to amounts that fit within a healthy eating pattern. 
+
+For example, added sugars are found in sodas, soft drinks, and processed baked goods. Saturated and trans fats are found in ice cream and fast food like hamburgers. Pizza and sliced processed meats for sandwiches have high levels of sodium. </p>
+
+<h1>Recommendation 4: Shift to Healthier Food and Beverage Choices</h1>
+
+<p>Replace typical food and beverage choices with more nutrient-dense options. Be sure to consider personal preferences to maintain shifts over time. 
+
+For example, instead of fettuccine alfredo — a pasta dish with refined grains and high-fat dairy—choose pasta primavera made with whole-grain pasta, vegetables, and a small amount of olive oil.</p>
+
+
+
+
+
