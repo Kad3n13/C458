@@ -113,3 +113,44 @@ For example, instead of fettuccine alfredo — a pasta dish with refined grains 
 > TIP:
 > <p>Beverages that are calorie-free—especially water—or nutrient-dense beverages, such as fat-free and low-fat milk and 100% juice, should be the primary beverages consumed. Limit sugar-sweetened beverages such as soft drinks, sports drinks, and fruit drinks that are less than 100% juice.</p>
 
+# Did I Get This  
+## Question 2
+
+> This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.
+
+### **U.S. Dietary Guidelines for Beverages**
+
+**Question:**  
+Rodney is eating lunch at a restaurant and wants to order a beverage. According to the Dietary Guidelines, which two beverages, other than water, are a healthier choice than a soft drink?
+
+| **Beverage Option**        | **Healthy Choice?** | **Rationale**                                                                                          |
+|----------------------------|----------------------|---------------------------------------------------------------------------------------------------------|
+| Latte coffee with non-fat milk | ✅ Yes               | Contributes beneficial nutrients such as calcium and protein from non-fat milk.                         |
+| Fruit drink                | ❌ No                | Typically contains added sugars and few nutrients.                                                     |
+| Unsweetened iced tea       | ✅ Yes               | Calorie-free beverage with no added sugars; aligns with healthy beverage guidelines.                   |
+| Sports drink               | ❌ No                | Often high in added sugars and not recommended unless for intense physical activity.                   |
+
+**Correct!**  
+Beverages that are calorie-free—especially water—or that contribute beneficial nutrients, such as fat-free and low-fat milk and 100% juice, should be the primary beverages consumed within the overall daily calorie limits.
+
+---
+
+## Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify the dietary guidelines and key recommendations for a healthy diet.
+
+### **The Five General Dietary Guidelines:**
+1. **Follow a healthy eating pattern across the life span.**  
+2. **Focus on variety, nutrient density, and amount.**  
+3. **Limit calories from added sugars and saturated fats, and reduce sodium intake.**  
+4. **Shift to healthier food and beverage choices.**  
+5. **Support healthy eating patterns in all situations.**
+
+### **Guidance for Beverages:**
+- Beverages are a component of a healthy eating pattern.
+- **Primary choices should be:**  
+  - Calorie-free beverages (especially water)  
+  - Beverages that contribute beneficial nutrients (e.g., **fat-free and low-fat milk**, **100% juice**)
+
+---
+
