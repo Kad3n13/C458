@@ -48,8 +48,8 @@
   <li>Trans fats</li>
   <li>Added sugars</li>
   <li>Soduim</li>
-  ---
-
-<h1>R</h1>
-  
 </ul>
+---
+
+<h1>Recommendation 2: Focus on Variety, Nutrient Density, and Amount</h1>
+<p>choose a variety of nutrient-dense foods from each food group in recommended amounts. Focus on variety, nutrient density, and amount. Nutrient-dense foods provide vitamins, minerals, and other substances with little or no solid fats and added sugars, refined starches, or sodium.</p>
