@@ -371,5 +371,39 @@ There are many strategies to help you eat healthy, including the following:
 - Use **nutrition facts labels** to obtain product-specific information (e.g., serving size, calories, nutrient information). Compare food labels to help you select healthier, nutrient-dense foods and monitor portion sizes.
 
 
+# Nutrition Quiz
+
+---
+
+## Question 1 of 3
+
+**Anita is trying to eat healthier and follow the U.S. Dietary Guidelines. Which guideline is one of the recommendations?**
+
+- ❌ Only animal sources of protein provide adequate levels of protein.  
+- ❌ Fruit juice is considered a good option for increasing fruit consumption.  
+- ❌ Saturated fats are considered the better option when compared to unsaturated fats.  
+- ✅ Low-fat and non-fat milk are preferable to whole milk.  
+
+---
+
+## Question 2 of 3
+
+**Kai is planning meals for the week using the MyPlate tool and U.S. dietary guideline recommendations. They currently eat chicken, turkey, and tofu. Which strategy can they use to increase the variety of nutrient-dense protein sources?**
+
+- ❌ Avoid all animal products and adopt a vegetarian diet with rice, beans, soy products, nuts, and seeds.  
+- ✅ Add lean meats, low-fat dairy products, beans, nuts, seeds, fish, and seafood to their current protein choices.  
+- ❌ Eat more chicken, turkey, and fish, and add low-fat dairy products, but avoid red meat and pork.  
+- ❌ Add nuts and seeds to their current choices.  
+
+---
+
+## Question 3 of 3
+
+**Which recommendation is based on the U.S. Dietary Guidelines?**
+
+- ❌ Limit the use of oils, saturated fat, and trans fats.  
+- ✅ Eat a variety of vegetables.  
+- ❌ Eat more protein.  
+- ❌ Avoid all gluten products.  
 
 
