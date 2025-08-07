@@ -76,6 +76,21 @@ For example, added sugars are found in sodas, soft drinks, and processed baked g
 
 For example, instead of fettuccine alfredo — a pasta dish with refined grains and high-fat dairy—choose pasta primavera made with whole-grain pasta, vegetables, and a small amount of olive oil.</p>
 
+---
+
+<h1>Recommendation 5: Support Healthy Eating Patterns in all Situations</h1>
+
+<p>Everyone has a role in creating and supporting healthy eating patterns in multiple settings nationwide, from home to school to work to community. As a teacher, you will have an important role supporting children and teaching them both how to make healthy food choices and what the impact is of nutrition on physical and emotional health.</p>
+
+# Did I Get This - Question 1
+
+| **Scenario** | **Dietary Guideline** | **Explanation** |
+|--------------|------------------------|------------------|
+| Jay and his wife have two children... They eat more low-fat meat, use oils, herbs, and whole fruits. | **Follow a healthy eating pattern across the life span** | Correct! Jay and his family are choosing healthy foods for proper growth, maintaining a healthy weight, and limiting added sugar and sodium. |
+| Ellen eats fruits, vegetables, low-fat protein daily, and controls portion sizes to avoid weight gain. | **Focus on variety, nutrient density, and amount** | Correct! Ellen focuses on nutrient-dense foods and portion sizes to maintain her body weight. |
+| Sean is overweight and has high blood pressure... avoids sugary foods, uses fresh ingredients. | **Limit calories from added sugars and saturated fats and reduce sodium intake** | Correct! Sean is limiting saturated fats, sodium, and added sugar to improve his health. |
+| Ping replaces sodas with seltzer, stir-fries instead of deep frying, and brown rice over white rice. | **Shift to healthier food and beverage choices** | Correct! Ping is making healthier choices like oils over saturated fats, whole grains, and water instead of soda. |
+| Helga teaches her students about Dietary Guidelines and healthy choices. | **Support healthy eating patterns in all situations** | Correct! Helga is promoting healthy eating patterns through education and guidance. |
 
 
 
