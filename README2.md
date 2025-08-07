@@ -234,8 +234,141 @@ There are many different strategies that you can use to align the **MyPlate** re
   
   > <li>* Pair a protein and a carbohydrate to keep you fuller for longer. Examples include having an apple with string cheese or yogurt.</li>
 
-
-  
-  
 </ul>
+
+> <h3>Smart Snacks in Schools</h3>
+
+>TIP:
+><p>As of the 2014–2015 school year, all competitive foods and beverages sold during the school day must meet or exceed Smart Snacks in Schools nutrition standards, which include limits on fat, sugar, sodium, and calorie content. To meet the standards, schools must offer healthier competitive foods for their snacks and à la carte foods and beverages.</p>
+
+<h3>Strategy: Read Nutrition Facts Labels</h3>
+
+<p>People look at food labels for different reasons. One of the most important reasons is to help make quick, informed food choices that contribute to a healthy diet. The information in the main section of the food label contains product-specific information (serving size, calories, and nutrient information) and, therefore, can vary with each food product. All of the nutrition information listed on the Nutrition Facts Label is based on one serving of the food. </p>
+
+---
+
+# Did I Get This - Nutrition & Dietary Guidelines Quiz
+
+---
+
+## Question 1: Healthy Eating Patterns
+
+**Scenario & Dietary Guideline Matching**
+
+| **Scenario** | **Dietary Guideline** | **Explanation** |
+|--------------|------------------------|------------------|
+| Jay and his wife have two children... They eat more low-fat meat, use oils, herbs, and whole fruits. | **Follow a healthy eating pattern across the life span** | Correct! Jay and his family choose healthy foods for proper growth, healthy weight, and limited added sugar and sodium. |
+| Ellen eats fruits, vegetables, low-fat protein daily, and controls portion sizes. | **Focus on variety, nutrient density, and amount** | Correct! Ellen focuses on nutrient-dense foods and portion sizes to maintain her body weight. |
+| Sean is overweight, has high blood pressure, avoids sugary foods, uses fresh ingredients. | **Limit calories from added sugars and saturated fats and reduce sodium intake** | Correct! Sean limits saturated fats, sodium, and added sugars to improve health. |
+| Ping replaces sodas with seltzer, stir-fries instead of deep frying, brown rice over white rice. | **Shift to healthier food and beverage choices** | Correct! Ping makes healthier choices like oils over saturated fats, whole grains, and water instead of soda. |
+| Helga teaches students about Dietary Guidelines and healthy choices. | **Support healthy eating patterns in all situations** | Correct! Helga promotes healthy eating patterns through education. |
+
+---
+
+## Question 2: Healthy Beverage Choices
+
+Rodney is eating lunch and wants to order a beverage. Which two beverages, other than water, are healthier choices than a soft drink?
+
+| Beverage Option            | Healthy Choice? | Rationale |
+|---------------------------|-----------------|-----------|
+| Latte coffee with non-fat milk | ✅ Yes         | Provides beneficial nutrients like calcium and protein. |
+| Fruit drink               | ❌ No           | Contains added sugars, few nutrients. |
+| Unsweetened iced tea      | ✅ Yes          | Calorie-free, no added sugars. |
+| Sports drink              | ❌ No           | Often high in added sugars; recommended only for intense activity. |
+
+**Summary:** Calorie-free beverages and those contributing beneficial nutrients (fat-free/low-fat milk, 100% juice) should be primary choices.
+
+---
+
+## Question 3: MyPlate Food Groups
+
+| Food Group     | Recommendation                                                                                          |
+|----------------|-------------------------------------------------------------------------------------------------------|
+| Vegetables 🥦  | Make half your plate fruits and vegetables.                                                           |
+| Fruits 🍎      | Focus on whole fruits (fresh, canned, frozen, dried).                                                 |
+| Grains 🌾      | Half your grains should be whole grains (all kernel layers).                                         |
+| Protein 🍗     | Vary protein sources; choose nutrient-dense animal and plant proteins.                               |
+| Dairy 🥛       | Choose low-fat or fat-free milk or yogurt. Plant-based milks like soy are included if fortified.      |
+
+---
+
+## Question 4: Fiber and Sodium Strategies
+
+Fatima wants to eat more fiber and limit sodium. Which two strategies help?
+
+- ✅ Read ingredients on food labels  
+- ✅ Use MyPlate guidelines for fruits and vegetables  
+- ❌ Eat packaged peanut butter crackers  
+- ❌ Eat nutrient-dense foods (too general)
+
+**Explanation:** Fruits and vegetables are naturally low sodium and high fiber. Nutrition labels list fiber and sodium contents.
+
+---
+
+## Question 5: Whole Grains Identification
+
+Lucas is using MyPlate, which two foods are whole grains?
+
+- ❌ Couscous  
+- ✅ Popcorn  
+- ❌ Wheat bread *(depends if whole grain)*  
+- ✅ Oatmeal  
+
+**Explanation:** Whole grains include popcorn, oatmeal, brown rice, and others that contain all grain kernel layers.
+
+---
+
+## Question 6: Fruit Recommendations
+
+Nora uses MyPlate focusing on nutrient-dense foods. Which two products meet fruit recommendations?
+
+- ✅ Unsweetened applesauce  
+- ❌ Canned peaches in light syrup  
+- ❌ Cranberry juice  
+- ✅ Frozen strawberries  
+
+**Explanation:** Applesauce and frozen strawberries have no added sugars and provide fiber and vitamins; juices and canned fruits often have added sugars.
+
+---
+
+## Question 7: Required Nutrients on Food Labels
+
+Arya compares nutrition labels. Which four nutrients are required on all food labels?
+
+- ✅ Saturated fat  
+- ❌ Polyunsaturated fat  
+- ❌ Monounsaturated fat  
+- ✅ Sugars  
+- ✅ Trans fat  
+- ✅ Dietary fiber  
+
+**Explanation:** Labels must list total fat, saturated fat, trans fat, cholesterol, sodium, total carbs, dietary fiber, sugars, protein, vitamins A & C, calcium, and iron. Poly- and mono-unsaturated fats are optional.
+
+---
+
+## Question 8: Nutrient-Dense Snacks
+
+Diego wants snacks to reduce sweets cravings. Which two are nutrient-dense?
+
+- ✅ Trail mix bar (nuts, raisins, carob)  
+- ❌ Salsa with tortilla chips  
+- ✅ Low-fat yogurt  
+- ✅ Hummus with carrot sticks  
+
+**Explanation:** Nutrient-dense foods provide high nutritional value per calorie. Hummus (protein, fiber, oils), carrots (vitamin A, fiber), and low-fat yogurt (vitamins, minerals) are good choices.
+
+---
+
+# Lesson Summary
+
+- Follow healthy eating patterns across the life span.  
+- Focus on variety, nutrient density, and amount.  
+- Limit calories from added sugars and saturated fats, reduce sodium.  
+- Shift to healthier food and beverage choices.  
+- Support healthy eating patterns in all situations.  
+
+Use tools like **MyPlate** and nutrition labels to make informed, healthy choices.
+
+
+
 
