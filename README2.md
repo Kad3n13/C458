@@ -92,6 +92,24 @@ For example, instead of fettuccine alfredo — a pasta dish with refined grains 
 | Ping replaces sodas with seltzer, stir-fries instead of deep frying, and brown rice over white rice. | **Shift to healthier food and beverage choices** | Correct! Ping is making healthier choices like oils over saturated fats, whole grains, and water instead of soda. |
 | Helga teaches her students about Dietary Guidelines and healthy choices. | **Support healthy eating patterns in all situations** | Correct! Helga is promoting healthy eating patterns through education and guidance. |
 
+<h1>Best Beverage Choices</h1>
 
+<p>When you think about your overall food intake, it is easy to forget that the beverages you drink are part of your diet. In fact, they account for almost 20% of total calorie intake. When it comes to beverages, the largest source of calories is sweetened beverages, accounting for 35% of calories. For these reasons and others, the recent Dietary Guidelines included beverages as part of the eating pattern.</p>
 
+<p>Beverages vary in their nutrient and calorie content. Some, like water, do not contain any calories. Others, like soft drinks, contain calories but little nutritional value. Finally, drinks like milk and fruit and vegetable juices contain important nutrients such as calcium, potassium, and vitamin D in addition to calories.</p>
+
+<p>Beverages make a substantial contribution to total water needs and to nutrient and calorie intakes in most typical eating patterns. In fact, other major sources of calories from beverages are milk and milk drinks, alcoholic beverages, fruit and vegetable juices, and coffee and tea. </p>
+
+<h1>What Should You Drink?</h1>
+
+<p>Beverages that are calorie-free (especially water) or that contribute beneficial nutrients, such as fat-free and low-fat milk and 100% juice, should be the primary beverages consumed. Milk and 100% fruit juice should be consumed within recommended food group amounts and calorie limits. Coffee, tea, and flavored waters also can be selected if no sugar is added.</p>
+
+<h1>What Should You Avoid or Limit</h1>
+
+<p>Sugar-sweetened beverages, such as soft drinks, sports drinks, and fruit drinks that are less than 100% juice can contribute excess calories while providing few or no key nutrients. If they are consumed, amounts should be within overall calorie limits and limits for calories from added sugars. Coffee, tea, and flavored waters also can be selected, but calories from cream and added sugars should be accounted for in the eating plan.</p>
+
+> Beverage Choices
+
+> TIP:
+> <p>Beverages that are calorie-free—especially water—or nutrient-dense beverages, such as fat-free and low-fat milk and 100% juice, should be the primary beverages consumed. Limit sugar-sweetened beverages such as soft drinks, sports drinks, and fruit drinks that are less than 100% juice.</p>
 
