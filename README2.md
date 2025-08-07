@@ -155,3 +155,47 @@ Now that you have completed this lesson, you should be able to identify the diet
 
 ---
 
+<h2>Learning Objectives</h2>
+
+> * <p>Identify healthy-eating strategies based on current dietary guidelines and recommendations.</p>
+
+<p>Knowing the five Dietary Guidelines is important, but more importantly, you need to know how to put the guidelines into practice. In this lesson, you will learn about strategies and resources that you can use to ensure you can align your diet to meet the guidelines and teach your students to do the same.</p>
+
+<h3>Stategy: Use MyPlate</h3>
+
+<p>As you may recall, the first dietary guideline recommends eating healthy by choosing a variety of vegetables, whole fruit and grains, low-fat proteins, and dairy products or fortified soymilk. It also recommends limiting saturated fats, sodium, and added sugars. This is great information, but it does not really tell you how to eat a healthy meal. </p>
+
+
+# MyPlate — Food Groups
+
+The USDA created **MyPlate** as a tool to help people visualize types of food and how these foods, in combination, make up a healthy meal. According to MyPlate, there are **five food groups**:
+
+- Fruits  
+- Vegetables  
+- Protein  
+- Grains  
+- Dairy  
+
+## MyPlate Food Groups and Recommendations
+
+| **Food Group** | **Recommendation** |
+|----------------|--------------------|
+| 🥦 **Vegetables** | Make half your plate fruits and vegetables. |
+| 🍎 **Fruits** | Focus on whole fruits. Whole fruits include fresh, canned, frozen, and dried forms. |
+| 🌾 **Grains** | Half the grains you eat each day should be whole grains. Whole grains include all three layers of the grain kernel: outer, inner, and middle. |
+| 🍗 **Protein** | Vary your protein routine. Choose nutrient-dense proteins from both animal and plant sources. |
+| 🥛 **Dairy** | Move to low-fat or fat-free milk or yogurt. The dairy group includes low-fat and fat-free dairy, including milk, yogurt, cheese, or soymilk. Other plant-based products sold as "milks" may contain added calcium but are not included in the dairy group because their overall nutrient content is not similar to dairy milk and fortified soy beverages. |
+
+---
+
+## MyPlate Strategies for a Healthy Meal
+
+There are many different strategies that you can use to align the **MyPlate** recommendations with the **Dietary Guidelines**. Aim to:
+
+- Fill half your plate with fruits and vegetables.
+- Choose whole grains for at least half your grain intake.
+- Include a variety of protein foods.
+- Opt for low-fat or fat-free dairy.
+- Limit added sugars, sodium, and saturated fats.
+
+
