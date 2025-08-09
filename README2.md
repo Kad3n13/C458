@@ -507,5 +507,23 @@ Now that you have completed this lesson, you should be able to describe componen
 - **Gluten-free diet**: Avoids wheat, rye, barley, and products containing gluten. Used by individuals with celiac disease or wheat allergies.  
 - **Food selectivity**: A restrictive eating pattern typically based on the food's textures, smells, and tastes.  
 
+<h1>Learning Objectives</h1>
+<h3>Describe common food allergies and intolerances and their effects on the body.</h3>
+<p>One in five children and 32 million Americans have food allergies, and the numbers keep rising. Lactose intolerance, the most common specific food intolerance, affects about 10% of Americans. These individuals need to follow a special diet because their bodies negatively react to the food or nutrient. What is the difference between a food allergy and a food intolerance, and why do you need to know it? In this lesson, you will learn about common food allergies, food intolerances, and their symptoms.</p>
+
+<h1>Food Allergies</h1>
+<p>A food allergy occurs when the immune system overreacts to foods or beverages that contain a specific food protein. This food is harmless to most people, but to someone who is allergic to the food, it can be life-threatening. According to FoodAllergy.org, "Researchers estimate that 32 million Americans have food allergies, including 5.6 million children under age 18. That's one in 13 children, or roughly two in every classroom. About 40 percent of children with food allergies are allergic to more than one food."</p>
+
+<h3>Common Food Allergies</h3>
+<p>In the U.S., there are eight foods that cause most food allergy reactions. Review the common food allergies in children and adults.</p>
+
+| Common Food Allergies in Children | Common Food Allergies in Adults |
+|-----------------------------------|----------------------------------|
+| Eggs                              | Fish                             |
+| Milk                              | Peanuts                          |
+| Peanuts                           | Shellfish                        |
+| Soy                               | Tree nuts                        |
+| Tree nuts (e.g., almonds, cashews, walnuts, etc.) |                                  |
+| Wheat                             |                                  |
 
 
