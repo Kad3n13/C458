@@ -554,5 +554,57 @@ Now that you have completed this lesson, you should be able to describe componen
   <li>Always ask questions when eating food you have not prepared yourself. </li>
   <li>If you have medication, take it with you wherever you go.</li>
   <li>In the classroom, make sure you know which students have allergies and what types of allergies they are.</li>
-  
 </ul>
+
+<h1>Food Intolerance</h1>
+<p>Food intolerance, commonly referred to as food sensitivity, is different than food allergies. The differences are based on the body system that triggers the reaction, the severity of the response, and the symptoms. When you have a food allergy, your immune system causes a reaction such as itching, swelling, redness, and pain. If you have a food sensitivity or intolerance, the reaction is started by a chemical reaction, not the immune system. Typically the symptoms are related to the digestive system.</p>
+<h3>Causes and Examples of Food Intolerances</h3>
+<p>Food sensitivities and intolerances are more common than food allergies. Review the following table of common causes, types of intolerances, and the rationale for why they occur.</p>
+
+| Type of Intolerance      | Example                          | Description |
+|--------------------------|----------------------------------|-------------|
+| **Lack of enzyme**       | Lactose (milk and milk product) intolerance | The body does not have the right enzymes needed to digest a certain food. For example, the body does not have lactase enzyme to break down lactose sugar. |
+| **Additives and preservatives** | Sulfites in wine                 | The body reacts to food additives or preservatives that are not naturally found in a product. |
+| **Pharmacological**      | Caffeine (coffee)                | The body is sensitive to naturally found chemicals, such as caffeine or salicylates. This may be genetic. |
+| **Sensitivity to macronutrient** | Foods with fermentable sugars (onions, broccoli, or brussels sprouts) | The body is not able to digest these short-chain (simple) fermentable carbohydrates. |
+
+<h3>Food Intolerance Reactions</h3>
+<p>The symptoms for a mild to moderate food allergy or intolerance may sometimes be similar, but most of the reactions to food intolerance develop in the digestive system. Food intolerance reactions, unlike a food allergy, are usually related to the amount of the food consumed. While symptoms caused by food intolerance can be immediate, they may take 12 to 24 hours to develop. Symptoms include the following:</p>
+<ul>
+  <li>gas</li>
+  <li>bloating</li>
+  <li>diarrhea</li>
+  <li>stomach pain or cramping</li>
+  <li>constipation</li>
+  <li>nausea</li>
+</ul>
+
+>Food Allergy versus Food intolerance
+
+>TIP:
+>Unlike food allergies, food intolerances do not involve the immune system. A food intolerance is a chemical reaction to a particular food, drink, or nutrient.
+
+## Lesson Activity – Food Allergy vs. Food Intolerance
+
+| Statement | Food Allergy | Food Intolerance |
+|-----------|--------------|------------------|
+| Main symptoms include itching, swelling, redness, and sometimes difficulty breathing. | ✅ | |
+| Main symptoms include bloating, gas, and gastrointestinal symptoms. | | ✅ |
+| These can be fatal. | ✅ | |
+| Common foods that cause a reaction are eggs and peanuts. | ✅ | |
+| Reactions are triggered by the immune system. | ✅ | |
+| Reactions are triggered by a chemical reaction. | | ✅ |
+
+---
+
+## Lesson Summary
+
+Now that you have completed this lesson, you should be able to describe common food allergies and intolerances and their effects on the body:
+
+- **Food allergies** occur when the immune system overreacts to a food or beverage that contains a specific protein.  
+  - **Common food allergens**: peanuts, eggs, soy, shellfish, tree nuts.  
+  - **Symptoms**: can be mild or life-threatening; may include difficulty breathing, difficulty talking, itching, swelling, redness, diarrhea, and loss of consciousness.
+
+- **Food intolerance** is caused by a chemical reaction to a specific type of food; it is **not** an immune reaction.  
+  - **Common food intolerances**: milk and milk products, foods or beverages with sulfites or caffeine, vegetables with non-fermentable simple carbohydrates.  
+  - **Symptoms**: bloating, cramping, stomach pain, diarrhea, constipation.
