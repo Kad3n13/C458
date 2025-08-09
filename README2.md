@@ -440,3 +440,17 @@ There are many strategies to help you eat healthy, including the following:
 >TIP:
 > <p>Because B-12 is only found in animal prodcuts, vegans need reliable sources of vitamin B-12, such as fortified foods or supplements.</p>
 
+<h3>Therapeutic Diets---High and Low</h3>
+<p>A therapeutic diet is a meal plan that controls the intake of certain foods or nutrients to prevent, manage, or treat diseases and disorders. Some diets focus on specific macronutrients—carbohydrates, proteins, and fats—or calories. Other diets, such as the diabetic diet and celiac diet (gluten-free), focus on managing a specific disease.</p>
+
+<h3>Macronutrient and Calorie Diets</h3>
+<p>Low-fat, low-calorie, and high-protein diets are all examples of modified diets that focus on macronutrients or calories. Review the following table with a description of these diets.</p>
+
+| Type of Diet       | Focus                                                   | Description                                                                                                                                                                                                 | Comments                                                                                             |
+|--------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Low-fat**        | Focus on limiting the percentage of calories from fats. | A low-fat diet may also limit saturated fat and cholesterol in addition to total fat. A very low-fat diet is restricted to 15% of daily calories from fat.                                                  | May reduce the occurrence of conditions such as heart disease and obesity.                          |
+| **Low-calorie**    | Focus on weight loss by restricting the total number of calories from all sources of macronutrients. | A low-calorie diet restricts the total number of calories consumed compared to the total number of calories needed. The goal is weight loss.                                                               | Promotes weight loss and reduces the occurrence of obesity; may also lower blood pressure.           |
+| **High-protein**   | Focus on consuming more protein.                         | A high-protein diet requires a higher percentage of protein consumption compared to the U.S. Recommended Dietary Allowance (RDA).                                                                          | Often used by athletes to increase muscle mass; may be unhealthy for some individuals.               |
+| **Low-carbohydrate** | Focus on restricting calories and grams of carbohydrates. | There are many variations of this type of diet. A low-carbohydrate diet restricts the intake of carbohydrates (20–60 grams) per day and, therefore, requires a higher intake of fat and protein to obtain calories and nutrients. There is no calorie restriction in this diet. | May produce weight loss; may be unhealthy for some.                                                  |
+
+
