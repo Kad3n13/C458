@@ -608,3 +608,17 @@ Now that you have completed this lesson, you should be able to describe common f
 - **Food intolerance** is caused by a chemical reaction to a specific type of food; it is **not** an immune reaction.  
   - **Common food intolerances**: milk and milk products, foods or beverages with sulfites or caffeine, vegetables with non-fermentable simple carbohydrates.  
   - **Symptoms**: bloating, cramping, stomach pain, diarrhea, constipation.
+
+<h3>Take a moment to think about what you have learned in this module:</h3>
+<ul>
+  <li>Individuals modify their diets to achieve a health goal, to manage a disease, or to avoid a negative reaction to foods. They may also choose these diets for ethical or religious reasons or because of their food preferences. </li>
+  <li>Types of modified diets include the vegetarian, low-fat, low-calorie, high-protein, low-carbohydrate, gluten-free, diabetic, food allergy restricted, and food intolerance diets.</li>
+</ul>
+
+## Lesson Activity – Modified Diets
+
+| Question | Scenario | Correct Answer | Explanation |
+|----------|----------|----------------|-------------|
+| **Q1** | Carl avoids eating milk and yogurt because it causes stomach pain and bloating. | **Food intolerance** | Carl has lactose intolerance, meaning he lacks the enzyme needed to break down lactose sugar in dairy products. |
+| **Q2** | Mia is an athlete who is trying to increase her muscle mass. She eats more protein at lunch and dinner and drinks protein shakes for snacks. | **High-protein diet** | A high-protein diet focuses on consuming more protein than the RDA to support muscle growth. |
+| **Q3** | Lucas has celiac disease and needs to avoid wheat, rye, and barley. | **Gluten-free diet** | A gluten-free diet eliminates wheat, rye, barley, and foods made from them to manage celiac disease. |
