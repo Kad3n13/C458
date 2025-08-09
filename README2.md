@@ -453,4 +453,59 @@ There are many strategies to help you eat healthy, including the following:
 | **High-protein**   | Focus on consuming more protein.                         | A high-protein diet requires a higher percentage of protein consumption compared to the U.S. Recommended Dietary Allowance (RDA).                                                                          | Often used by athletes to increase muscle mass; may be unhealthy for some individuals.               |
 | **Low-carbohydrate** | Focus on restricting calories and grams of carbohydrates. | There are many variations of this type of diet. A low-carbohydrate diet restricts the intake of carbohydrates (20–60 grams) per day and, therefore, requires a higher intake of fat and protein to obtain calories and nutrients. There is no calorie restriction in this diet. | May produce weight loss; may be unhealthy for some.                                                  |
 
+<h3>Therapeutic Diets---Diebetic and Glueten-Free</h3>
+<h4>Diabetic Diet</h4>
+<p>In addition to exercise and medication, diabetes can be controlled and managed with a specific meal plan. The focus of a diabetic diet is to control blood glucose (sugar) levels. There are two methods of meal planning: using the MyPlate guidelines or counting carbohydrates. The MyPlate method helps you control your portion sizes. The carbohydrate counting method involves monitoring a specified number of grams of carbohydrates consumed each day.</p>
+
+<p>Both methods control blood sugar levels by restricting foods and beverages with added sugars, limiting the amount of refined carbohydrate foods, and requiring that meals be eaten at regular intervals. Skipping meals causes a fluctuation in blood sugar levels, making it difficult to control. To control blood sugar, individuals on a diabetic diet need to plan the following:</p>
+
+| Plan               | Recommendation |
+|--------------------|----------------|
+| **Meal Timing**    | **To maintain even blood sugars:**<br>- Avoid skipping meals.<br>- Eat smaller meals throughout the day. |
+| **Portion Sizes**  | **To reduce portion sizes:**<br>- Make half the plate non-starchy vegetables and fruits.<br>- Watch the portion sizes of starchy vegetables and refined grains. |
+| **Types of Foods** | **To reduce calorie intake:**<br>- Choose whole grains and high-fiber carbohydrates.<br>- Eat less fat and fatty meats.<br>- Avoid sugars and sugar-sweetened foods and beverages.<br>- Limit fruit juices; eat whole fruit instead. |
+
+
+> <h3>Diabetes and Blood Sugars</h3>
+
+> <h3>TIP:</h3>
+><p>The focus of the diabetic diet is to control blood sugar levels. Some individuals will also need to restrict calories, sodium, and fats to manage other chronic diseases such as obesity, heart disease, and high blood pressure.</p>
+
+<h3>Celiac Diet (Gluten-Free)</h3>
+<p>Gluten-free diets are popular right now; for most people, it is more of a food preference than a therapeutic diet. Gluten-free diets are essential for managing signs and symptoms of celiac disease, non-celiac gluten sensitivity, and wheat allergies. Gluten—a protein found in grains such as wheat, barley, rye, and triticale (a wheat and rye mix)—cannot be digested by individuals with celiac disease, causes an allergic reaction in individuals with wheat allergies, and is not well tolerated with individuals who have gluten sensitivity.</p>
+
+<p>To follow a gluten-free diet, individuals must avoid consuming wheat, rye, barley, and products containing gluten—bread, pasta, and cereals. Instead, they should choose substitute grains such as whole oats, millet, and rice that provide nutrients for a healthy diet.</p>
+
+<h3>Food Selectivity</h3>
+<p>Food selectivity, although not technically a modified diet, is a type of restricted diet. Some children (and adults) are labeled "picky eaters" because they refuse to try or eat a variety of foods. Although many young children are picky eaters, parents of children with autism spectrum disorder have reported that their children have difficulty with food textures, smells, and tastes. Thus, they may have a very restricted selection of acceptable foods.</p>
+
+<p>Why is this a problem? Picky eating, also referred to as food selectivity, is a significant problem because it may be associated with inadequate nutrition as a result of the restricted diet. It may also cause problems in a social setting and be a stressor in classroom and home settings.</p>
+
+<h3>Religious or Ethical Restrictions</h3>
+<p>Dietary considerations for individuals can also be influenced by beliefs. As mentioned above, some people avoid eating meat due to ethical beliefs about the treatment of animals or the environment. Religious beliefs can also influence food choice. For example, some Hindus avoid consuming eggs, fish, meat, and poultry. In some groups in Judaism, certain foods are restricted as well as food preparation methods.</p>
+
+| Description | Correct Modified Diet |
+|-------------|------------------------|
+| Sara avoids eating wheat, rye, barley, and any products containing these grains. | **Gluten-free diet** |
+| Jack eats six small portion-controlled meals. If he skips a meal, he feels light-headed and tired. He also limits refined-carbohydrate foods like pasta and bread and avoids foods and beverages with added sugars. | **Diabetic diet** |
+| Maya eats a variety of foods from all of the food groups but in limited portions to help her lose weight. | **Low-calorie diet** |
+| Kamal does not eat any beef, pork, poultry, wild game, seafood, fish, dairy products, or eggs. He also does not eat honey because it comes from an animal. | **Vegan** |
+| Oliver limits the percentage of calories from fats, including saturated and unsaturated fats. | **Low-fat diet** |
+| Eva enjoys a diet that focuses on eating more protein. | **High-protein diet** |
+| Lucas does not eat gelatin, okra, mushrooms, jellies, or any type of food that is "slimy." | **Food selectivity** |
+
+## Lesson Summary
+
+Now that you have completed this lesson, you should be able to describe components of common modified diets. Take a moment to think about what you have learned:
+
+- **Vegetarian**: Restricts flesh foods such as meat, poultry, wild game, seafood, and fish. Some more restricted vegetarians will also exclude dairy products and eggs.  
+- **Low-fat diet**: Limits total calories from all fats. Individuals may also limit saturated fat and cholesterol.  
+- **Low-calorie diet**: Focuses on a deficit of calories compared to the individual's daily calorie needs to maintain body weight.  
+- **High-protein diet**: Focuses on consuming more protein compared to what is recommended by the RDA.  
+- **Low-carbohydrate diet**: Restricts the calories and grams of carbohydrates consumed.  
+- **Diabetic diet**: Controls blood sugar levels by limiting the intake of foods and beverages with added sugars. Individuals plan portion-sized meals and should not skip meals.  
+- **Gluten-free diet**: Avoids wheat, rye, barley, and products containing gluten. Used by individuals with celiac disease or wheat allergies.  
+- **Food selectivity**: A restrictive eating pattern typically based on the food's textures, smells, and tastes.  
+
+
 
