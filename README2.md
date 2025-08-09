@@ -435,3 +435,8 @@ There are many strategies to help you eat healthy, including the following:
 | **Vegan**             | Restricts all flesh foods and their products; may also restrict honey. |
 | **Raw vegan**         | Eats vegetables, nuts, seeds, legumes, and sprouted grains; uncooked food consumption varies from 75% to 100%. |
 
+> <h1>Vegan B-12 Requirement</h1>
+
+>TIP:
+> <p>Because B-12 is only found in animal prodcuts, vegans need reliable sources of vitamin B-12, such as fortified foods or supplements.</p>
+
