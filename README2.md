@@ -773,3 +773,213 @@ Use this Children and Teen BMI calculator opens a new window to determine the BM
 | Gaining weight         | In caloric excess       | You are eating more calories than your body is using. Your body stores these extra calories as fat, leading to weight gain. |
 | Losing weight          | In caloric deficit      | You are eating fewer calories than you are using. Your body pulls from fat stores for energy, causing weight loss. |
 
+<h3>Calories to Maintain Weight: Adults</h3>
+<p>The number of calories an individual needs each day depends on the individual's age, gender, weight, height, and amount and type of exercise. Typically, adult women need 1,600–2,400 calories per day, and adult men need 2,000–3,000 calories per day. Inactive adults are at the lower calorie range. Calorie needs generally decrease for adults as they age.</p>
+
+<h3>Calories for Growth and Development: Children and Adolescents</h3>
+<p>The estimated number of calories for children ranges from 1,000–2,000 calories per day for younger children up to 1,400–3,200 calories per day for adolescents. Boys generally have higher calorie needs than girls. </p>
+
+<h3>Calories to Lose Weight</h3>
+<p>To lose one pound of body fat, you would need to take in approximately 3,500 calories below your calorie needs. To lose about one to two pounds in a week, you will need a calorie deficit of 500–1000 calories per day. This can be achieved by eating fewer calories, being more physically active, or both. For example, to lose one pound in a week, eat 250 fewer calories and burn 250 calories through exercise each day. Use the online MyPlate Plan Calculator opens a new window to determine your daily calorie needs.</p>
+
+<h1>Weight Management Strategies</h1>
+<p>When it comes to weight loss, there are many fad diets promising fast results. But such diets can limit your nutritional intake, can be unhealthy, and tend to fail in the long run. The key to achieving and maintaining a healthy weight isn't about short-term dietary changes. It's about a lifestyle choice that includes healthy eating, regular physical activity, and balancing the number of calories you consume with the number of calories your body uses.</p>
+
+<ul>
+  <li>When losing weight, more physical activity increases the number of calories your body burns for energy. </li>
+  <li>The burning of calories through physical activity, combined with reducing the number of calories you eat, creates a "calorie deficit" that results in weight loss.</li>
+  <li>Evidence shows the only way to maintain weight loss is to be engaged in regular physical activity.</li>
+  <li>Physical activity reduces the risk of cardiovascular disease and diabetes beyond that produced by weight reduction alone.</li>
+</ul>
+
+  <p>To maintain your weight, work your way up to 150 minutes of moderate-intensity aerobic activity, 75 minutes of vigorous-intensity aerobic activity, or an equivalent mix of the two each week. Examples of moderate and vigorous activity include the following:1</p>
+  
+| Moderate Activity                                | Vigorous Activity                                |
+|-------------------------------------------------|-------------------------------------------------|
+| Walking briskly (a 15-minute mile)               | Jogging/running                                 |
+| Light yard work (e.g., raking and bagging leaves, using a lawn mower) | Swimming laps                                   |
+| Light snow shoveling                              | Elliptical machine or biking at 16–18 mph      |
+| Actively playing with children                    | Cross-country skiing                            |
+| Biking at a casual pace (12 miles-per-hour)      | Most competitive sports (e.g., football, basketball, or soccer) |
+|                                                   | Jumping rope                                    |
+
+<h1>Weight Management Strategy: Healthy Eating</h1>
+<h3>Strategy: It's All About Balance</h3>
+<p>Do you have to give up your favorite comfort food? No! Healthy eating is all about balance. You can enjoy your favorite foods even if they are high in calories, fat, or added sugars. Some general tips for high-fat and high-calorie foods include the following:</p>
+<ul>
+  <li>eat comfort foods less often. </li>
+  <li>eat smaller amounts. </li>
+  <li>try a lower-calorie version. </li>
+  <li>add more non-starchy vegetables.</li>
+  <li>avoid added fats.</li>
+</ul>
+
+<h3>Strategy: Rethink Your Drink</h3>
+<p>Many people don't realize just how many calories beverages can contribute to their daily calorie intake. The good news is that you have plenty of options for reducing the number of calories in what you drink.</p>
+
+| Higher Calorie Beverage                 | Lower Calorie Alternative             |
+|---------------------------------------|-------------------------------------|
+| Medium whole milk café latte (265 calories) | Medium non-fat milk café latte (125 calories) |
+| Regular soft drink: 20 ounce (227 calories)  | Seltzer or diet soft drink (0 calories)        |
+| Sweetened iced tea: 16 ounce (180 calories)  | Sparkling water with lemon (0 calories)        |
+
+<h1>Strategy: Watch Out for Added Sugar</h1>
+<p>Sweeteners that add calories go by many different names. Some common caloric sweeteners are listed below. If these appear in the ingredients list of your favorite beverage or food, you know the food or drink has been sweetened with sugar.</p>
+
+<ul>
+  <li>high-fructose corn syrup; corn syrup</li>
+  <li>fructose</li>
+  <li>fruit juice concentrates</li>
+  <li>sugar</li>
+  <li>sucrose (table sugar)</li>
+  <li>dextrose </li>
+  <li>malt</li>
+</ul>
+
+> <h3>How to Spot a Sugar</h3>
+
+> <h3>TIP:</h3>
+> <p>When reading food labels, look for ingredients ending in -ose, such as dextrose or fructose, because they are a sugar or form of carbohydrate.</p>
+
+<h1>Weight Management Strategy: Portion Control</h1>
+<p>Research shows that people unintentionally consume more calories when faced with larger portions. This can mean significant excess calorie intake, especially when eating high-calorie foods. Here are some tips to help you avoid some common portion-size pitfalls.</p>
+
+<ul>
+  <li>Eating out: Split an entrée with a friend, or ask for a to-go box and wrap up half your meal when it is brought to the tab</li>
+  <li>Eating in: Serve the food on individual small plates instead of putting the serving dishes on the table.</li>
+  <li>Eating in front of the TV: Try to avoid eating while watching TV. If you really need to eat in front of the TV, put the amount that you plan to eat into a small bowl or container instead of eating straight from the package. </li>
+  <li>Snack: If you feel hungry between meals, eat a healthy snack, like a piece of fruit or small salad, to avoid overeating during your next meal.2</li>
+</ul>
+
+## Weight Management Strategies
+
+### Questions & Answers
+
+**Q1: Dave eats sugary sweets every morning at work but works out daily. Which strategies can help him maintain his weight?**
+
+- Eat one sweet a week rather than every day.  
+- Drink water with the sweets to feel more satisfied.  
+- Eat the sweets and work out as usual in the morning.  
+- Plan a healthy snack in the afternoon to reduce hunger at dinner.  
+
+**Correct Answers:**  
+- Eat one sweet a week rather than every day.  
+- Drink water with the sweets to feel more satisfied.  
+- Plan a healthy snack in the afternoon to reduce hunger at dinner.  
+
+---
+
+**Q2: Lara’s teen wants a soft drink with dinner. Which two options help maintain weight?**
+
+- Fruit juice drink  
+- Unsweetened iced tea  
+- Sports drink  
+- Seltzer water  
+
+**Correct Answers:**  
+- Unsweetened iced tea  
+- Seltzer water  
+
+---
+
+**Q3: Lara reads salad dressing labels for hidden sugars. Which five ingredients are forms of sugar?**
+
+- Dried milk  
+- Cane sugar  
+- Vinegar  
+- Honey  
+- Corn syrup  
+- Modified corn starch  
+- Soybean oil  
+- Maltodextrin  
+
+**Correct Answers:**  
+- Cane sugar  
+- Dried milk  
+- Honey  
+- Corn syrup  
+- Maltodextrin  
+
+*Note:* Modified corn starch is a complex carbohydrate and not considered a sugar.
+
+---
+
+**Q4: Dave gained five pounds over the holidays. He bikes 3 days a week for 45 minutes. Which three strategies can help him lose weight?**
+
+- Bike faster for 30 minutes instead of 45 minutes.  
+- Bike five days a week instead of three.  
+- Eat 250 fewer calories per day, and bike for 60 minutes.  
+- Eat 500 fewer calories per day.  
+
+**Correct Answers:**  
+- Bike five days a week instead of three.  
+- Eat 250 fewer calories per day, and bike for 60 minutes.  
+- Eat 500 fewer calories per day.  
+
+*Note:* Exercising more frequently or longer increases calorie expenditure. Reducing calories helps promote weight loss. Exercising more intensely but for less time is less effective than longer exercise or increased frequency combined with calorie reduction.
+
+---
+
+## Lesson Summary
+
+- **Caloric balance** is like a scale: calories consumed must equal calories used via body functions, daily activities, and exercise to maintain weight.  
+- **Weight maintenance strategies include:**  
+  - Working up to 150 minutes/week of moderate-intensity aerobic activity, 75 minutes/week of vigorous aerobic activity, or a mix.  
+  - Reducing calories from high-fat/high-calorie foods by eating smaller portions and substituting with lower-calorie or lower-fat options. Add more non-starchy vegetables.  
+  - Choosing lower-calorie beverages like non-fat milk, water, and calorie-free carbonated drinks.  
+  - Avoiding added sugars; read labels for corn syrup, fructose, sucrose, dextrose, malt.  
+  - Watching portion sizes; eat smaller portions and serve food individually. Include healthy snacks between meals to prevent overeating.  
+
+<ul>
+  <li>Maintaining a healthy body weight reduces the risk of chronic diseases and conditions. It can also affect social and emotional health. </li>
+  <li>Body mass index (BMI) is used as a screening tool to evaluate weight status. It does not measure body fat. In children and teens, the BMI is calculated the same way as for adults except that it is interpreted using the BMI-for-age percentiles.</li>
+  <li>To maintain a certain body weight, the calories consumed from food must be balanced by the calories used through normal body functions, daily activities, and exercise.</li>
+  <li>Strategies to maintain or achieve a healthy body weight include the following:</li>
+  <ul>
+    <li>Exercise on a regular basis</li>
+    <li>Reduce calories from high-fat, high-sugar, high-calorie foods.</li>
+    <li>Avoid added sugars.</li>
+    <li>Watch portion size.</li>
+  </ul>
+</ul>
+
+## BMI and Healthy Weight – Lesson Activity
+
+**Question 1:**  
+What should someone do to achieve a healthy body weight if BMI is classified as overweight?  
+
+- Avoid all sugar.  
+- Use the BMI percentile chart to track body weight.  
+- Eat fewer than 1,000 calories per day.  
+- Increase physical activity.  
+
+**Correct Answer:**  
+- Increase physical activity.
+
+---
+
+**Question 2:**  
+Maya recently lost 10 pounds and is now classified with a healthy BMI. Which benefit could she expect by maintaining a healthy body weight?  
+
+- Reduced risk of high blood pressure  
+- Improved mental cognition  
+- Increased metabolism  
+- Reduced risk of infections  
+
+**Correct Answer:**  
+- Reduced risk of high blood pressure.
+
+---
+
+**Question 3:**  
+How do health professionals use BMI results?  
+
+- It determines a person's body fat percentage.  
+- It is used to diagnose heart disease.  
+- It is a screening tool for weight status.  
+- It determines body composition.  
+
+**Correct Answer:**  
+- It is a screening tool for weight status.
+
+<h1>MODULE 10 (PG)[57]</h1>
