@@ -755,3 +755,21 @@ Use this Children and Teen BMI calculator opens a new window to determine the BM
   \]
 - Adults with BMI ≥ 25 are considered overweight or obese.  
 - For children and teens, BMI is interpreted using BMI-for-age percentiles rather than direct BMI ranges.
+
+<h1>Learning Objectives</h1>
+<h3>Describe healthy weight management strategies.</h3>
+
+<p>Have you ever been on a weight-loss diet? If so, you know how difficult it is to lose weight and keep it off. There are many factors that make it difficult to maintain a healthy body weight, including genes, eating habits, physical activity, screen time (e.g., TV, computer, phone), sleep habits, medical conditions or medications, and access to healthy foods and safe places to be active. In this lesson, you will learn about what calorie (energy) balance is, how to estimate daily calorie needs, and which strategies you can implement to maintain a healthy body weight.</p>
+
+<h1>Energy (Calorie) Balance</h1>
+<p>When it comes to maintaining a healthy weight for a lifetime, the bottom line is that calories count. Weight management is all about balance—balancing the number of calories you consume with the number of calories your body uses, or "burns." As you know, a calorie is defined as a unit of energy supplied by food. A calorie is a calorie regardless of its source. Whether you're eating carbohydrates, fats, sugars, or proteins, they all contain calories.</p>
+
+<h3>Caloric Balance</h3>
+<p>Caloric balance is like a scale. To remain in balance and maintain your body weight, the calories consumed from food must be balanced by the calories used through normal body functions, daily activities, and exercise.</p>
+
+| If You Are…          | Your Caloric Balance Is… | How It Works                                                   |
+|----------------------|--------------------------|----------------------------------------------------------------|
+| Maintaining your weight | In balance              | You are eating roughly the same number of calories that your body is using. Your weight will remain stable. |
+| Gaining weight         | In caloric excess       | You are eating more calories than your body is using. Your body stores these extra calories as fat, leading to weight gain. |
+| Losing weight          | In caloric deficit      | You are eating fewer calories than you are using. Your body pulls from fat stores for energy, causing weight loss. |
+
