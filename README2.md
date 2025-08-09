@@ -425,3 +425,13 @@ There are many strategies to help you eat healthy, including the following:
 
 <h3>Spectrum of Vegetarian Diets</h3>
 <p>There is a spectrum of vegetarianism. Some individuals refrain from all animals and their products while other will eat eggs, milk, and milk products. Review the following types and descriptions of vegtarian diets.</p>
+
+| Type of Vegetarianism | Foods Restricted or Included |
+|-----------------------|------------------------------|
+| **Vegetarian**        | Restricts flesh foods such as meat (e.g., beef, pork), poultry, wild game, seafood, and fish but may eat their products (e.g., milk, butter, and eggs). |
+| **Lacto-ovo vegetarian** | Restricts all flesh foods; eats eggs and dairy products (Lacto and ovo are from the Latin words for milk and egg). |
+| **Lacto-vegetarian**  | Restricts all flesh foods; drinks milk and eats milk products. |
+| **Ovo-vegetarian**    | Restricts all flesh foods; eats eggs. |
+| **Vegan**             | Restricts all flesh foods and their products; may also restrict honey. |
+| **Raw vegan**         | Eats vegetables, nuts, seeds, legumes, and sprouted grains; uncooked food consumption varies from 75% to 100%. |
+
