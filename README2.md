@@ -622,3 +622,136 @@ Now that you have completed this lesson, you should be able to describe common f
 | **Q1** | Carl avoids eating milk and yogurt because it causes stomach pain and bloating. | **Food intolerance** | Carl has lactose intolerance, meaning he lacks the enzyme needed to break down lactose sugar in dairy products. |
 | **Q2** | Mia is an athlete who is trying to increase her muscle mass. She eats more protein at lunch and dinner and drinks protein shakes for snacks. | **High-protein diet** | A high-protein diet focuses on consuming more protein than the RDA to support muscle growth. |
 | **Q3** | Lucas has celiac disease and needs to avoid wheat, rye, and barley. | **Gluten-free diet** | A gluten-free diet eliminates wheat, rye, barley, and foods made from them to manage celiac disease. |
+
+<h1>MODULE 9</h1>
+
+<p>According to data from the National Health and Nutrition Examination Survey (NHANES), more than 70.2% of adults are overweight or have obesity, and 1 in 6 children and adolescents ages 2 to 19 are obese. Do these statistics surprise you? They should! These numbers continue to rise. The good news is that there are solutions to stop this upward trend. After engaging in this module, you should be able to describe the benefits of and the strategies for maintaining a healthy body weight.</p>
+
+<h1>Learning Objectives</h1>
+<h3>Describe the benefits of maintaining a healthy body weight and the use of BMI to assess it.</h3>
+
+<h1>Benefits of Healthy Body Weight</h1>
+<p>Maintaining a healthy body weight is good for your physical, social, and emotional health. A healthy body weight reduces the risk of the following:</p>
+
+<ul>
+  <li>cardiovascular disease and diabetes</li>
+  <li>some cancers (endometrial, breast, colon, kidney, gallbladder, and liver)</li>
+  <li>infertility</li>
+  <li>sleep apnea</li>
+  <li>asthma</li>
+  <li>arthritis and gallstones</li>
+</ul>
+
+<h1>Assessing a Healthy Body Weight—BMI</h1>
+
+<p>Using the scale alone is not a good indicator of a healthy weight because it doesn't account for an individual's height. One model that can help give a more complete view of health is BMI (body mass index). Adult BMI opens a new window is used as a screening tool to evaluate whether an individual is overweight or obese. BMI is calculated the same way for both adults and children: weight x 703 ÷ height2. If an individual's weight is higher than what is considered a healthy weight for a given height, it is described as overweight or obese. 
+
+Use this Adult BMI calculator opens a new window to determine your BMI. To manually calculate your BMI, use this formula: weight (lb) x 703 ÷ height (in)</p>
+
+<h3>BMI and Body Fatness</h3>
+<p>It is important to note that BMI does not measure body fat directly, but the correlation between BMI and body fatness is strong. BMI seems to be more accurate as an indicator of body fatness with higher levels of BMI. In addition, two people can have the same BMI, but their level of body fatness may differ. For example, an athlete may have a high BMI because of increased muscularity rather than increased body fatness.</p>
+<p>BMI is one way to model healthy weight, but it does not include all factors that contribute to a healthy lifestyle. Additional information and evaluation by a health professional can provide a more complete picture of a healthy weight for an individual.</p>
+
+<h1>BMI Interpretation</h1>
+<h4>Adults</h4>
+<p>For adults 20 years old and older, BMI is interpreted using standard weight status categories. These categories are the same for men and women of all body types and ages. The standard weight status categories associated with BMI ranges for adults are shown in the following table</p>
+
+| BMI Range    | Weight Status   |
+|--------------|-----------------|
+| < 18.5       | Underweight     |
+| 18.5 – 24.9  | Healthy weight  |
+| 25.0 – 29.9  | Overweight      |
+| > 30.0       | Obese           |
+
+
+<h3>Children and Adolescents</h3>
+<p>MI is interpreted differently for children and teens than for adults. The health professional will calculate the BMI using the same formula as the adult. Then the BMI is plotted on the BMI-for-age percentile growth charts. This extra step is necessary because weight and height change during growth and development, as does the relation to body fatness. A child's BMI must be interpreted relative to other children of the same sex and age.</p>
+
+| Percentile Range | Weight Status   |
+|------------------|-----------------|
+| < 5%             | Underweight     |
+| 5% – 85%         | Healthy weight  |
+| 85% – 95%        | Overweight      |
+| > 95%            | Obese           |
+
+
+<p>For children and teens, BMI is only used to screen for potential weight- and health-related issues. It is not a diagnostic tool. For example, a child may have a high BMI for his or her age and sex, but to determine if excess fat is a problem, a healthcare provider would need to perform further assessments.
+
+Use this Children and Teen BMI calculator opens a new window to determine the BMI of a child or adolescent.2</p>
+
+> <h1>Children's and Teens' BMI</h1>
+
+>TIP:
+> <p>The BMI formula is the same as it is for adults, but the classification of weight status is based on BMI-for-age percentiles. You do not need to memorize the classifications; just know how the BMI is calculated and interpreted.</p>
+
+## Benefits of Maintaining a Healthy Weight
+
+### Questions & Answers
+
+**Q1: Which three benefits result from maintaining a healthy body weight?**
+
+- Reduced risk of arthritis  
+- Improved mood  
+- Reduced risk of asthma  
+- Higher metabolism  
+- Lower risk of hypertension  
+
+**Correct Answers:**  
+- Reduced risk of arthritis  
+- Reduced risk of asthma  
+- Lower risk of hypertension  
+
+---
+
+**Q2: Which statement about BMI is true?**
+
+- BMI is a screening tool for obesity.  
+- BMI calculates body fatness.  
+- BMI is calculated differently for adults and children.  
+- BMI is a diagnostic tool for heart disease.  
+
+**Correct Answer:**  
+- BMI is a screening tool to evaluate weight status: underweight, normal weight, overweight, or obese.
+
+---
+
+**Q3: A pediatrician is evaluating a 5-year-old boy’s weight status using BMI. Which four measurements will she use?**
+
+- Body fat percentage  
+- BMI-for-age percentile chart  
+- Age  
+- Height  
+- Weight  
+
+**Correct Answers:**  
+- BMI-for-age percentile chart  
+- Age  
+- Height  
+- Weight  
+
+*Note:* BMI does not measure body fat.
+
+---
+
+**Q4: Stuart calculated his BMI and wants to determine his weight status. Match the BMI ranges to the correct weight status categories for adults:**
+
+| BMI Range  | Weight Status   |
+|------------|-----------------|
+| < 18.5     | Underweight     |
+| 18.5–24.9  | Healthy weight  |
+| 25.0–29.9  | Overweight      |
+| > 30.0     | Obese           |
+
+---
+
+## Lesson Summary
+
+- Maintaining a healthy body weight reduces the risks of chronic diseases and conditions, and positively impacts social and emotional health.  
+- Total body weight consists of lean body mass (water, bone, muscle, organs) and fat mass. Excess fat increases risk for chronic diseases.  
+- BMI is a screening tool used to evaluate a person's weight status; it **does not** measure body fat. Categories include underweight, normal (healthy) weight, overweight, and obese.  
+- BMI calculation is the same for adults and children:  
+  \[
+  \text{BMI} = \frac{\text{weight (lbs)} \times 703}{\text{height (in)}^2}
+  \]
+- Adults with BMI ≥ 25 are considered overweight or obese.  
+- For children and teens, BMI is interpreted using BMI-for-age percentiles rather than direct BMI ranges.
