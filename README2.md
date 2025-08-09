@@ -526,4 +526,33 @@ Now that you have completed this lesson, you should be able to describe componen
 | Tree nuts (e.g., almonds, cashews, walnuts, etc.) |                                  |
 | Wheat                             |                                  |
 
+>Peanut Allergy
 
+>TIP:
+><p>The peanut allergy is one of the most common allergies in children. Peanuts are a type of legume and grow underground. They are not the same as tree nuts, which grow on trees. Fortunately, 25% of children will outgrow a peanut allergy. Being allergic to peanuts does not increase the chance of being allergic to tree nuts or another type of legume.</p>
+
+<h3>Food Allergy Reactions and Prevention</h3>
+<p>Food allergy reactions always involve the immune system. They can also involve the skin, digestive system, respiratory system, and (in the most serious cases) the cardiovascular system. Symptoms can range from mild (e.g., rashes, hives, itching, swelling) to severe (e.g., trouble breathing, wheezing, loss of consciousness, anaphylaxis ). Life-threatening reactions can occur within minutes and require urgent medical attention. </p>
+
+<h4>Review the following symptoms of food allergies:</h4>
+
+| Non-Life-Threatening Symptoms | Life-Threatening Symptoms (Anaphylaxis) |
+|--------------------------------|------------------------------------------|
+| Itching in and around mouth    | Difficult or noisy breathing; wheezing  |
+| Hives or eczema                | Swelling of the tongue                  |
+| Nasal congestion, runny nose   | Tightness in throat; difficulty talking |
+| Gastrointestinal pains*        | Persistent cough; dizziness or collapse |
+|                                | Becoming pale and floppy (in young children) |
+
+*This is not always present.
+
+<h3>Preventing a Food Allergy Reaction</h3>
+<p>ood allergy reactions can be alarming. The only way to prevent an allergic reaction is by avoiding the food. Use the following strategies to reduce the risk of an allergic reaction:</p>
+
+<ul>
+  <li>Read the ingredient section of food labels.</li>
+  <li>Always ask questions when eating food you have not prepared yourself. </li>
+  <li>If you have medication, take it with you wherever you go.</li>
+  <li>In the classroom, make sure you know which students have allergies and what types of allergies they are.</li>
+  
+</ul>
