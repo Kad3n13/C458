@@ -411,3 +411,17 @@ There are many strategies to help you eat healthy, including the following:
 <h1>Module 8</h1>
 
 > <h1>BOOKMARK(pg)[47]</h1>
+
+<p>According to international Food information Council, 36% of Americans follow a specific diet. Many individuals mkae modifications to the recommended dietary guideline to achieve a health goal such as weight loss, to omit foods that cause a negative reaction in teh body, to avoid foods that are not aligned to their religious or ethical b eliefs , or simply to adhere to food preferences. After engaging in this module, you should be able to describe diffrent types of modified diets.</p>
+
+<h1>Learning Objectives</h1>
+
+> <h3>Describe components of common modified diets.</h3>
+
+<p>When you here the word "diet", what comes to mind? About 20 years ago, the word typically referred to a weight loss or therapeutic diet, such as the diabetic diet. However, the meaning expanded to incorporate any type of meal plan that is modified either to meet an indiviual's lifestyle, food preferenced, religious restrictions, or for ethical reasons, in this lesson, you will learn about common modified diets such as vegetarian, low-flat, low-calorie, high-protein, diabetic, and gluten-free diets.</p>
+
+<h1>Vegetarian Diet</h1>
+<p>According to a recent nationwide poll, approximately 5% of American adults are vegetarian, and 3% are vegan However, with the popularity of plant-based diets and the avalibility of plant based alternative foods, this number may rise in the coming years. People choose a vegetarian diet for many reasons, including compassion toward animals, enviornmental protection, and risk reduction and management of chronic diseases.</p>
+
+<h3>Spectrum of Vegetarian Diets</h3>
+<p>There is a spectrum of vegetarianism. Some individuals refrain from all animals and their products while other will eat eggs, milk, and milk products. Review the following types and descriptions of vegtarian diets.</p>
