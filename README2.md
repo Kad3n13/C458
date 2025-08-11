@@ -1254,3 +1254,56 @@ Now that you have completed this lesson, you should be able to identify common f
 
 - **Chill**, refrigerate, and freeze foods properly. If perishable food is left out for more than two hours, **throw it out**.
 
+## Take a Moment to Reflect
+
+Take a moment to think about what you have learned in this module:
+
+- Federally funded school programs promote healthy children through nutritious meals, resources, and training.  
+  - The **National School Lunch Program (NSLP)** and **School Breakfast Program (SBP)** provide nutritionally balanced, low-cost or no-cost meals to children each school day.  
+  - **Team Nutrition** and **CDC Healthy Schools** support NSLP and SBP through training, resources, and wellness policies.
+
+- Use the **four steps** to prevent foodborne illness: **clean, separate, cook, and chill**.
+
+# Food Safety Quiz
+
+---
+
+## Question 1 of 3
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which federally funded program provides nutritious low-cost and no-cost meals to children each day?**
+
+- School Food Service Program  
+- National School Lunch Program  
+- CDC Healthy Schools Program  
+- School Team Nutrition Program  
+
+---
+
+## Question 2 of 3
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Adherence to which food safety guideline reduces the risk of spreading bacteria among foods by cross-contamination?**
+
+- Separate vegetables and fruits in the refrigerator.  
+- Use different cutting boards for produce and raw meat.  
+- Cook meat and vegetables separately.  
+- Cook meat to an internal temperature of 120°F.  
+
+---
+
+## Question 3 of 3
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which guideline is the most effective hand-washing practice to prevent the spread of bacteria?**
+
+- Wash your hands before and after eating.  
+- Use hand sanitizers instead of washing your hands.  
+- Wash your hands in hot, soapy water for 10 seconds.  
+- Clean the sink with a paper towel after washing your hands.  
+
+
+---
