@@ -1035,6 +1035,7 @@ Founded in 1966, the School Breakfast Program (SBP) provides nutritious breakfas
 <ul>
   <li>Strategies for nutrition promotion and education, physical activity, and other school-based activities that promote student wellness</li>
   <li>Nutrition guidelines for all foods sold on each school campus during the school day </li>
+</ul>
 
   ## Government School Food Programs and Resources
 
@@ -1055,4 +1056,4 @@ Founded in 1966, the School Breakfast Program (SBP) provides nutritious breakfas
 - **Team Nutrition** is an initiative providing nutrition training and educational resources to schools participating in federally funded food programs.
 - **CDC Healthy Schools** works with school systems to develop school wellness programs and policies to prevent chronic diseases and promote the health of school-aged children.
 
-</ul>
+
