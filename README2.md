@@ -1314,4 +1314,143 @@ Now that you have completed this unit, you should be able to do the following:
     Describe the benefits of and strategies for maintaining a healthy body weight and the use of BMI to assess it.
     Identify school food programs and basic principles of food safety.
 
+# Nutrition and Food Safety Quiz
+
 ---
+
+## Question 1 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which macronutrient does an athlete need to build muscle?**
+
+- Fat  
+- Water  
+- Protein  
+- Carbohydrate  
+
+---
+
+## Question 2 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which vitamin is water-soluble?**
+
+- Vitamin C  
+- Vitamin A  
+- Vitamin D  
+- Vitamin E  
+
+---
+
+## Question 3 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**MyPlate is a tool to help people visualize types of food and how these foods, in combination, make up a healthy meal.**
+
+**Which statement is a MyPlate guideline?**
+
+- Make half of each plate whole-grain foods.  
+- Make half of each plate dairy and beverages.  
+- Make half of each plate fruits and vegetables.  
+- Make half of each plate protein-rich foods.  
+
+---
+
+## Question 4 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which type of food should individuals limit according to the current Dietary Guidelines for Americans?**
+
+- Nuts and seeds  
+- Frozen fruit  
+- Chicken nuggets  
+- Low-fat dairy  
+
+---
+
+## Question 5 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which food item will vegans include in their diet?**
+
+- Nuts  
+- Eggs  
+- Milk  
+- Fish  
+
+---
+
+## Question 6 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which food would be restricted in a gluten-free diet?**
+
+- Quinoa  
+- Pasta  
+- Corn  
+- Rice  
+
+---
+
+## Question 7 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which strategy can help individuals maintain a healthy body weight?**
+
+- Eating a gluten-free diet rather than a regular diet  
+- Gardening for 60 minutes as a form of exercise  
+- Planning a mid-afternoon snack of carrots and hummus  
+- Consuming fruit juice drinks instead of soda  
+
+---
+
+## Question 8 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**BMI is used as a screening tool to evaluate weight status.**
+
+**What is the most likely benefit of an individual achieving a healthy BMI through a combination of diet and exercise?**
+
+- Increased appetite levels  
+- Decreased risk of sleep disorders  
+- Increased metabolism  
+- Reduced risk of high blood pressure  
+
+---
+
+## Question 9 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**Which program provides nutrition training and educational resources to schools participating in the federally funded food programs?**
+
+- The School Breakfast Program (SBP)  
+- CDC Healthy Schools  
+- Team Nutrition  
+- The National School Lunch Program (NSLP)  
+
+---
+
+## Question 10 of 10
+
+*This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.*
+
+**What is an effective way to prevent cross-contamination?**
+
+- Cook foods in different pots and pans.  
+- Use different cutting boards for meat and produce.  
+- Store food in separate containers in the freezer.  
+- Rinse produce before cutting or consuming.  
+
+
+---
+
+
