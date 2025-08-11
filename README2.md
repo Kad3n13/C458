@@ -983,3 +983,76 @@ How do health professionals use BMI results?
 - It is a screening tool for weight status.
 
 <h1>MODULE 10 (PG)[57]</h1>
+
+<p>Nearly 100,000 schools and institutions serve school lunches to 29.8 million students each day. Students who participate in school breakfast programs have higher standardized test scores and lower levels of absenteeism. Over 30% of deaths from foodborne illness occur in children under the age of five.</p>
+
+<p>The United States government supports the health of children with federally funded school food nutrition programs, training, and nutrition resources. It also establishes food safety guidelines to prevent foodborne illnesses. After engaging in this module, you should be able to identify school food programs and basic principles of food safety.</p>
+
+<h1>Learning Objectives</h1>
+
+<h3>Describe the national school food and wellness programs and their benefits.</h3>
+
+<p>School food programs are critical to student health and well-being, especially for low-income students. They ensure that students have the nutrition they need throughout the day to learn. Research shows that receiving free or reduced-price school lunches reduces food insecurity, obesity rates, and poor health. In this lesson, you will learn about the national school food programs and other government programs that promote the health of children through healthy nutrition practices.</p>
+
+<h3>School Breakfast and Lunch Programs</h3>
+
+<p>The School Breakfast Program
+Founded in 1966, the School Breakfast Program (SBP) provides nutritious breakfast meals to students at participating schools. There are three kinds of meals students may be eligible for: free meals, reduced-price breakfast, and full-price (paid) meals based upon the family's income.</p>
+
+<h3>Is the Program Effective? </h3>
+
+<p>Over 91,000 schools and 15 million students are participating in the SBP as of 20201. This includes full-, reduced- and free-priced meals. Research demonstrates that the SBP increases both nutrition for students and cognitive achievement while reducing food insecurity 2. It is possible that improved nutrition provides some of the micronutrients critical for brain development and the neurological processes of learning. </p>
+
+<h3>The School Lunch Program</h3>
+
+<p>The National School Lunch Program (NSLP), like the SBP, is a federally assisted meal program operating in public and nonprofit private schools and residential childcare institutions. It provides nutritionally balanced, low-cost, no-cost and full-priced lunches to children each school day. The program serves approximately 30 million children each year as of 2022</p>
+
+<h3>What about Snacks? </h3>
+<p>School food authorities can also be reimbursed for snacks served to children who participate in an approved educational afterschool program.</p>
+
+<h3>How Do the Programs Work?</h3>
+
+<p>he programs are generally operated by public or nonprofit private schools of high school grade or below. Participating school districts and independent schools receive cash subsidies and USDA foods for each reimbursable meal they serve. In exchange, NSLP institutions must serve lunches that meet federal meal pattern requirements and offer the lunches and breakfasts at a free or reduced price to eligible children.</p>
+
+<h3>Are the Meals Nutritious?</h3>
+
+<p>Schools participating in the NSLP and SBP require participating schools to offer nutritious meals meeting the U.S. Dietary Guidelines. The meal patterns are based on the MyPlate food groups—fruits, vegetables, grains, protein, and fluid milk—in portions appropriate for the child's age. In adherence to the U.S. Dietary Guidelines, the meals limit sodium and saturated fats and do not allow any foods with trans fat or minimal nutritional value</p>
+
+<h3>Team Nutrition</h3>
+
+<p>Team Nutrition, an initiative of the USDA's Food and Nutrition Service, supports the NSLP and SBP by providing nutrition training and educational resources to schools, childcare settings, and summer meal sites that participate in these programs.</p>
+
+<h3>What Resources Are Available? </h3>
+
+<p>Team Nutrition helps communicate messages using MyPlate to prompt students to build a healthy plate at mealtime. The program offers a variety of resources, including lesson plans, hands-on activities, videos, and graphics that teachers can use if their schools participate in the NSLP. View the Team Nutrition Resource Catalog opens a new window.</p>
+
+<h1>School Wellness Programs</h1>
+
+<p>Schools play an important role in promoting the health and safety of children and adolescents by helping them establish lifelong health patterns. Centers for Disease Control (CDC) Healthy Schools works with states, school systems, communities, and national partners to prevent chronic diseases and promote the health and well-being of children and adolescents in schools. </p>
+
+<p>A major initiative of CDC Healthy Schools is to work with school districts to develop a local school wellness program and accompanying policies. The policies must address the following:</p>
+
+<ul>
+  <li>Strategies for nutrition promotion and education, physical activity, and other school-based activities that promote student wellness</li>
+  <li>Nutrition guidelines for all foods sold on each school campus during the school day </li>
+
+  ## Government School Food Programs and Resources
+
+### Match the Program Description to the Program Name
+
+| **Description** | **Program** |
+|-----------------|-------------|
+| This federally funded program provides nutritionally balanced, low-cost, or no-cost lunches to children each school day. | **NSLP** (National School Lunch Program) |
+| This federally funded program provides nutritionally balanced, low-cost, or no-cost breakfast to children in participating schools. | **SBP** (School Breakfast Program) |
+| This initiative provides nutrition training and educational resources to schools participating in the federally funded food programs. | **Team Nutrition** |
+| This program works with school systems to develop school wellness programs to prevent chronic diseases and promote the health and well-being of children and adolescents in schools. | **CDC Healthy Schools** |
+
+---
+
+### ✅ Lesson Summary
+
+- **SBP** and **NSLP** are federally funded programs that provide nutritionally balanced, low-cost, or no-cost meals to children each school day.
+- **Team Nutrition** is an initiative providing nutrition training and educational resources to schools participating in federally funded food programs.
+- **CDC Healthy Schools** works with school systems to develop school wellness programs and policies to prevent chronic diseases and promote the health of school-aged children.
+
+</ul>
