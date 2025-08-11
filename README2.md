@@ -1305,5 +1305,13 @@ Take a moment to think about what you have learned in this module:
 - Wash your hands in hot, soapy water for 10 seconds.  
 - Clean the sink with a paper towel after washing your hands.  
 
+Now that you have completed this unit, you should be able to do the following: 
+
+    Identify the function and sources of macronutrients and micronutrients.
+    Identify components of a healthy diet.
+    Describe different types of modified diets.
+    Describe common food allergies and intolerances and their effects on the body.
+    Describe the benefits of and strategies for maintaining a healthy body weight and the use of BMI to assess it.
+    Identify school food programs and basic principles of food safety.
 
 ---
