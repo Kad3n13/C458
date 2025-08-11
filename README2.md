@@ -1056,4 +1056,201 @@ Founded in 1966, the School Breakfast Program (SBP) provides nutritious breakfas
 - **Team Nutrition** is an initiative providing nutrition training and educational resources to schools participating in federally funded food programs.
 - **CDC Healthy Schools** works with school systems to develop school wellness programs and policies to prevent chronic diseases and promote the health of school-aged children.
 
+<h1>Learning Objectives</h1>
+> Identify common food safety techniques at home and at school.
+
+<p>Did you know that 1 in 6 Americans get sick from food poisoning each year? Nearly 125,000 young children under the age of five die from foodborne diseases every year. Just one tiny bacterium can grow to over 2,097,152 bacteria in seven hours when kept at room temperature. How can you prevent getting ill from contaminated food? It's easy! In this lesson, you will learn about the four steps to prevent foodborne illness: clean, separate, cook, and chill.</p>
+
+<h1>CLEAN: Hands, Utensils, Surfaces, Produce</h1>
+
+<p>Bacteria can be spread throughout the kitchen and get onto hands, cutting boards, utensils, countertops, and food.</p>
+
+<h3>Wash your hands the right way:</h3>
+
+## 🧼 CLEAN: Hands, Utensils, Surfaces, Produce
+
+### Why Clean?
+Bacteria can spread throughout the kitchen and onto hands, cutting boards, utensils, countertops, and food.
+
+---
+
+### ✋ Wash Your Hands the Right Way
+
+1. Use **plain soap and water**.
+2. Scrub:
+   - Backs of hands  
+   - Between fingers  
+   - Under nails  
+   for **at least 20 seconds** (about the length of singing *"Happy Birthday"* twice).
+3. Rinse and dry with a **clean towel**.
+
+---
+
+### 🕒 When to Wash Your Hands
+
+#### **Before**
+- Eating
+
+#### **After**
+- Using the toilet  
+- Blowing your nose, coughing, or sneezing  
+- Touching garbage  
+- Changing diapers or cleaning a child who used the toilet  
+- Touching animals, animal feed, or waste  
+- Handling raw meat, poultry, seafood, their juices, or uncooked eggs
+
+#### **Before and After**
+- Preparing food  
+- Caring for someone who is sick  
+- Treating a cut or wound
+
+---
+
+### 🍽️ Wash Surfaces and Utensils After Each Use
+
+- Use **hot, soapy water** to wash:
+  - Cutting boards  
+  - Dishes  
+  - Utensils  
+  - Countertops
+- Especially after contact with raw meat, poultry, seafood, or eggs.
+- Wash dishcloths often in the **hot cycle** of your washing machine.
+
+---
+
+### 🍎 Wash Fruits and Vegetables (Not Meat!)
+
+- **Scrub firm produce** (e.g., melons, cucumbers) with a clean produce brush.
+- **Do NOT wash**:
+  - Meat  
+  - Poultry  
+  - Eggs  
+  - Bagged produce marked **"pre-washed"**
+
+---
+
+### 💡 Tip: Use of Antibacterial Soap
+
+According to the **U.S. Food and Drug Administration (FDA)**, there's no strong evidence that antibacterial soaps are more effective at preventing illness than **plain soap and water**.
+
+## 🚫 SEPARATE: Don’t Cross-Contaminate
+
+**Cross-contamination is how bacteria spread.**  
+When handling raw meat, poultry, seafood, and eggs, keep these foods and their juices away from ready-to-eat foods.
+
+### ✅ Always Start with a Clean Scene:
+- Wash hands with **warm water and soap**
+- Clean cutting boards, dishes, countertops, and utensils with **hot, soapy water**
+
+### 🛑 Guidelines to Prevent Cross-Contamination:
+- After cutting raw meat, **wash the knife** before using it on vegetables
+- Use **different cutting boards and plates** for produce and raw animal products
+- Use **separate plates** for cooked and raw meats
+- Keep animal products **separate from produce** in the refrigerator and while shopping
+- Store raw meats in **sealed bags or containers** in the fridge
+
+---
+
+## 🍳 COOK: Cook to the Right Temperature
+
+**Food is safely cooked when its internal temperature is high enough to kill harmful germs.**
+
+### 🔥 Cooking Guidelines:
+- Use a **food thermometer** and a **cooking temperature chart** to ensure safety
+- **Keep food hot** after cooking with:
+  - A chafing dish  
+  - Warming tray  
+  - Slow cooker
+- **Microwave food thoroughly** (heat all the way through)
+
+---
+
+## ❄️ CHILL: Refrigerate and Freeze Food Properly
+
+**Cold temperatures slow the growth of harmful bacteria — but don’t kill them.**
+
+### 🌡️ Temperature Settings:
+- Set refrigerator to **40°F (4°C)** or below  
+- Set freezer to **0°F (-18°C)** or below  
+
+### 🧊 Keep Foods Cold:
+- Keep food **in the refrigerator** until it’s ready to be eaten
+- **Throw out** perishable food left at room temperature **more than 2 hours**
+- **Thaw and marinate** meat, poultry, and seafood **in the refrigerator**, not on the counter
+
+---
+
+### 💡 Tip: The 2-Hour Rule
+
+> Discard perishable foods (e.g., meats, cheese, dairy, poultry, casseroles, mayo salads, eggs) that have been kept in the **danger zone (40°F–140°F)** for more than **2 hours**.
+
+# Food Safety Quiz Review
+
+---
+
+## 1. Cleaning Strategies Lora Should Teach
+
+**Which three cleaning strategies should Lora tell her students to use?**
+
+- Use antimicrobial soap and cold water.
+- Wash your hands after blowing your nose.
+- Wash an apple before eating it.
+- Wash your hands before and after handling food.
+
+**Correct Answer:**  
+Wash hands with **warm, soapy water** for 20 seconds before and after handling food and after using the bathroom, blowing your nose, coughing, sneezing, or handling pets. Wash fruits and produce (but **not** meat or animal products) before eating. Antibacterial soap does **not** remove bacteria any better than plain soap.
+
+---
+
+## 2. Preventing Cross-Contamination
+
+**Which two strategies should be used to prevent cross-contamination?**
+
+- Place produce on top of raw meat in the refrigerator.
+- Cook chicken and vegetables separately.
+- Use different cutting boards when cutting chicken and vegetables.
+- Wash the knife before using it to cut vegetables.
+
+**Correct Answer:**  
+When handling raw meat, poultry, seafood, and eggs, keep these foods and their juices away from ready-to-eat foods. Clean cutting boards and knives after cutting animal products. Chicken and vegetables **can** be cooked together as long as the chicken is cooked to the required temperature.
+
+---
+
+## 3. Strategies to Kill Bacteria During Cooking
+
+**Which three strategies should be used to kill bacteria during cooking?**
+
+- Reheat foods if left out for three or more hours.
+- Keep food hot after cooking.
+- Microwave food thoroughly.
+- Use a thermometer to check the internal temperature.
+
+**Correct Answer:**  
+Food is safely cooked when the internal temperature is high enough to kill germs that can make you sick. Use a thermometer and cooking temperature charts to ensure the internal temperature is reached. Keep food hot after cooking, and microwave food thoroughly. Do **not** reheat food left out too long.
+
+---
+
+## 4. What to Do with a Sandwich Left Out for Five Hours
+
+**Sophia is attending a meeting tonight after work. She brought a ham and cheese sandwich from home for dinner. She accidentally left the sandwich on her desk for five hours. What should she do with the sandwich?**
+
+- Heat it in a microwave.
+- Throw it out.
+- Ask the cafeteria staff to put it in the quick-chill refrigerator.
+- Put it in the refrigerator and eat it for dinner.
+
+**Correct Answer:**  
+Because bacteria grow rapidly at room temperature, perishable food like cold-cut meats and cheese should be **thrown out** if left at room temperature for more than two hours. Reheating the sandwich may not kill all the bacteria. Putting the sandwich into the refrigerator will only stop bacterial growth; it will not kill bacteria already present.
+
+## Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify common food safety techniques at home and at school. Take a moment to think about what you have learned in this lesson:
+
+- **Clean** your hands and other surfaces often. Wash for 20 seconds using warm water and soap. Clean surfaces, counters, utensils, and produce. **Do not wash meat.**
+
+- **Separate** raw animal products from ready-to-eat foods. Use different cutting boards and plates, and separate these products in the refrigerator and in your shopping cart.
+
+- **Cook** food to the right temperature. Keep hot foods hot.
+
+- **Chill**, refrigerate, and freeze foods properly. If perishable food is left out for more than two hours, **throw it out**.
 
