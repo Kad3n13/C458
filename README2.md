@@ -1830,10 +1830,85 @@ After completing this lesson, you should be able to identify common mental disor
   - Typically diagnosed in early childhood (within first two years).  
   - Affects social interaction, communication, and may involve restricted or repetitive behaviors.
 
+## 🧠 Module Reflection: What You've Learned
+
+Take a moment to reflect on the key concepts from this module:
+
+- **Mental Health**  
+  Mental health describes emotional, psychological, and social well-being.
+
+- **Warning Signs of Mental Illness**  
+  May include:  
+  - Mood swings  
+  - Avoidance  
+  - Changes in eating and sleeping patterns  
+  - Anxiety  
+  - Negative emotions  
+
+- **Common Mental Health Disorders**  
+  - Depression  
+  - Anorexia nervosa  
+  - Bulimia nervosa  
+  - Binge eating disorder  
+  - Generalized anxiety disorder (GAD)  
+  - Obsessive-compulsive disorder (OCD)  
+  - Attention deficit hyperactivity disorder (ADHD)  
+  - Autism spectrum disorder (ASD)  
+  > It's important to recognize the warning signs of these disorders.
+
+- **Mental Health Professionals**  
+  Specialists who can provide support and guidance include:  
+  - School counselors  
+  - School social workers  
+  - School psychologists  
+  - Psychiatrists
+
+## 📝 Mental Health Knowledge Check
+
+### ✅ Question 1 of 3
+
+**Which trait is a characteristic of individuals with positive mental health?**
+
+- [x] **Cope with life stresses**  
+- [ ] Always positive attitude  
+- [ ] Knows why they have aches or pains  
+- [ ] Very organized and detail-oriented  
+
+**✔️ Correct!**  
+Individuals with positive mental health can realize their full potential, cope with the stresses of life, work more productively, and make meaningful contributions to the community.
+
 ---
 
+### ✅ Question 2 of 3
 
+**Which statement applies to depression?**
 
+- [ ] Depression often begins in early childhood  
+- [x] **To be diagnosed with depression requires symptoms to be present for at least two weeks**  
+- [ ] Depression is best described as sometimes "feeling sad" and is not considered serious  
+- [ ] Men are more often diagnosed with depression than women  
+
+**✔️ Correct!**  
+Depression is a serious mental disorder that affects the brain. It is more common in women and usually presents between ages 15 and 30. Symptoms include sadness, feelings of worthlessness, and loss of energy.
+
+---
+
+### ✅ Question 3 of 3
+
+**Which behavior is a sign of GAD (Generalized Anxiety Disorder)?**
+
+- [ ] Sleeping more than usual  
+- [ ] Feelings of worthlessness  
+- [x] **Having difficulty staying focused on daily tasks**  
+- [ ] Excessive exercising  
+
+**✔️ Correct!**  
+Both children and adults can suffer from GAD. Symptoms include:  
+- Feeling restless and having trouble relaxing  
+- Having trouble concentrating  
+- Being easily startled  
+- Having trouble falling or staying asleep  
+- Feeling physically sick
 ---
 
 
