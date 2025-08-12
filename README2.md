@@ -1450,6 +1450,152 @@ Now that you have completed this unit, you should be able to do the following:
 - Store food in separate containers in the freezer.  
 - Rinse produce before cutting or consuming.  
 
+<p>How you feel can affect your relationships, your ability to carry out everyday activities, and your overall mental health. How you react to your experiences and feelings can change over time. Emotional wellness is the ability to successfully handle life's stresses and adapt to change and difficult times. At the end of this unit, you should be able to identify factors that influence mental, emotional, and social wellness.</p>
+
+<p>1 in 5 of the people you know may experience mental illness at some point in their lives. Disorders vary in impact, ranging from no impairment to mild, moderate, and even severe impairment. Although millions of Americans are affected by mental health conditions every year, only half receive treatment. Knowing the warning signs of common mental health disorders, and who the available mental health professionals are, may be the key to helping an individual get the necessary treatment. After engaging in this module, you should be able to identify the characteristics of mental health and common mental disorders.</p>
+
+<h1>Learning Objectives</h1>
+> Identify characteristics of positive mental health, the warning signs of suicide, and the types of mental health specialists.
+
+<p>Do you know people who always seem sad or gloomy? While everyone has a bad day or suffers from difficult times, when sadness seems never-ending, it's time to pay attention. In this lesson, you will review the components of mental health, both of wellness and illness, and how mental health and wellness can impact your life.</p>
+
+<h3>Mental Health and Wellness</h3>
+
+<p>What is mental health? Mental health describes your emotional, psychological, and social well-being. It affects how you think, feel, and act. It also helps determine how you handle stress, relate to others, and make choices.
+
+Mental health is important at every stage of life, from childhood and adolescence through adulthood. If you experience mental health problems over the course of your life, your thinking, mood, and behavior could be affected. Many factors contribute to mental health problems, including the following:</p>
+
+<ul>
+  <li>biological factors, such as genes or brain chemistry</li>
+  <li>life experiences, such as trauma or abuse</li>
+  <li>family history of mental health problems</li>
+</ul>
+
+<h3>What Is Positive Mental Health?</h3>
+<p>When your outlook on the world is upbeat and positive, you can realize your full potential, cope with the stresses of life, work more productively, and make meaningful contributions to your communities.
+
+Ways to maintain positive mental health include the following:</p>
+
+<ul>
+  <li>connecting with others</li>
+  <li>staying positive</li>
+  <li>getting physically active</li>
+  <li>helping others</li>
+  <li>getting enough sleep</li>
+  <li>developing coping skills</li>
+</ul>
+
+<h3>Mental Illness</h3>
+
+<p>Perhaps you, or someone you know, struggle with mental health challenges. The National Institute of Mental Health estimates that nearly one in five U.S. adults live with a mental illness. In 2017, there were approximately 46.6 million adults with mental illness, and the prevalence is higher in women than men.</p>
+
+<h3>Mental Illness Early Warning Signs</h3>
+
+<p>It's important to recognize the early warning signs and get the necessary help. Some early warning signs include the following:</p>
+
+<ul>
+  <li>eating or sleeping too much or too little</li>
+  <li>avoiding people and usual activities</li>
+  <li>having unexplained aches and pains</li>
+  <li>feeling unusually confused, forgetful, on edge, angry, upset, worried, or scared</li>
+  <li>experiencing severe mood swings that cause problems in relationships</li>
+  <li>thinking of harming yourself or others</li>
+</ul>
+
+
+<h1>Suicide</h1>
+
+<p>Mental illnesses include many different conditions that vary in degree of severity, ranging from mild to moderate to severe. Suicide is a major public health concern and the 10th most common cause of death in the United States. Over 40,000 people die by suicide each year. Suicide is complicated and tragic, but it is often preventable. </p>
+
+<h3>What Is Suicide? </h3>
+<p>Suicide  is defined as the act of ending one's life through direct violence at oneself. A suicide attempt is defined as an attempt by a person to end their own life that does not result in death.</p>
+
+<h3>Who's at Risk?</h3>
+<p>Suicide does not play favorites. People of every age, income, gender, and background can be at risk. Even among people who have risk factors for suicide, most do not attempt suicide. It remains difficult to predict who will act on suicidal thoughts. The main risk factors for suicide include the following:</p>
+
+<ul>
+  <li>A prior suicide attempt</li>
+  <li>Depression and other mental health disorders</li>
+  <li>Substance abuse disorder</li>
+  <li>Family history of a mental health or substance abuse disorder</li>
+  <li>Family violence, including physical or sexual abuse</li>
+  <li>Having guns or other firearms in the home</li>
+  <li>Being exposed to others' suicidal behavior, such as a family member, peer, or media figure</li>
+</ul>
+
+## Suicide References Tip
+
+> It is best to avoid the use of terms like **"committing suicide"** or **"successful suicide"** when referring to a death by suicide, as these terms often carry negative connotations.
+
+---
+
+### **Question 1**
+
+**Which two behaviors are warning signs of suicidal thoughts?**
+
+- [x] Withdrawing from activities  
+- [ ] Experiencing diminished interest in sex  
+- [ ] Having difficulty with concentration  
+- [x] Talking about ending life  
+
+**✅ Correct!**  
+Most people who ended their lives exhibited one or more warning signs, either through what they said or what they did. The warning signs of depression and suicide may be
+
+<h1>Mental Health Specialists</h1>
+<p>There are many types of mental health professionals who can help individuals manage the symptoms of mental illness and achieve recovery goals. These individuals work in a variety of settings, such as community health centers, schools, private practices, and medical facilities. The specialties and job titles can vary by state. The following is a summary of mental health professionals and their roles (Nasponline.org, 2016).</p>
+
+<ul>
+  <li>School counselor: While job duties will vary based on grade level and student age, all school counselors share the common purpose of helping students succeed. Their role is to guide the students in the areas of academic achievement and personal, social, and career development. It is advantageous to develop a solid relationship with the counselor if or when you might be faced with mental health issues with your students.</li>
+  <li>School social worker: The social worker's role is also to support students' success and work through issues like emotional problems and challenges at home.</li>
+  <li>School psychologist: School psychologists work alongside the school counselor as a voice for students' well-being. They may also work closely with school administrators, parents, and other health professionals. Responsibilities for this role include the following:
+
+    Conduct psychological evaluations for students (often based on referrals from the school counselor).
+    Collaborate with teaching staff to develop interventions to enhance student learning and growth.</li>
+  <li>Psychologist: Practicing psychologists have years of graduate school and supervised training and are licensed by their states. They offer professional training and clinical skills to help people learn to cope more effectively with life issues and mental health problems.</li>
+  <li>    Psychiatrist (private): This role requires additional licensing and training beyond the counselor, psychologist, and social worker.</li>
+</ul>
+
+## Did I Get This  
+### Question 2
+
+> This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.
+
+### Read the description in the first column and choose the mental health specialist role to which it applies:
+
+| **Description** | **Mental Health Specialist** |
+|-----------------|------------------------------|
+| This specialist helps students with academic achievement and personal, social, and career development. | ✅ **School Counselor** |
+| This specialist conducts psychological evaluations and develops interventions. | ✅ **School Psychologist** |
+| This specialist works with students' emotional and social challenges at school and at home. | ✅ **School Social Worker** |
+| This specialist can prescribe medications while providing mental health counseling. | ✅ **Psychiatrist** |
+
+---
+
+### ✅ Correct Answers Explained
+
+- **School Counselor**: Helps students develop academic and social skills for success.  
+- **School Psychologist**: Has an advanced degree, performs evaluations, and collaborates on interventions.  
+- **School Social Worker**: Addresses emotional/social challenges at both home and school.  
+- **Psychiatrist**: A medical doctor who can prescribe medication and provide counseling.
+
+---
+
+## 📘 Lesson Summary
+
+Now that you have completed this lesson, you should be able to:
+
+- **Identify characteristics of positive mental health**
+- **Recognize the warning signs of suicide**
+- **Understand the roles of various mental health specialists**
+
+### Key Takeaways
+
+- **Mental Health**: Emotional, psychological, and social well-being.
+    - Maintain it by: connecting with others, staying positive, being active, helping others, sleeping well, and building coping skills.
+
+- **Warning Signs of Mental Illness**:
+    - Mood
+
 
 ---
 
