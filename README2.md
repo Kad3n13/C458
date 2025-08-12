@@ -1909,6 +1909,116 @@ Both children and adults can suffer from GAD. Symptoms include:
 - Being easily startled  
 - Having trouble falling or staying asleep  
 - Feeling physically sick
+
+<h1>MODULE 12</h1>
+
+<p>People have various types of relationships—including with family members, neighbors, friends, and romantic partners. Romantic relationships, in particular, are an important part of an individual's sexual health and can bring companionship and intimacy. In order to enjoy social and sexual well-being, however, each person must be able to communicate effectively and recognize when a relationship is healthy and when it is not (Healthy Relationships, 2019). After engaging in this module, you should be able to identify these essential characteristics of social and sexual health.</p>
+
+<h1>Learning Objectives</h1>
+> Identify the factors that influence social health, including relationships and communication
+<p>Positive social health involves more than having friends and family. It is about having connections, a sense of belonging, a constant support system, and positive relationships. In this lesson, you will examine the factors that influence social health, including relationships and communication.</p>
+
+<h1>Relationships</h1>
+<h3>Healthy Versus Unhealthy Relationships</h3>
+<p>Healthy relationships generate respect and honesty between the people involved. For example, each person listens to the other's thoughts and opinions, and the people accept each other's right to say "No" or to change their mind without giving each other a negative response. A healthy relationship encourages individuals to share their feelings without fear of judgment. People in healthy relationships might disagree or argue, but they should be able to solve their problems by communicating effectively.1 A relationship does not have to be abusive to be considered unhealthy. Unhealthy relationships are marked by issues such as disrespect and control.2</p>
+
+## ❤️ Learn by Doing  
+### Question 1: Healthy vs. Unhealthy Relationships
+
+> **Instructions:** Classify each scenario as a characteristic of either a **healthy** or **unhealthy** relationship.
+
+| **Scenario** | **Classification** |
+|--------------|---------------------|
+| "My partner is going away for a weekend with their friends, but I am not worried." | ✅ **Healthy Relationship** |
+| "I do not really have any friends except for my partner. My partner does not like it when I go out with my friends; they only want me to go out with them and their friends." | ❌ **Unhealthy Relationship** |
+| "I do not always like the movies my mother and I watch, but it is okay because we take turns picking which movies to watch." | ✅ **Healthy Relationship** |
+| "My partner starts an argument every night over the littlest things while we are eating dinner." | ❌ **Unhealthy Relationship** |
+| "I do not want to upset my friend, so I agree to do whatever they want to do." | ❌ **Unhealthy Relationship** |
+| "My partner and I are trying to plan a party on a budget. To tackle this task, we are writing down all our ideas and will pick the best idea together." | ✅ **Healthy Relationship** |
+| "I cannot live without my partner. If they break up with me, I may hurt myself." | ❌ **Unhealthy Relationship** |
+| "My boss always criticizes how I dress, talk, and behave in front of others." | ❌ **Unhealthy Relationship** |
+
+---
+
+### 💬 Feedback & Key Takeaways
+
+- ✅ **Healthy relationships** are built on trust, mutual respect, compromise, and shared problem-solving.
+- ❌ **Unhealthy relationships** may involve:
+  - Controlling behavior  
+  - Excessive dependence  
+  - Hostility  
+  - Criticism  
+  - Fear-based compliance
+
+Everyone deserves to be in a **safe**, **respectful**, and **mutually supportive** relations
+
+<h1>Relationships in Childhood and Adolescence</h1>
+<p>During adolescence, young people learn how to form safe and healthy relationships with friends, parents, teachers, and romantic partners. Adolescents explore different identities and roles during this time, and relationships contribute to their development. Peers, in particular, play a big role in identity formation, but relationships with caring adults—including parents, mentors, or coaches—are also important for adolescent development. Often, the parent-adolescent relationship is the one that informs how a young person handles other relationships. Unfortunately, adolescents sometimes develop unhealthy relationships and experience or exhibit bullying or dating violence.</p>
+
+<h3>Bullying</h3>
+<p>According to the National Center for Education Statistics and Bureau of Justice, about 20% of students ages 12–18 experience bullying. Bullying is any unwanted, aggressive behavior among school-aged children that involves a real or perceived power imbalance. The behavior is repeated, or has the potential to be repeated, over time. There are three types of bullying: verbal, social, and physical. Examples of bullying include making threats, spreading rumors, attacking someone physically or verbally, and excluding someone from a group on purpose. Both children who are bullied and those who bully others may have serious, lasting problems.</p>
+
+## Relationships Tips
+
+### Relationships with Parents, Stepparents, Grandparents, and Guardians
+
+- Make time to talk  
+- Share feelings  
+- Discuss tough, difficult topics  
+- Talk openly about family rules  
+- Choose which issues are worth arguing about  
+- Spend quality time together  
+- Try to manage emotions  
+
+---
+
+### Relationships with Siblings
+
+- Separate from each other if emotions are intense  
+- Get advice from parents  
+- Establish individual spaces in the house  
+- Respect each sibling's personal space  
+- Pick your battles  
+- Try to do fun things together  
+- Focus on the positive  
+
+<h1>Communication</h1>
+<p>Communication is vital in creating and maintaining a relationship, whether it be an intimate relationship—such as with a partner, child, or friend—or a professional relationship—such as with a co-worker, supervisor, or client. Communication skills affect how people solve problems and resolve conflict, and they also affect the level of trust individuals generate in their relationships. A lack of communication may result in confusion or misunderstanding, as well as the development of poor communication patterns.</p>
+
+<h3>Forms of Communication</h3>
+<p>Communication skills are important to everyone; communication is how people give and receive information and convey their ideas and opinions with those around them. Communication can be face-to-face, in writing, or digital, and it comes in many forms:</p>
+
+<ul>
+  <li>verbal (sounds, language, and tone of voice) </li>
+  <li>aural (listening and hearing) </li>
+  <li>nonverbal (facial expressions, body language, and posture) </li>
+  <li>written (journals, emails, blogs, and text messages) </li>
+  <li>visual (signs, symbols, and pictures)7</li>
+</ul>
+
+## Effective Communication Skills
+
+To achieve social health, it is important to develop a variety of skills for both communicating to others and interpreting the information received from others. Knowing the audience and understanding how they need to receive information are as important as knowing oneself. The following is a list of general communication tips:
+
+- Create opportunities for two-way conversations. Encourage questions. Ask questions.  
+- Consider the sender's or receiver's communication strengths and weaknesses, and communicate in the manner that is best accepted by the sender or receiver.  
+- Paraphrase what you heard back to the speaker to ensure you have a mutual understanding.  
+- Do not be distracted by words that affect you emotionally. Continue to listen, even when you feel the urge to start a debate.  
+- Communicate to be understood. Many people communicate to impress, not express. Use short words that communicate clearly and concretely. Present one idea—or two, at most—in one sentence. Avoid jargon. Use strong verbs. Avoid passive voice as much as possible.  
+- Be open to feedback. Be an active listener.  
+
+---
+
+## Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify the factors that influence social health, including relationships and communication. Take a moment to think about what you have learned in this lesson:
+
+- In healthy relationships, there is respect and honesty between both people. Unhealthy relationships are marked by characteristics such as disrespect and control.  
+- Adolescents sometimes develop unhealthy relationships, experience or exhibit bullying, or experience dating violence. Bullying is any unwanted, aggressive, repeated behavior among school-aged children that involves a real or perceived power imbalance.  
+- Healthy relationships between children, adolescents, and adults encourage sharing feelings, discussing difficult topics, managing emotions, giving individuals space within the home, and spending quality time together.  
+- To achieve social health, it is important to develop a variety of communication skills, including active listening, using open-ended questions, being open to feedback, and communicating in the manner that is best accepted by the sender and receiver.  
+
+<h1>MODULE 12(PG)[72]</h1>
 ---
 
 
