@@ -1596,6 +1596,243 @@ Now that you have completed this lesson, you should be able to:
 - **Warning Signs of Mental Illness**:
     - Mood
 
+<h1>Learning Objectives</h1>
+> Identify common mental disorders and their warning signs.
+
+<p>Have you ever had a bad day? A bad week? Or perhaps even longer? Of course. Everyone struggles with sadness, stress, and disappointment. Life, as you know, has both good and bad experiences. Most people can cope with these variations of life, but when the feelings of sadness and stress are not temporary, there may be an underlying illness or disorder causing the problem. In this lesson, you will recognize common mood, eating, and anxiety disorders along with important warning signs of each.</p>
+
+## 🧠 Learn by Doing  
+### Question 1: How Much Do You Know About Mental Disorders?
+
+> **Instructions:** Match the disorder to its corresponding description in the first column.
+
+| **Description** | **Disorder** |
+|-----------------|--------------|
+| A disorder that involves periods of excessive overeating or binge eating, followed by extreme methods of purging | ✅ **Bulimia nervosa** |
+| A serious medical illness and disorder of the brain marked by sadness, loss of interest or pleasure in activities, feelings of worthlessness, and energy loss | ✅ **Depression** |
+| A developmental disorder that affects communication and interaction, resulting in restricted interests and repetitive behaviors | ✅ **Autism spectrum disorder** |
+| A disorder in which individuals are underweight for their age and height and have an intense irrational fear of gaining weight | ✅ **Anorexia nervosa** |
+| A brain disorder marked by an ongoing pattern of inattention or hyperactivity-impulsivity that interferes with functioning or development | ✅ **Attention deficit hyperactivity disorder (ADHD)** |
+| A disorder marked by specific repeated behaviors or sets of behaviors performed as rituals | ✅ **Obsessive-compulsive disorder (OCD)** |
+
+---
+
+### ✅ Correct Answers and Explanations:
+
+- **Bulimia nervosa**: Involves binge eating followed by purging (e.g., vomiting, laxatives, excessive exercise).
+- **Depression**: Persistent sadness and loss of interest that affects daily life.
+- **Autism spectrum disorder (ASD)**: Affects communication and behavior; includes a range of symptoms.
+- **Anorexia nervosa**: Involves being significantly underweight with an intense fear of gaining weight.
+- **Attention deficit hyperactivity disorder (ADHD)**: Characterized by inattention, hyperactivity, and impulsivity.
+- **Obsessive-compulsive disorder (OCD)**: Involves intrusive thoughts (obsessions) and ritualistic behaviors (compulsions).
+
+<h1>Mood Disorders: Depression</h1>
+<p>Depression is a term that is often used in incorrect contexts. For example, someone might say they are depressed because they got a bad grade on a test despite studying for hours or because a relationship ended. While the sadness is real, it usually decreases with time. With depression, the sadness is constant. To be diagnosed with depression, the symptoms must be present for at least two weeks.</p>
+
+<h3>Depression Warning Signs</h3>
+<p>The following symptoms are some of the warning signs of depression:</p>
+
+<ul>
+  <li>sadness</li>
+  <li>loss of interest or pleasure in activities</li>
+  <li>change in weight</li>
+  <li>having difficulty sleeping or oversleeping</li>
+  <li>energy loss</li>
+  <li>feelings of worthlessness</li>
+  <li>thoughts of death or suicide</li>
+</ul>
+
+<h1>Eating Disorders: Anorexia</h1>
+<p>Eating disorders are serious behavioral problems. They can involve severe overeating or not consuming enough food to stay healthy. They also involve extreme concerns about body shape or weight. Types of eating disorders include anorexia nervosa, bulimia nervosa, and binge eating disorder.2 Eating disorders are most common in adolescent females and in athletes in weight-related sports, such as wrestling, cheerleading, and gymnastics.  </p>
+
+<h3>Anorexia</h3>
+<p>Everyone needs food to survive. But for some, the simple act of eating produces extreme anxiety and irrational behaviors. Sometimes, these behaviors lead to anorexia. Anorexia nervosa is an eating disorder that makes people lose more weight than is considered healthy for their age and height. Individuals with this disorder have an intense irrational fear of weight gain or "getting fat," even when they are underweight. They may diet, exercise excessively, or use other methods to lose weight.</p>
+
+<h3>Anorexia Warning Signs</h3>
+<p>There is not one sole cause for anorexia; in factor, many factors can contribute to its development. Anorexia is most common in females and often begins during the teen years or early adulthood.</p>
+
+## 🩺 Anorexia Nervosa
+
+### ⚠️ Risk Factors
+
+Risk factors for anorexia include:
+
+- Being more worried about, or paying more attention to, weight and shape  
+- Having an anxiety disorder as a child  
+- Having a negative self-image  
+- Having eating problems during infancy or early childhood  
+- Holding certain social or cultural ideas about health and beauty  
+- Trying to be perfect or being overly focused on rules  
+
+---
+
+### 🚨 Symptoms Developed Over Time
+
+Symptoms that may develop over time as a result of anorexia include:
+
+- Thinning of the bones (*osteopenia* or *osteoporosis*)  
+- Mild anemia and muscle wasting and weakness  
+- Brittle hair and nails  
+- Dry and yellowish skin  
+- Growth of fine hair all over the body (*lanugo*)  
+- Severe constipation  
+- Low blood pressure  
+- Slowed breathing and pulse  
+- Damage to the structure and function of the heart  
+
+<h1>Eating Disorders: Bulimia and Binge Eating</h1>
+
+<h3>Bulimia Nervosa</h3>
+<p>Another serious eating disorder is bulimia nervosa, which involves periods of excessive overeating (or binge eating) followed by extreme methods of purging (or getting rid of the food). People with bulimia nervosa may be slightly underweight, at a normal weight, or even overweight. Purging methods can include the following behaviors:</p>
+
+<ul>
+  <li>forced vomiting</li>
+  <li>excessive use of laxatives or diuretics</li>
+  <li>fasting</li>
+  <li>excessive exercise</li>
+  <li>combination of any of these behaviors</li>
+</ul>
+
+<h3>Binge Eating Disorder</h3>
+<p>Individuals who lose control over their eating- and do not engage in purging, excessive exercise, or fasting may be diagnosed with binge eating disorder. This is the most common eating disorder in the U.S. To be diagnosed with binge eating disorder, an individual must binge regularly—at least once a week for three months—and feel out of control while eating.</p>
+
+<h1>Generalized Anxiety Disorder</h1>
+<p>Most people worry about day-to-day stressors in life, such as making money, finishing school, or caring for family. But for anyone who struggles with generalized anxiety disorder (GAD), the struggle can be overwhelming and endless. People with GAD may find it difficult to control their anxiety and stay focused on daily tasks.</p>
+
+<h3>GAD Warning Signs</h3>
+<p>Children often worry about their performance in school or sports, and adults often worry about job security, health, or finances. Although the causes of anxiety may differ, the warning signs of GAD are similar and include the following:</p>
+
+<ul>
+  <li>feeling restless and having trouble relaxing</li>
+  <li>having trouble concentrating</li>
+  <li>being easily startled </li>
+  <li>having trouble falling asleep or staying asleep</li>
+  <li>having headaches, muscle aches, and stomach issues</li>
+</ul>
+
+<h1>Obsessive Compulsive Disorder</h1>
+<h3>Obsessive-compulsive disorder </h3>
+
+<p>OCD) involves repeated, upsetting thoughts called obsessions. To manage or make these upsetting thoughts go away, the individual may repeat a specific behavior or set of behaviors called compulsions. Some compulsive behaviors include:</p>
+
+<ul>
+  <li>hand washing</li>
+  <li>counting</li>
+  <li>avoiding germs (germaphobia)</li>
+  <li>checking on tasks repeatedly (e.g., turning off lights, locking doors)</li>
+</ul>
+
+<h1>OCD Warning Signs</h1>
+<p>Not all habits are compulsions. Everyone double-checks things sometimes. But a person with OCD will generally demonstrate the following behaviors:</p>
+
+<ul>
+  <li>being unable to control thoughts or behaviors, even when recognized as excessive</li>
+  <li>spending at least one hour per day focused on these thoughts and behaviors</li>
+  <li>not experiencing pleasure when performing behaviors or rituals but rather feeling brief relief from the stress the thoughts cause</li>
+  <li>experiencing significant problems in their daily life due to these thoughts or behaviors</li>
+</ul>
+
+<h1>Attention Deficit Hyperactivity Disorder</h1>
+<p>Attention deficit hyperactivity disorder (ADHD) existed long before the general public became aware of it. ADHD is a brain disorder marked by an ongoing pattern of inattention or hyperactivity-impulsivity (or both), which interferes with functioning or development. Inattention and hyperactivity-impulsivity are the key behaviors of ADHD. Some people with ADHD only have problems with one of the behaviors, while others have both inattention and hyperactivity-impulsivity.</p>
+
+<h3>ADHD: Inattention</h3>
+<p>Inattention is when a person wanders off task, lacks persistence, has difficulty sustaining focus, and is disorganized. These problems are not due to defiance or lack of comprehension. The following are symptoms of inattention:</p>
+
+<ul>
+  <li>overlooking or missing details; making careless mistakes in schoolwork, at work, or during other activities</li>
+  <li>having problems sustaining attention in tasks or play, including conversations, lectures, or lengthy readings</li>
+  <li>not seeming to listen when spoken to directly or not following through on instructions</li>
+  <li>having difficulties organizing tasks and activities</li>
+  <li>avoiding or disliking tasks that require sustained mental effort, such as schoolwork or homework</li>
+</ul>
+
+<h3>ADHD: Hyperactivity</h3>
+
+<p>Hyperactivity is when a person seems to move about constantly including in situations in which these behaviors are not appropriate or excessively fidgets, taps, or talks. In adults, it may present as extreme restlessness or wearing others out with constant activity. Most children have the combined type of ADHD. In preschool, the most common ADHD symptom is hyperactivity. It is normal to have some inattention, unfocused motor activity, and impulsivity. However, for people with ADHD, these behaviors are more severe, occur more often, and interfere with or reduce the quality of how individuals function socially, at school, or in a job.</p>
+
+<h3>ADHD: Impulsivity</h3>
+
+<p>Impulsivity is when a person makes hasty actions, which may have a high potential for harm in the moment without first thinking about them. Impulsivity also involves a person desiring immediate rewards, stemming from an inability to delay gratification. The symptoms of impulsivity that people present include the following:</p>
+
+<ul>
+  <li>fidgeting and squirming in their seats</li>
+  <li>leaving their seats in situations when staying seated is expected, such as in the classroom or in the office</li>
+  <li>running around or climbing in situations where it is inappropriate </li>
+  <li>often feeling restless (in teens and adults)</li>
+  <li>being unable to play or engage in hobbies quietly</li>
+  <li>being constantly in motion or "on the go," or acting as if "driven by a motor"</li>
+  <li>talking nonstop</li>
+</ul>
+
+<p>Remember that not everyone who demonstrates these symptoms has ADHD. Other causes of these behaviors are anxiety, depression, or a learning disability. Therefore, it is so important to reach out for professional help to make the correct diagnosis.</p>
+
+<h1>Autism Spectrum Disorder</h1>
+<p>Autism spectrum disorder (ASD) is a developmental disorder that affects communication and behavior. Although autism can be diagnosed at any age, it is said to be a "developmental disorder" because symptoms generally appear in the first two years of life. Autism is known as a "spectrum" disorder because there is wide variation in the type and severity of symptoms people experience. ASD occurs in all ethnic, racial, and economic groups.</p>
+
+<h3>ASD Symptoms and Signs</h3>
+<p>People with ASD struggle with social communication and interaction, have restricted interests, and perform repetitive behaviors. The following table gives some examples of the types of behaviors that are seen in people diagnosed with ASD. Not all people with ASD will show all behaviors, but most will show several.</p>
+
+## 🧩 Autism Spectrum Disorder: Areas of Difficulty & Example Behaviors
+
+| **Area of Difficulty**       | **Example Behaviors** |
+|-----------------------------|------------------------|
+| **Social Communication**    | - Difficulties with maintaining a back-and-forth conversation  <br> - Not looking at or listening to people  <br> - Facial expressions, movements, and gestures that do not match what is being said |
+| **Restricted Interests**     | - Trouble understanding another person's point of view  <br> - Inability to predict or understand other people's actions  <br> - Talking too long on a favorite subject without noticing others are not interested  <br> - Increased or decreased sensitivity to sensory input (e.g., light, noise, clothing, temperature) |
+| **Repetitive Behaviors**     | - Intense interest in specific topics (e.g., numbers, details, or facts)  <br> - Repeating words or phrases (*echolalia*)  <br> - Extreme concern with slight changes in routine |
+
+## 🌟 Autism Strengths
+
+It's important to remember that children (and adults) with autism can channel their strengths and thrive in the right environment. Common strengths include:
+
+- Ability to learn things in detail  
+- Ability to retain information for long periods of time  
+- Strong visual and auditory learning abilities  
+- Excelling in specific subjects like math, science, music, or art  
+
+---
+
+## 📘 Lesson Summary
+
+After completing this lesson, you should be able to identify common mental disorders and their warning signs.
+
+### 🧠 Mental Health Disorders Overview:
+
+- **Depression**  
+  A serious brain disorder.  
+  **Symptoms:**  
+  - Chronic sadness  
+  - Loss of interest or pleasure  
+  - Sleeping too much or too little  
+  - Energy loss  
+  - Feelings of worthlessness  
+
+- **Eating Disorders**  
+  - **Anorexia Nervosa**:  
+    Severe weight loss due to restricting calories or excessive exercise.  
+  - **Bulimia Nervosa**:  
+    Episodes of overeating followed by purging (vomiting, laxatives, over-exercising).  
+
+- **Generalized Anxiety Disorder (GAD)**  
+  Individuals struggle to control anxiety and stay focused on daily tasks.  
+
+- **Obsessive-Compulsive Disorder (OCD)**  
+  Involves recurring, distressing thoughts (*obsessions*) and ritualistic behaviors (*compulsions*) to manage them.  
+
+- **Attention Deficit Hyperactivity Disorder (ADHD)**  
+  Characterized by:  
+  - Inability to sit still  
+  - Trouble paying attention  
+  - Interrupting or impulsivity  
+  These symptoms can interfere with daily functioning or development.
+
+- **Autism Spectrum Disorder (ASD)**  
+  A developmental disorder affecting communication and behavior.  
+  - Typically diagnosed in early childhood (within first two years).  
+  - Affects social interaction, communication, and may involve restricted or repetitive behaviors.
+
+---
+
+
 
 ---
 
