@@ -2107,3 +2107,60 @@ Reversible Methods of Birth Control</h3>
 | Diaphragm | Cup-shaped device placed in the cervix with spermicide before sex | Barrier | Female | Unintended pregnancy only | 17% |
 | Male Condom | Thin sheath worn over the penis during sex to block sperm | Barrier | Male | Unintended pregnancy and STDs | 15–18% |
 | Female Condom | Thin pouch inserted into the vagina before sex to block sperm | Barrier | Female | Unintended pregnancy and STDs | 21% |
+
+<h3>Review: Reversible Methods of Birth Control </h3>
+> Take a moment to review the three types of reversible birth control methods.
+
+<h3>Hormonal Contraceptives</h3>
+<p>Hormonal contraceptive methods provide hormones to the woman that trick her body into thinking she is pregnant. Thus the egg is not released each month. It is important to note that hormonal methods do not protect against STIs. There are five different methods of delivering the hormones: pill, shot, patch, hormonal ring, and IUD.</p>
+
+<h3>Barrier Method</h3>
+<p>arrier methods of birth control work by preventing fertilization (the union of the sperm cell and the egg cell). The two main barrier methods are condoms (for males and females) and diaphragms (or cervical cap). Condoms can protect against STIs and pregnancy, but they have a higher failure rate due to user error. Diaphragms must be fitted by a health professional and will have a higher failure rate if the woman gains or loses weight after she is fitted.</p>
+
+<h3>Fertility Awareness Method (FAM)</h3>
+<p>Fertility awareness is a natural method of birth control that is based on understanding a woman's reproductive cycle. Couples use the FAM when they do not want to conceive a child. They abstain from intercourse during the fertile days of the month. Two common ways to track fertility are the "calendar" method and "basal body temperature" method.</p>
+
+> Abstience
+
+> TIP:
+> Generally, the term "abstinence" refers to refraining from any vaginal, oral, and anal sex practice. It is the only 100% effective way to avoid pregnancy and STIs.
+
+# Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify the factors that influence sexual health, including **sex and gender**, **contraception**, and **harassment**. Take a moment to reflect on what you've learned:
+
+---
+
+## Key Concepts
+
+- **Sex vs. Gender:**
+  - The terms **sex**, **gender**, **gender identity**, **sexuality**, **sexual orientation**, and **sexual bias** are **not interchangeable**.
+  - Understanding the differences among these terms is essential for respectful communication and health awareness.
+
+- **Sexual Harassment & Assault:**
+  - **Sexual harassment** includes unwelcome sexual advances, requests for sexual favors, or any other **verbal or physical harassment of a sexual nature**.
+  - **Sexual assault** implies **intentional sexual contact** toward a person who **does not or cannot give consent**.
+
+- **Reversible Birth Control Methods:**
+  - These methods can improve sexual health by reducing the risk of **unwanted pregnancies** and some **sexually transmitted infections (STIs)**.
+  - The **three types** of reversible methods are:
+    - **Barrier methods**
+    - **Hormonal methods**
+    - **Fertility awareness**
+  - ⚠️ _Note: Not all methods protect against STIs._
+
+---
+
+## Broader Health Concepts
+
+- **Social Health:**
+  - Achieved through **healthy relationships** and **effective communication**.
+
+- **Sexual Health (WHO, 2016):**
+  - A **state of physical, emotional, mental, and social well-being** in relation to sexuality.
+  - An individual's **sexual behavior and expression** contributes to their **overall well-being and health**.
+
+---
+
+> _“Sexual health is not merely the absence of disease, dysfunction, or infirmity but requires a positive and respectful approach to sexuality and sexual relationships.” — WHO, 2016_
+
