@@ -2060,8 +2060,6 @@ Now that you have completed this lesson, you should be able to identify the fact
 
 Use this activity to assess your knowledge of key terms presented in this lesson.
 
-**Instructions:** Match the term to its corresponding definition.
-
 
 
 ---
@@ -2075,3 +2073,37 @@ Use this activity to assess your knowledge of key terms presented in this lesson
 | A person's sense of self as a member of a particular gender                    | **Gender identity**    |
 | A person's emotional and sexual attraction to particular sexes or genders     | **Sexual orientation** |
 | Individuals who identify with a gender that is different from their biological sex | **Transgender**    |
+
+<h3>Sexual Harassment, Sexual Bias, and Sexual Assault</h3>
+<h4>Sexual Harassment</h4>
+
+<p>For sexual health to be attained and maintained, the sexual rights of all persons must be respected, protected and fulfilled" (Understanding Sexual Health, 2019). In addition, it is unlawful to harass a person because of that person's sex, sexual orientation, or gender identity. However, according to a survey conducted by National Public Radio, 81% of women have experienced (Chatterjee R., 2018). And, in 2018, 15.9% of the sexual harassment charges were filed by males (EEOC, 2018). The definition of sexual harassment is broad and includes any unwelcome sexual advances, requests for sexual favors, and other verbal or physical harassment of a sexual nature. It also includes offensive remarks about a person's sex. For example, it is illegal to harass a woman by making offensive comments about women in general</p>
+
+<h3>Sexting </h3>
+<p>Sexual communication using technology such as smartphones and computers can also be used as a form of sexual harassment. The term sexting  refers to taking, sending, or forwarding sexually explicit photos, videos, or messages to or from a mobile phone. Although it may appear harmless or as a method of flirting, the images are permanent. Once sent, they cannot be removed. In addition to risking a person's reputation and friendships, people could be breaking the law if they create, forward, or even save this kind of message.</p>
+
+<h3>Sexual Bias Versus Sexual Harassment</h3>
+<p>Sexual bias is different than sexual harassment. It is discrimination of a particular group or individual based on their sexual orientation. Members of the LGBT community are at an increased risk for a number of health threats when compared to their heterosexual peers. Differences in sexual behavior account for some of these disparities, but others are associated with social and structural inequities, such as the stigma and discrimination that LGBT populations experience.</p>
+
+<h3>Sexual Assault Versus Sexual Harassment</h3>
+<p>Sexual assault and sexual harassment are not the same thing. Sexual harassment includes any type of unwelcome sexual advance, whereas sexual assault  is intentional sexual contact characterized by the use of force, threats, intimidation, or abuse of authority toward a victim who does not or cannot consent. Sexual assault includes rape, forcible sodomy, and other unwanted indecent contact (e.g., kissing against another person's will) that is aggravated, abusive, or wrongful. This includes unwanted and inappropriate sexual contact or attempts to commit any of these acts.</p>
+
+<h3>Contraception</h3>
+<p>Sexual and romantic relationships are an important part of life. Fear of an unplanned pregnancy and of STIs, however, can affect a person's sexual and emotional health. The use of contraceptives can improve sexual health by reducing the chance of unwanted pregnancies and of contracting an STI. Some birth control methods may be more effective for reducing unwanted pregnancies, whereas other methods may be more effective for reducing the transmission of STIs. </p>
+
+<h3>
+Reversible Methods of Birth Control</h3>
+<p>Reversible methods for birth control refer to birth control methods that users can stop using and become pregnant. Generally, permanent methods, such as a vasectomy or tubal ligation. </p>
+
+# Characteristics of Reversible Birth Control Methods
+
+| **Method** | **Description** | **Type** | **User** | **Protection Against** | **Failure Rate** |
+|------------|------------------|----------|----------|-------------------------|------------------|
+| Fertility Awareness (Rhythm Method / Natural Family Planning) | Abstaining from intercourse during fertile days of the menstrual cycle | Natural | Male/Female | Unintended pregnancy only | 25% |
+| IUD (Intrauterine Device) | A T-shaped device inserted into the uterus that releases hormones | Hormonal | Female | Unintended pregnancy only | Less than 1% |
+| The Pill | Oral contraceptive taken daily to release hormones preventing ovulation | Hormonal | Female | Unintended pregnancy only | 7% |
+| The Patch | Hormonal dermal patch worn on the skin, replaced weekly | Hormonal | Female | Unintended pregnancy only | 7% |
+| Vaginal Ring | Soft silicone ring inserted monthly into the vagina to release hormones | Hormonal | Female | Unintended pregnancy only | 7% |
+| Diaphragm | Cup-shaped device placed in the cervix with spermicide before sex | Barrier | Female | Unintended pregnancy only | 17% |
+| Male Condom | Thin sheath worn over the penis during sex to block sperm | Barrier | Male | Unintended pregnancy and STDs | 15–18% |
+| Female Condom | Thin pouch inserted into the vagina before sex to block sperm | Barrier | Female | Unintended pregnancy and STDs | 21% |
