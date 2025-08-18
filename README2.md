@@ -2062,16 +2062,16 @@ Use this activity to assess your knowledge of key terms presented in this lesson
 
 **Instructions:** Match the term to its corresponding definition.
 
-> _Screen reader users: Use the accessible mode button above and use **Alt + Down Arrow** to open the combo boxes._
+
 
 ---
 
 ## Definitions and Terms
 
-| **Definition**                                                                 | **Term** |
-|--------------------------------------------------------------------------------|----------|
-| An individual who cannot be distinctly identified as male or female due to variations in sex characteristics |          |
-| Social or cultural distinctions associated with being male, female, or intersex |          |
-| A person's sense of self as a member of a particular gender                    |          |
-| A person's emotional and sexual attraction to particular sexes or genders     |          |
-| Individuals who identify with a gender that is different from their biological sex |      |
+| **Definition**                                                                 | **Term**              |
+|--------------------------------------------------------------------------------|------------------------|
+| An individual who cannot be distinctly identified as male or female due to variations in sex characteristics | **Intersex**           |
+| Social or cultural distinctions associated with being male, female, or intersex | **Gender**             |
+| A person's sense of self as a member of a particular gender                    | **Gender identity**    |
+| A person's emotional and sexual attraction to particular sexes or genders     | **Sexual orientation** |
+| Individuals who identify with a gender that is different from their biological sex | **Transgender**    |
