@@ -2291,3 +2291,45 @@ Emotionally healthy people are able to adapt to changing situations (flexibility
 - ✔️ **Self-Esteem** relates to the value and respect one has for themselves.
 - ✔️ **Self-Awareness** is the conscious understanding of one’s character, feelings, motives, and desires.
 - ✔️ **Handling Relationships** involves communication and is a key emotional intelligence skill.
+
+
+# Lesson Summary: Emotional Wellness
+
+Now that you have completed this lesson, you should be able to identify the components of **emotional wellness**.
+
+Take a moment to reflect on what you’ve learned:
+
+---
+
+## 🧠 What is Emotional Wellness?
+
+- **Emotional wellness** (also known as emotional health) is the ability to:
+  - Have and express thoughts, feelings, and emotions appropriately
+  - Cope effectively with life’s challenges
+
+---
+
+## 💡 Characteristics of an Emotionally Healthy Individual
+
+Emotionally healthy individuals often demonstrate:
+
+- **Self-awareness**
+- **Self-caring**
+- **High self-esteem**
+- **Self-confidence**
+- A sense of **responsibility**
+- **Resilience** in the face of setbacks
+- **Flexibility** in different situations
+- A **goal-oriented** mindset
+- Strong **connections to others**
+
+---
+
+## 🌟 Emotional Intelligence (EI)
+
+- **Emotional Intelligence (EI)** is the ability to:
+  - Monitor and understand one’s own emotions
+  - Recognize and respond to the emotions of others
+  - Use this emotional awareness to guide thinking and behavior
+
+> _Building emotional intelligence helps improve relationships, decision-making, and overall mental health._
