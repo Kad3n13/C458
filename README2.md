@@ -2206,3 +2206,88 @@ Now that you have completed this lesson, you should be able to identify the fact
 
 **Correct Answer:**  
 ✔️ The statement **"Why don't you choose the movie tonight? I will choose it next time."** reflects mutual respect, compromise, and emotional safety—all signs of a healthy relationship.
+
+<h1>MODULE 13(PG)[75]</h1>
+
+<p>Healthy individuals not only eat right and exercise but are also emotionally stable. How you feel can affect your ability to carry out everyday activities, your relationships, and your overall mental health. How you react to your experiences and feelings can change over time. Emotional wellness is the ability to successfully handle life's stresses and adapt to change and difficult times. After engaging in this module, you should be able to identify the factors associated with maintaining emotional wellness.</p>
+
+> Identify the components of emotional wellness.
+
+<p>ave you ever been in a situation that made you feel anxious or stressed, but you kept calm and didn't overreact? The ability to recognize your feelings and cope with difficult situations is a sign of good emotional health. In this lesson, you will learn about the characteristics of emotional health, including self-esteem, self-confidence, and emotional intelligence.</p>
+
+<h3Emotional Wellness></h3>
+
+<p>Emotional wellness, also referred to as emotional health, is the ability to have and express thoughts, feelings, and emotions in an appropriate manner. Individuals who exhibit emotional wellness accept their feelings and cope effectively with life. Emotional wellness is closely tied to social health because it allows an individual to form supportive and social connections with others. Likewise, mental health includes emotional, psychological, and social well-being.</p>
+
+<h3>Characteristics of Emotional Wellness</h3>
+<p>According to The Successful Grown-Up (2015), characteristics of emotionally healthy people include the following:</p>
+
+<ul>
+  <li>Connected—They engage positively with others and their environment.</li>
+  <li>Goal oriented—They have goals and act to achieve the goals.</li>
+  <li>Self-aware—They can identify their emotions and feelings and spend time reflecting on them.</li>
+  <li>Flexible—They have the ability to change directions as situations arise while maintaining emotional stability.</li>
+  <li>Self-caring—They are respectful of their body through healthy eating and regular exercise.</li>
+  <li>Responsible—They are accountable for their actions and live up to their obligations</li>
+  <li>Resilient—They can bounce back from loss or failure.</li>
+</ul>
+
+<h3>Self-Esteem and Self-Worth</h3>
+<p>Individuals who are emotionally healthy accept themselves and their feelings. Their positive thoughts about emotions, including belief in their worth (self-esteem) and abilities (self-confidence), motivate them to engage in healthy behaviors and avoid unhealthy behaviors. </p>
+
+# Characteristics of Self-Esteem and Self-Confidence
+
+| **Characteristic** | **Description** | **Behaviors Exhibited** |
+|--------------------|-----------------|--------------------------|
+| **Self-esteem** | Self-esteem has to do with the value and respect individuals have for themselves. Simply put, it is their opinion of themselves. | - Feel good about themselves  <br> - Proud of what they can do but do not need to show off  <br> - Know there are some things that they are good at and some things they need to improve |
+| **Self-confidence** | Self-confidence has to do with what people think about their skills and abilities, as well as the belief that they will be fine even in the face of obstacles. | - Feel it is okay whether they win or lose  <br> - Usually think, "I can do this," before doing something  <br> - Eager to learn new things  <br> - Able to handle criticism  <br> - Try to do things without help but don't mind asking for help if they need it |
+
+<h3>Emotional Intelligence</h3>
+
+<p>Individuals differ considerably in their emotional experience. Some can clearly distinguish among a variety of emotions while others treat all emotions interchangeably. The ability to monitor one's own and others' emotions, discriminate among them, and use the information gathered to guide one's thinking and actions is known as emotional intelligence (EI). It is a fairly specific ability that connects a person's knowledge processes to his or her emotional processes. </p>
+
+
+<ul>
+  <li>Being self-aware—Observing and recognizing a feeling as it happens</li>
+  <li>Managing emotions—Handling feelings so they are appropriate; realizing what is behind a feeling; finding ways to handle fears and anxieties, anger, and sadness</li>
+  <li>Motivating oneself—Channeling emotions in the service of a goal; emotional self-control; delaying gratification and stifling impulses</li>
+  <li>Having empathy—Sensitivity to others' feelings and concerns and considering their perspective; appreciating the differences in how people feel about things</li>
+  <li>Handling relationships—Managing emotions in others; social competence and social skills</li>
+</ul>
+
+# Emotional Health and Emotional Intelligence
+
+## ✅ Characteristics of an Emotionally Healthy Individual
+
+**Which three characteristics may be exhibited by an emotionally healthy individual?**
+
+- [x] **Self-caring**
+- [x] **Flexible in different situations**
+- [x] **Resilient**
+- [ ] Don't express emotions
+- [ ] Always positive
+
+**Explanation:**  
+Emotionally healthy people are able to adapt to changing situations (flexibility), bounce back from loss or failure (resilience), and take care of themselves through healthy habits (self-caring). They may also be connected to others, goal-oriented, self-aware, and responsible.
+
+---
+
+## 🧠 Emotional Intelligence (EI) Skills
+
+| **Skill**              | **Description**                                                                 |
+|------------------------|----------------------------------------------------------------------------------|
+| **Empathy**            | Sensitivity to others' feelings; taking their perspective into consideration; appreciating differences |
+| **Managing Emotions**  | Handling one's feelings appropriately; realizing what is behind a feeling       |
+| **Self-Esteem**        | One's opinion of oneself                                                        |
+| **Self-Awareness**     | Observing and recognizing a feeling as it happens; knowing one's own character, motives, and desires |
+| **Handling Relationships** | Ability to manage emotions in others using appropriate social and communication skills |
+
+---
+
+## ✅ Correct Responses Summary
+
+- ✔️ **Empathy** is the ability to understand others' perspectives and how people feel about things.
+- ✔️ **Managing Emotions** is an emotional intelligence skill.
+- ✔️ **Self-Esteem** relates to the value and respect one has for themselves.
+- ✔️ **Self-Awareness** is the conscious understanding of one’s character, feelings, motives, and desires.
+- ✔️ **Handling Relationships** involves communication and is a key emotional intelligence skill.
