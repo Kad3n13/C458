@@ -2021,4 +2021,57 @@ Now that you have completed this lesson, you should be able to identify the fact
 <h1>MODULE 12(PG)[72]</h1>
 ---
 
+<h1>Learning Objectives</h1>
 
+> Identify the factors that influence sexual health, including sex and gender, contraception, and harassment.
+
+<p>What do you think when you hear the word "sex?" Is it about intercourse, gender, or something else? What do you think when you hear the phrase "sexual health?" In this lesson, you will examine the factors that influence sexual health and well-being. You will explore the terms sex, gender, gender identity, as well as sexual orientation, and the impact of sexual harassment on sexual health. You will also learn how the use of reversible methods of contraception can improve sexual health by reducing both the chance of unwanted pregnancies and the risk of sexually transmitted infection (STI).</p>
+
+<h3>Sex, Gender, and Sexual Orientation</h3>
+> The terms "sex" and "gender" are not the same.
+
+<p>A person's sex is determined by their biology and the physiological differences—such as breasts, penis, or clitoris—found among male, female, and various intersex bodies. </p>
+
+<p>Gender refers to social or cultural distinctions associated with being male, female, or intersex. </p>
+
+<h3>Sex: Male, Female, and the Spectrum of Sex </h3>
+
+<p>Throughout time, biological sex has been divided into two categories: male and female. However, a small percentage of children are born intersex . This means that they cannot be distinctly identified as male or female due to variations in physical and genetic sex characteristics. For example, the individual may be born with female genitalia but has the male reproductive anatomy inside. It also refers to male and female individuals whose genetic makeup does not match their physical sex. Because of these variations, many now view sex as existing along a spectrum rather than two mutually exclusive categories.</p>
+
+<h3>Gender: Gender, Gender Identity and Transgender</h3>
+
+<p>A person's sex, as determined by their biology, does not always correspond with their gender; therefore, the terms "sex" and "gender" are not interchangeable. Babies born with male sex characteristics are labeled as "boys," and those with female sex characteristics are labeled as "girls." Many children who are born intersex are forcibly assigned as either a boy or a girl and may even be surgically "corrected" to fit a particular gender.</p>
+
+<p>Gender identity is a person's sense of self as a member of a particular gender. Those who identify with a gender that is different from their biological sex are referred to as transgender.</p>
+
+<h3>Sexuality and Sexual Orientation</h3>
+
+<p><em>HBuman</em> sexuality refers to a person's sexual interest in and attraction to others, as well as their capacity to have erotic experiences and responses. A person's sexaul orientation is their emotional and sexual attraction to particular sexes or genders. Review the terms and definitions associated with sexuality and sexual orientation.</p>
+
+<ul>
+  <li>Heterosexual: a person who is attracted to memebers of the "opposite" sex</li>
+  <li>Lesbain: a homosexual women</li>
+  <li>Gay: a homosexual person (typically reffering to a man)</li>
+  <li>Bisexual: a person who is attracted to both men and women</li>
+  <li>Transgender: a person whose gender identity differs from the sex they were assigned at birth </li>
+</ul>
+
+# Sexual Health Terminology
+
+Use this activity to assess your knowledge of key terms presented in this lesson.
+
+**Instructions:** Match the term to its corresponding definition.
+
+> _Screen reader users: Use the accessible mode button above and use **Alt + Down Arrow** to open the combo boxes._
+
+---
+
+## Definitions and Terms
+
+| **Definition**                                                                 | **Term** |
+|--------------------------------------------------------------------------------|----------|
+| An individual who cannot be distinctly identified as male or female due to variations in sex characteristics |          |
+| Social or cultural distinctions associated with being male, female, or intersex |          |
+| A person's sense of self as a member of a particular gender                    |          |
+| A person's emotional and sexual attraction to particular sexes or genders     |          |
+| Individuals who identify with a gender that is different from their biological sex |      |
