@@ -2164,3 +2164,45 @@ Now that you have completed this lesson, you should be able to identify the fact
 
 > _“Sexual health is not merely the absence of disease, dysfunction, or infirmity but requires a positive and respectful approach to sexuality and sexual relationships.” — WHO, 2016_
 
+# Quiz: Understanding Communication, Harassment, and Healthy Relationships
+
+> _Note: This is not a form. Use browse mode and read all parts of each question carefully._
+
+---
+
+## ✅ Question 1 of 3  
+**What is an effective verbal communication strategy?**
+
+- [ ] Giving advice (e.g., "I suggest you do this.")
+- [ ] Showing interest by reacting (e.g., "I can't believe you did that!")
+- [x] Using "I" phrases (e.g., "I feel this" or "I would like this")
+- [x] Identifying the general issue and describing the feelings associated with it)
+
+**Correct Answer:**  
+✔️ Using "I" phrases and identifying the issue with associated feelings help create respectful and assertive communication.
+
+---
+
+## ✅ Question 2 of 3  
+**Which term refers to unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature?**
+
+- [x] Sexual harassment
+- [ ] Sexting
+- [ ] Sexual bias
+- [ ] Sexual assault
+
+**Correct Answer:**  
+✔️ **Sexual harassment** involves unwelcome sexual behavior that affects a person’s dignity or creates a hostile environment.
+
+---
+
+## ✅ Question 3 of 3  
+**Which statement reflects a healthy relationship?**
+
+- [ ] "I don't want you going out with your friends."
+- [ ] "You need to wear more conservative clothing to work."
+- [x] "Why don't you choose the movie tonight? I will choose it next time."
+- [ ] "If you break up with me, I will hurt myself."
+
+**Correct Answer:**  
+✔️ The statement **"Why don't you choose the movie tonight? I will choose it next time."** reflects mutual respect, compromise, and emotional safety—all signs of a healthy relationship.
