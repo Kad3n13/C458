@@ -2362,3 +2362,159 @@ Emotionally healthy individuals often demonstrate:
 | **Teens (Ages 12–18)** | - Physical complaints (e.g., headaches, stomachaches)  <br> - Less interest in schoolwork, chores, or responsibilities  <br> - Competing vigorously for attention from parents and teachers  <br> - Becoming withdrawn  <br> - Resisting authority  <br> - Becoming disruptive or aggressive  <br> - Experimenting with high-risk behaviors |
 | **Children** | - Withdrawing from playgroups and friends  <br> - Competing more for the attention of parents and teachers  <br> - Being unwilling to leave home  <br> - Less interest in schoolwork  <br> - Increased conflict with peers or parents  <br> - Difficulty concentrating  <br> - Becoming aggressive |
 
+<h3>Loss and Grieving</h3>
+<p>Have you ever lost a pet, friend, or family member? Or have you ever broken up with a friend or significant other, lost a job, or had a major change in lifestyle? If so, you may have experienced feelings of loss and grief. When you grieve, it's part of the normal process of reacting to a loss. You may experience grief as a mental, physical, social, or emotional reaction. Mental reactions can include anger, guilt, anxiety, sadness, and despair. Physical reactions can include sleeping problems, changes in appetite, physical problems, or illness.</p>
+
+<h3>Responding to a Loss</h3>
+<p>Cultural beliefs and traditions can influence how someone mourns or expresses grief and shape how long family members are expected to grieve. Grief is a process of letting go and learning to accept and live with loss. The amount of time it takes to do this varies with each person. Experts say you should let yourself grieve in your own way and time. People have unique ways of expressing emotions. For example, some might express their feelings by doing things rather than talking about their feelings. They may feel better going on a walk or swimming or doing something creative like writing or painting. For others, it may be more helpful to talk with family and friends or a counselor about the loss.</p>
+
+<h3>Stages of Grief</h3>
+<p>One way to describe grief is by using the five stages of grief, which were described by psychiatrist Elisabeth Kubler-Ross. These reactions might not occur in a specific order and can occur concurrently. The five stages of grief include the following:</p>
+
+<ul>
+  <li>Denial, disbelief, numbness</li>
+  <li>Anger, blaming others</li>
+  <li>Bargaining (e.g., "If I am cured of this cancer, I will never smoke again.")</li>
+  <li>Depressed mood, sadness, and crying</li>
+  <li>Acceptance, coming to terms</li>
+</ul>
+
+> Grief Symptoms
+> TIP:
+
+> Not everyone experiences all of the five stages of grief. However, many people who are grieving have crying spells sleeping, and lack of productivity at work.
+
+# Instructions  
+Select the five stages of grief from the drop-down list in order of occurrence as listed in this lesson.
+
+---
+
+1. ____________________  
+2. ____________________  
+3. ____________________  
+4. ____________________  
+5. ____________________
+
+---
+
+## Correct Order of the Five Stages of Grief
+
+1. **Denial**  
+   _Many individuals will initially deny or disbelieve the loss of a loved one._
+
+2. **Anger**  
+   _After denial, an individual will often express anger towards the person who died and may blame others for the death._
+
+3. **Bargaining**  
+   _Many individuals will bargain with themselves or a higher being._
+
+4. **Depression**  
+   _At some point, the grieving individual may display a depressed mood, sadness, and crying._
+
+5. **Acceptance**  
+   _The final stage of grieving is acceptance._
+
+<h3>Six Strategies for Emotional Wellness</h3>
+
+<p>Emotional wellness is the ability to successfully handle life's stresses and adapt to change and difficult times. The following are six tips to maintain or improve emotional wellness:</p>
+
+<ul>
+  <li><p>Brighten your outlook. People who are emotionally healthy, experts say, have fewer negative emotions and are able to bounce back from difficulties faster. This quality is called resilience. Another sign of emotional wellness is being able to hold onto positive emotions longer and appreciate the "good times."</p></li>
+  <li><p>Reduce stress. Everyone feels stressed from time to time. If stress is chronic, those "high-alert" changes become harmful rather than helpful. Learning healthy ways to cope with stress, such as meditation, can also boost your resilience.</p></li>
+  <li><p>Get quality sleep. Sleep affects both mental and physical health. It's vital to your well-being. Sleep helps you think more clearly, have quicker reflexes, and focus better. Take steps to make sure you regularly get a good night's sleep.</p></li>
+  <li><p>Cope with loss. Although the death of a loved one can feel overwhelming, most people can make it through the grieving process with the support of family and friends. </p></li>
+  <li><p>Strengthen social connections. Social connections might help protect health and lengthen life. Scientists are finding that your relationships with others can have powerful effects on your health—both emotionally and physically. Whether with romantic partners, family, friends, neighbors, or others, social connections can influence your biology and well-being.</p></li>
+  <li><p>Be mindful. The concept of mindfulness is simple. It's about being completely aware of what's happening in the present—of all that's going on inside and all that's happening around you. It means not living your life on "autopilot." Becoming a more mindful person requires commitment and practice.</p></li>
+</ul>
+
+# Scenario: Improving Emotional Health
+
+**Tim's mother died six months ago. He is having difficulty sleeping and being productive at work; he wants to improve his emotional health.**
+
+---
+
+## What should Tim do?
+
+- [ ] Find a new job  
+- [x] Connect with friends  
+- [x] Get better sleep  
+- [ ] Quit his job  
+
+---
+
+### Explanation:
+
+✔️ Getting quality sleep will help Tim function better.  
+✔️ Connecting with friends will help him cope with loss.  
+
+Other helpful strategies include:  
+- Having a more positive outlook  
+- Being mindful and aware of one's thoughts and actions  
+- Reducing stress
+
+# Lesson Summary: Strategies for Improving and Maintaining Emotional Wellness
+
+Now that you have completed this lesson, you should be able to identify strategies for improving and maintaining emotional wellness.
+
+Take a moment to reflect on what you have learned:
+
+---
+
+## Key Points
+
+- **Emotional distress** occurs when emotions affect the body physically, spiritually, or psychologically. Common causes include the loss of a loved one and experiencing traumatic events.
+
+- **Warning signs of emotional stress** vary by age group:  
+  - **Adults:** Symptoms similar to depression  
+  - **Teens and Children:** Withdrawal from friends, seeking attention from parents and teachers, increased conflicts with peers or parents
+
+- The **five stages of grief** are:  
+  1. Denial  
+  2. Anger  
+  3. Bargaining  
+  4. Depression  
+  5. Acceptance
+
+- **Strategies to improve or maintain emotional wellness include:**  
+  - Having a positive outlook  
+  - Reducing stress  
+  - Getting quality sleep  
+  - Coping with loss  
+  - Strengthening social connections  
+  - Being mindful
+
+---
+
+> _Remember, emotional wellness is a continuous journey that benefits from self-awareness and proactive care._
+
+# Module Quiz: Emotional Wellness
+
+---
+
+### Question 1 of 3  
+Which behavior is a characteristic of emotional health?
+
+- A) Engaging in routine, consistent behaviors  
+- B) Staying socially connected  
+- C) Making detailed plans  
+- D) Setting very high goals  
+
+---
+
+### Question 2 of 3  
+Which symptom is one of the stages of grief?
+
+- A) Empathy  
+- B) Hope  
+- C) Bitterness  
+- D) Denial  
+
+---
+
+### Question 3 of 3  
+Which strategy helps maintain emotional wellness?
+
+- A) Always being positive  
+- B) Avoiding expressing feelings  
+- C) Avoiding conflict  
+- D) Getting quality sleep  
