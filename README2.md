@@ -2333,3 +2333,32 @@ Emotionally healthy individuals often demonstrate:
   - Use this emotional awareness to guide thinking and behavior
 
 > _Building emotional intelligence helps improve relationships, decision-making, and overall mental health._
+
+> Identify strategies for improving and maintaining emotional wellness.
+
+<p>Many adults can recall what they were doing and where they were on September 11, 2001, when they heard about the terrorist attacks on New York City and the Pentagon. A crisis of such magnitude will trigger a set of emotions that gains people's immediate attention, allowing them to store the event in their memory. Some individuals who experience a traumatic event or the loss of a loved one are able to cope with their emotions, while others experience emotional distress and grief. In this lesson, you will learn about emotional distress, the stages of grieving, and strategies to achieve emotional wellness.</p>
+
+<h3>Emotional Distress</h3>
+<p>Experiencing trauma or loss can significantly impact the way in which emotions are regulated. When emotions affect the body—whether physically, spiritually, or psychologically—it is referred to as emotional distress. Loss of a family member, friend, or pet and other traumatic incidents can cause emotional distress.</p>
+
+<h3>Who Is at Risk of Emotional Distress?</h3>
+> Individuals most at risk for emotional distress include those who:
+
+<ul>
+  <li>survived a previous disaster.</li>
+  <li>experienced temporary living arrangements, loss of personal property, or personal or parental unemployment. </li>
+  <li>lost a loved one or friend.</li>
+  <li>lack economic stability.</li>
+</ul>
+
+<h3>Warning Signs</h3>
+<p>Adults, teens, and children who are emotionally distressed may exhibit warning signs differently. Review the following warning signs of emotional distress:</p>
+
+# Warning Signs of Stress or Trauma by Age Group
+
+| **Who** | **Warning Signs** |
+|---------|-------------------|
+| **Adults** | - Eating or sleeping too much or too little  <br> - Pulling away from people and things  <br> - Having low or no energy  <br> - Feeling helpless or hopeless  <br> - Excessive smoking, drinking, or drug use  <br> - Worrying too much; feeling guilty  <br> - Difficulty readjusting to home or work life |
+| **Teens (Ages 12–18)** | - Physical complaints (e.g., headaches, stomachaches)  <br> - Less interest in schoolwork, chores, or responsibilities  <br> - Competing vigorously for attention from parents and teachers  <br> - Becoming withdrawn  <br> - Resisting authority  <br> - Becoming disruptive or aggressive  <br> - Experimenting with high-risk behaviors |
+| **Children** | - Withdrawing from playgroups and friends  <br> - Competing more for the attention of parents and teachers  <br> - Being unwilling to leave home  <br> - Less interest in schoolwork  <br> - Increased conflict with peers or parents  <br> - Difficulty concentrating  <br> - Becoming aggressive |
+
