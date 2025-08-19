@@ -2520,3 +2520,147 @@ Which strategy helps maintain emotional wellness?
 - D) Getting quality sleep  
 
 <h1>MODULE 14(PG)[80]</h1>
+
+<p>According to the National Institute of Drug Abuse, "Drug use at an early age is an important predictor of development of a substance use disorder later. The majority of those who have a substance use disorder started using before age 18 and developed their disorder by age 20." The likelihood of abusing certain types of drugs varies by age. Adolescents aged 12 to 17 are more likely to abuse marijuana, hallucinogens, and inhalants. Young adults aged 18 to 25 are more likely to abuse prescription drugs and heroin. Adults aged 26 and older are more likely to abuse alcohol and cocaine</p>
+
+> After engaging in this module, you should be able to identify the factors associated with substance use, abuse, and treatment and the effect drugs have on the body. 
+
+> Identify types of drugs, warning signs of drug use, and effects of drug use on the body.
+
+<p>Why do people use alcohol and drugs? There are a variety of reasons: to fit in, to feel good, to perform better, and to seek new experiences. Not everyone who tries a drug or drinks alcohol gets addicted. But even if used for a short period of time or recreationally, alcohol and drugs can have adverse effects on every organ in the body. In this lesson, you will learn about the most common types of drugs used, the warning signs of drug abuse, and the effects of drug use and abuse on the body.</p>
+
+<h3>Abuse, Use, and Addiction</h3>
+<p>In order to communicate and understand the impact of drugs on the body, it is important to know the differences between use, abuse, and addiction. </p>
+
+<ul>
+  
+  <li>Use: Substance use is any consumption of alcohol or drugs. For example, having a beer with friends or wine at dinner is considered substance use. Substance use may not be a problem for many people. However, it can lead to abuse or dependency in some people.</li>
+  
+  <li>Abuse: Substance abuse is when someone continues to use drugs or alcohol even when it causes problems, such as interfering with the ability to work, yielding unhealthy relationships with family, and having an impact on that individual's health. For instance, continuing to use drugs while knowing that you will be fired if you fail a drug test is a sign of abuse.</li>
+  
+  <li>Addiction: Substance addiction is a dependence on alcohol or drugs. Individuals may be unable to stop drinking or using drugs and have physical withdrawal symptoms when they try to quit (Substance Use, Abuse and Dependence, 2017).</li>
+  
+</ul>
+
+> Over-the-Counter Vesrsus Prescription Drugs
+
+> TIP:
+> <p>For clarification, a drug is a substance intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease. Prescription drugs are prescribed by a doctor or qualified licensed health professional, purchased at a pharmacy, intended to be used by one person, and regulated by the Food and Drug Administration. Over-the-counter (OTC) drugs do not require a prescription and can be bought at any store where they are available. They are also regulated by the FDA.</p>
+
+<h3>Alcohol</h3>
+<p>Alcohol (ethanol) is the ingredient found in beer, wine, and spirits that causes drunkenness. It is a depressant drug that slows down various parts of the brain and central nervous system. Most people who use alcohol do not have a problem, but it can be toxic and addictive. </p>
+
+<h3>What Is a "Drink"?</h3>
+<p>In the United States, a standard drink contains 0.6 ounces (14.0 grams or 1.2 tablespoons) of pure alcohol. Generally, this amount of pure alcohol is found in:</p>
+
+<ul>
+  <li>12 ounces of beer (5% alcohol content)</li>
+  <li>8 ounces of malt liquor (7% alcohol content)</li>
+  <li>5 ounces of wine (12% alcohol content)</li>
+  <li>1.5 ounces of 80-proof (40% alcohol content) distilled spirits or liquor (e.g., gin, rum, vodka, whiskey)</li>
+</ul>
+
+<h3>How Much Is Too Much?</h3>
+
+|            | MODERATE     | HEAVY         | BINGE                 |
+|------------|--------------|---------------|------------------------|
+| **Female** | 1 per day    | 8 per week    | 4 in a single session  |
+| **Male**   | 2 per day    | 15 per week   | 5 in a single session  |
+
+<h3>Warning Signs of Recent Alcohol Use</h3>
+> Even one drink of alcohol can have the following mental and physical effects on the body:
+
+<ul>
+  <li>slurred speech</li>
+  <li>bloodshot, glassy, or watery eyes</li>
+  <li>slow responses to questions or comments</li>
+  <li>clumsiness, swaying, staggering, or stumbling</li>
+  <li>odor of alcohol</li>
+  <li>crying or moodiness</li>
+</ul>
+
+<h3>Long-Term Health Risks of Alcohol Abuse</h3>
+<p>Over time, excessive alcohol use can lead to the development of chronic diseases and other serious problems, including the following:</p>
+
+<ul>
+  <li>heart and digestive problems</li>
+  <li>cancer</li>
+  <li>learning and memory problems</li>
+  <li>mental health problems</li>
+  <li>social problems</li>
+  <li>alcohol dependence, or alcoholism</li>
+  <li>cirrhosis of the liver</li>
+</ul>
+
+<h3>Tobacco and Vaping</h3>
+<p>Tobacco use is the leading cause of preventable disease, disability, and death in the United States. Although the rate of cigarette smoking has decreased, about 34 million American adults still smoke. Cigarettes and other forms of tobacco—including cigars, pipe tobacco, snuff, and chewing tobacco—contain the addictive drug nicotine. Nicotine is readily absorbed into the bloodstream when a tobacco product is chewed, inhaled, or smoked. Upon entering the bloodstream, nicotine immediately stimulates the release of the hormone epinephrine (adrenaline). Stimulation is followed by a sedative reaction, causing temporary feelings of relaxation and reduced anxiety.</p>
+
+<h3>E-cigarette Vapor</h3>
+<p>Although e-cigarette vapor does not contain the tar currently responsible for most lung cancer and other lung diseases, it has been shown to contain known carcinogens and toxic chemicals, as well as potentially toxic metal particles from the vaporizing mechanism.</p>
+
+<h3>Signs of Recent Tobacco Use</h3>
+> Immediate effects of tobacco on the body include the following;
+
+<ul>
+  <li>initial stimulation then reduction in activity of the brain and nervous system</li>
+  <li>increased alertness and concentration</li>
+  <li>feelings of mild euphoria</li>
+  <li>feelings of relaxation following stimulation</li>
+  <li>increased blood pressure and heart rate</li>
+</ul>
+
+<h1>Long-Term Effects of Tobacco Use</h1>
+<p>On average, adults who smoke die 10 years earlier than nonsmokers. Cigarette smoking accounts for about 1–3 of all cancers, including 85–90% of lung cancer cases. More people in the United States die from lung cancer than from any other type of cancer. Smokeless tobacco (e.g., chewing tobacco, snuff) also increases the risk of cancer, especially oral cancers. In addition to cancer, smoking causes diseases and health problems, including the following:</p>
+
+<ul>
+  <li>lung diseases, chronic bronchitis, and emphysema</li>
+  <li>heart disease, including stroke, heart attack, vascular disease, and aneurysm</li>
+  <li>leukemia</li>
+  <li>cataracts</li>
+  <li>pneumonia</li>
+  <li>risk of miscarriage (pregnant individuals)</li>
+</ul>
+
+<h1>Cannabis (Marijuana)</h1>
+<p>Marijuana is made from the hemp plant, Cannabis sativa. The main psychoactive (mind-altering) chemical in marijuana is delta-9-tetrahydrocannabinol (THC). Marijuana can be smoked through hand-rolled cigarettes (joints); pipes or water pipes (bongs); blunts, which are emptied cigars that have been partly or completely refilled with marijuana; or vaporizers. Marijuana can also be mixed in food (edibles)</p>
+
+<h3>Signs of Recent Marijuana Use</h3>
+<p>When a person smokes marijuana, THC quickly passes from the lungs into the bloodstream and then to the brain and other organs throughout the body. Symptoms of recent marijuana use include the following:</p>
+
+<ul>
+  <li>altered senses (e.g., seeing brighter colors)</li>
+  <li>altered sense of time</li>
+  <li>changes in mood</li>
+  <li>impaired body movements</li>
+  <li>increased heart rate</li>
+  <li>difficulties with thinking, problem-solving, and memory</li>
+</ul>
+
+<h3>Long-Term Effects of Marijuana Use on the Body</h3>
+<p>Marijuana use impairs short-term memory, judgment, and perception. Long-term use may have a wide range of physical and mental effects, including the following:</p>
+
+<ul>
+  <li>impaired brain development for fetuses exposed to marijuana</li>
+  <li>impaired thinking, memory, and learning functions</li>
+  <li>hallucinations, delusions, and psychosis (when taken in high doses)</li>
+  <li>breathing problems, similar to smoking tobacco</li>
+</ul>
+
+> Use of Edibles
+
+> Tip: 
+> Individuals who consume marijuana in foods or beverages have delayed effects—usually appearing after 30–60 minutes—because the drug must first pass through the digestive system. Eating or drinking marijuana delivers significantly less THC into the bloodstream than smoking an equivalent amount of the plant. Because of the delayed effects, people may inadvertently consume more THC than they intend to.
+
+
+| Substance            | Increases Alertness & Concentration? | Notes                                                                 |
+|----------------------|----------------------------------------|-----------------------------------------------------------------------|
+| **Tobacco (Nicotine)**| ✅ Yes                                | Initially stimulates adrenaline release; may improve focus briefly    |
+| **Alcohol**           | ❌ No                                 | Depresses the central nervous system; impairs concentration           |
+| **Marijuana**         | ❌ No                                 | Alters perception and impairs memory and attention                    |
+
+
+| Substance            | Impairs Thinking & Problem-Solving? | Notes                                                                 |
+|----------------------|--------------------------------------|-----------------------------------------------------------------------|
+| **Marijuana**         | ✅ Yes                               | Affects memory, attention, judgment, and learning                     |
+| **Alcohol**           | ✅ Yes                               | Slows brain function, impairs decision-making and motor coordination |
+| **Tobacco (Nicotine)**| ❌ No (not directly)                 | Initially stimulates alertness; long-term use has indirect effects    |
