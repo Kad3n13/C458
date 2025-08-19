@@ -2664,3 +2664,128 @@ Which strategy helps maintain emotional wellness?
 | **Marijuana**         | ✅ Yes                               | Affects memory, attention, judgment, and learning                     |
 | **Alcohol**           | ✅ Yes                               | Slows brain function, impairs decision-making and motor coordination |
 | **Tobacco (Nicotine)**| ❌ No (not directly)                 | Initially stimulates alertness; long-term use has indirect effects    |
+
+> Identify types of drugs, warning signs of drug use, and effects of drug use on the body
+
+<h3>Depressants</h3>
+<p>Over 130 people die every day from opioid overdoses. Over 2.1 million Americans have an opioid use disorder, and 11.4 million people misuse prescription opioids.2 Opioids (heroin, morphine, codeine, methadone) are narcotics. They are in a class of drugs called depressants because they act as a central nervous system depressant. Depressants are used to help induce sleep, stop pain, and relieve anxiety and muscle spasms. Alcohol and sedatives (Valium) also fall into the depressants category. </p>
+
+<h1>Signs of Recent Use of Depressants</h1>
+<p>At fairly low doses, depressants have the following effects on the body:</p>
+
+<ul>
+  <li>Dry mouth</li>
+  <li>Mild euphoria</li>
+  <li>Lack of inhibition</li>
+  <li>Poor concentration</li>
+  <li>Clouded mental function</li>
+  <li>Sleepiness</li>
+  <li>Slurred speech and other signs similar to the use of alcohol</li>
+  <li>Uncoordinated muscle movement of eyes, speech, and movement (higher doses)</li>
+</ul>
+
+<h3>Long-Term Effects of Depressants on the Body </h3>
+<p>People who engage in drug use or high-risk behaviors associated with drug use put themselves at risk. The following are long-term effects of using depressants:</p>
+
+<ul>
+  <li>Addiction</li>
+  <li>Increased risk of overdose incidents</li>
+  <li>Increased risk of motor vehicle crashes</li>
+  <li>increased tolerance to effects</li>
+  <li>Increased risk of human immunodeficiency virus (HIV), acquired immune deficiency syndrome (AIDS), or hepatitis (if injecting drug)</li>
+  <li>Death</li>
+</ul>
+
+<h1>Stimulants</h1>
+<p>Stimulants are drugs that temporarily increase alertness and energy. Prescription stimulant medicines are generally used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy—uncontrollable episodes of deep sleep. Cocaine and methamphetamines are commonly used street drugs that fall into this class of drugs. </p>
+
+> Methamphetamine and Cocaine
+
+<p>Methamphetamine, also known as meth, is an extremely addictive stimulant usually found as a white, bitter-tasting powder or a pill. Crystal methamphetamine (crystal meth) is a form of the drug that looks like glass fragments or shiny, bluish-white rocks.2 Cocaine is a powerfully addictive drug made from the leaves of the coca plant native to South America. Cocaine and methamphetamine increase the levels of the natural chemical messenger dopamine in brain circuits related to the control of movement and reward. Depending on the drug, it may be snorted through the nose, rubbed into the gums, smoked, or injected into the bloodstream.</p>
+
+> Signs of Recent Use of Stimulants
+
+> Short-term side effects include the following:
+
+<ul>
+  <li>Extreme happiness and energy</li>
+  <li>Mental alertness</li>
+  <li>Hypersensitivity to sight, sound, and touch</li>
+  <li>Irritability</li>
+  <li>Paranoia (extreme and unreasonable distrust of others)</li>
+  <li>Irregular heartbeat</li>
+</ul>
+
+<h3>Long-Term Effects of Stimulants on the Body</h3>
+<p>Common long-term effects include erratic and violent behavior, panic attacks, paranoia, psychosis, heart rhythm problems, heart attack, stroke, seizure, and coma. Other effects depend on the method of use and include the following:</p>
+
+<ul>
+  <li>Snorting: loss of smell, nosebleeds</li>
+  <li>Smoking: cough, asthma, respiratory distress</li>
+  <li>Injection: higher risk for contracting HIV, hepatitis C, and other bloodborne diseases</li>
+</ul>
+
+> Nicotine
+
+> Tip: 
+> Nicotine acts as both a stimulant and a sedative; therefore, it does not fall into this category.
+
+<h1>Other Categories of Drugs</h1>
+
+| **TYPES**             | **DESCRIPTION**                                                                | **EXAMPLES**                                        | **SIGNS OF USE**                                                                                    |
+| --------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Synthetic drugs**   | Chemical compounds that are produced in illegal laboratories                   | Synthetic opioids, LSD, fentanyl, spice, bath salts | Anxiety, aggressive behavior, paranoia, seizures, nausea, vomiting                                  |
+| **Inhalants**         | Various substances that people inhale to produce a short-term high             | Gases, nitrates, solvents, and aerosol sprays       | Slurred speech, reduced coordination, euphoria, dizziness                                           |
+| **Hallucinogens**     | Drugs that alter awareness of surroundings, thoughts, and feelings             | LSD (classic), PCP (dissociative)                   | Hallucinations, intensified feelings, increased heart rate and blood pressure, nausea, sleep issues |
+| **Club drugs**        | Psychoactive drugs often used in clubs or bars; some used as "date rape" drugs | Molly, ecstasy, roofies, meth, speed, crank         | Changes in mood, awareness, and behavior                                                            |
+| **Anabolic Steroids** | Synthetic variations of the male sex hormone testosterone                      | Gear, juice, roids, stackers                        | Muscle building, oily skin, acne, aggressive behavior, mood swings, paranoia                        |
+
+| **TYPE OF DRUG**      | **DESCRIPTION**                                                                                     |
+|------------------------|-----------------------------------------------------------------------------------------------------|
+| **Synthetic drugs**    | Chemical compound that is produced in illegal laboratories                                          |
+| **Marijuana**          | Drug that causes altered senses, changes in mood, difficulty thinking and problem-solving, and memory issues |
+| **Hallucinogens**      | Drug that alters people's awareness of their surroundings as well as their own thoughts and feelings|
+| **Club drugs**         | Often used by teenagers and young adults at dance clubs and bars or used as a "date rape" drug      |
+| **Depressants**        | Drug that causes sleepiness, poor concentration, reduced pain, and anxiety                          |
+| **Inhalants**          | Drug that enters the body through the respiratory system and causes slurred speech, reduced coordination, euphoria, and dizziness |
+| **Stimulants**         | Drug that temporarily increases alertness and energy                                                |
+
+> Identify signs of drug addiction and the principles of treatment.
+
+<p>Can someone be cured for a drug addiction or just treated? Despite being aware of harmful outcomes, many people who use drugs continue to take them, which is the nature of addiction. It's common for a person to relapse, but relapse does not mean that treatment will not work. In this lesson, you will learn the signs of drug addiction and the principles of treatment.</p>
+
+<h1>Understanding Substance Abuse and Addiction</h1>
+<p>Many people don't understand why or how other people become addicted to drugs. They mistakenly think that those who use drugs lack moral principles or willpower and that they could stop their drug use simply by choosing to. In reality, drug addiction is a complex disease, and quitting usually takes more than good intentions or a strong will. Drugs change the brain in ways that make quitting hard, even for those who want to. Fortunately, researchers know more than ever about how drugs affect the brain and have found treatments that can help people recover from drug addiction and lead productive lives. </p>
+
+<h3>What is Drug Addiction?</h3>
+<p>Addiction is a chronic disease characterized by drug seeking and use that is compulsive, or difficult to control, despite harmful consequences. The initial decision to take drugs is voluntary for most people, but repeated drug use can lead to brain changes that challenge an addicted person's self-control and interfere with that individual's ability to resist the intense urges to take drugs. These brain changes can be persistent, which is why drug addiction is considered a "relapsing" disease. People in recovery from drug use disorders are at increased risk of returning to drug use even after years of abstinence.</p>
+
+<h1>Signs of Drug Addiction</h1>
+<p>How do you know if someone has a drug use problem? People with drug problems might not act as they used to. You may notice behavioral, physical, and emotional changes. The following are common signs of drug abuse and addiction (Tennessee Department of Mental Health and Substance Abuse Services, 2019</p>
+
+| **KEY IDEA**                  | **SIGNS AND SYMPTOMS**                                                                                                                                       |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **No Money** 💸              | - Neglecting responsibilities at school, work, or home  <br> - Legal trouble (e.g., DUI, stealing) <br> - Financial trouble                               |
+| **Bloodshot Eye** 👁️         | - Bloodshot eyes, pupils larger or smaller than usual <br> - Changes in eating/sleeping patterns <br> - Poor hygiene, unusual smells <br> - Impaired coordination |
+| **Secretive** 🤫              | - Drop in attendance/performance at work or school <br> - Secretive or suspicious behaviors <br> - Isolating from family/friends <br> - Risk-taking behavior |
+| **Angry** 😠                  | - Unexplained change in personality or attitude <br> - Sudden mood swings <br> - Irritability or angry outbursts                                           |
+<h1>Principles of Treatment</h1>
+<p>As with most other chronic diseases, such as diabetes, asthma, or heart disease, treatment for drug addiction generally isn't a cure. However, addiction is treatable and can be successfully managed. People who are recovering from an addiction will be at risk for relapse for years and possibly for their whole lives. Treatment approaches that are tailored to each patient's drug use patterns and any co-occurring medical, mental, and social problems can lead to continued recovery.</p>
+
+> There are many options that have been successful in treating drug addiction, including the following:
+
+<ul>
+  <li>Behavioral counseling</li>
+  <li>Medication</li>
+  <li>Medical devices and applications such as neurostimulation, used to treat withdrawal symptoms or deliver skills training</li>
+  <li>Evaluation and treatment for co-occurring mental health issues such as depression and anxiety</li>
+  <li>Long-term follow-up to prevent relapse</li>
+</ul>
+
+| **Question**                                                                                                                        | **Options**                                                                                                                                                                                                             | **Correct Answer**                                    | **Explanation**                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1. A coworker is clumsy, sleepy, and having trouble concentrating after wisdom tooth removal. What substance may he be abusing?** | - Alcohol<br>- Opioids ✅<br>- Hallucinogens<br>- Crystal meth                                                                                                                                                           | **Opioids**                                           | Opioids are depressants that act on the central nervous system to reduce pain and can cause drowsiness, poor coordination, and impaired concentration. |
+| **2. What is a potential warning sign of marijuana abuse in a student?**                                                            | - Slurred speech<br>- Constant nosebleeds<br>- Mental alertness<br>- Difficulty with memory ✅                                                                                                                           | **Difficulty with memory**                            | Marijuana can impair thinking, problem-solving, and memory, which are warning signs of abuse.                                                          |
+| **3. Which statement about drug addiction is true?**                                                                                | - There is no medication to treat cocaine addiction ✅<br>- A warning sign is spending more time with friends<br>- Opioid addiction should start with behavioral therapy<br>- Detoxification is a treatment for recovery | **There is no medication to treat cocaine addiction** | For substances like cocaine or cannabis, behavioral therapies are used since no approved medications exist to treat these addictions.                  |
+
+<h1>MODULE15(pg)[86]</h1>
