@@ -2789,3 +2789,11 @@ Which strategy helps maintain emotional wellness?
 | **3. Which statement about drug addiction is true?**                                                                                | - There is no medication to treat cocaine addiction ✅<br>- A warning sign is spending more time with friends<br>- Opioid addiction should start with behavioral therapy<br>- Detoxification is a treatment for recovery | **There is no medication to treat cocaine addiction** | For substances like cocaine or cannabis, behavioral therapies are used since no approved medications exist to treat these addictions.                  |
 
 <h1>MODULE15(pg)[86]</h1>
+
+> Identify factors associated with stress and the effect that stress has on the body.
+
+<h3>Positive Stress—Does it Exist?</h3>
+
+<p>Perhaps you always associate stress with something negative. But stress can also be positive and beneficial when you recognize the signs and circumstances. For example, when you face a dangerous situation, your pulse quickens, you breathe faster, your muscles tense, and your brain uses more oxygen and increases activity—all functions aimed at survival. This "fight or flight" stress response has served mankind well over thousands of years. </p>
+
+
