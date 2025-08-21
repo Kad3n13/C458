@@ -2796,4 +2796,53 @@ Which strategy helps maintain emotional wellness?
 
 <p>Perhaps you always associate stress with something negative. But stress can also be positive and beneficial when you recognize the signs and circumstances. For example, when you face a dangerous situation, your pulse quickens, you breathe faster, your muscles tense, and your brain uses more oxygen and increases activity—all functions aimed at survival. This "fight or flight" stress response has served mankind well over thousands of years. </p>
 
+<h3>Optimizing Levels of Stress for Learning</h3>
+
+<p>Students have often experienced a need to maintain optimal levels of stress over the course of their academic careers. Think about how much stress you experience toward the end of a term. You may feel overwhelmed with work and exams. At that point, your stress level may be too high. Once you finish the term, however, it doesn't take long before you begin to feel bored. Your stress level is too low, and your performance is also typically lower. By the time the next term starts, you can't wait for school to start.</p>
+
+<h3>Causes of Stress</h3>
+
+<p>There is no single source of stress. Remember that what is stressful for you may not affect someone else. Stress happens when people of any age feel they don't have the tools to manage the demands in their lives. Stress can be short-term or long-term. Missing the bus or arguing with your spouse or partner can cause short-term stress. Money problems or trouble at work or school can cause long-term stress. Even happy events, like having a baby or getting married, can cause stress.</p>
+
+<h4>Common causes of short-term stress include the following:</h4>
+
+<ul>
+  <li>Needing to do a lot in a short amount of time</li>
+  <li>Experiencing many small problems in the same day, like a traffic jam or running late</li>
+  <li>Getting lost</li>
+  <li>Having an argument</li>
+  <li>Performing in school (achievement or failure)</li>
+</ul>
+
+<h4>Common causes of long-term stress include the following:</h4>
+
+<ul>
+  <li>Having problems at work or at home</li>
+  <li>Changing your job or marital status</li>
+  <li>Having money problems</li>
+  <li>Being bullied (at school, after school, online)</li>
+  <li>Caring for someone with a serious illness</li>
+  <li>Enduring a chronic (ongoing) illness</li>
+  <li>Experiencing the death of a loved one</li>
+</ul>
+
+<h3>Responding to Stress</h3>
+
+<p>The fight-or-flight response (also called the stress response) is a physiological reaction that occurs in response to a perceived threat or danger. This enables the body to act quickly and is intended to avoid physical harm. Unfortunately for your health, this response also occurs when you are not in any immediate physical danger but are still experiencing stress. For example, this can happen when someone is running late for an appointment or class and is feeling stressed about trying to get there.</p>
+
+<p>The fight-or-flight response is also recognized as the first stage of the general adaptation syndrome (GAS), which describes the pattern of responses the body goes through after being prompted by a stressor.</p>
+
+> Response to All Stress
+
+> TIP:
+> It's important to remember that these changes occur in the body whether the perceived stressor is positive or negative. Knowing this information will encourage you to take active steps in managing the stress in your life because it can build up and potentially cause harm to your health.
+
+<h3>Effects of Stress on the Body</h3>
+<p>According to the American Psychological Association (2019), even short-lived (acute) stress affects the body. For example, giving a presentation may cause "butterflies" in the stomach or induce a migraine headache. Over time, the physical changes that occur during this response can cause wear and tear within the body if the perception of stress persists. </p>
+
+> Stress and Ulcers
+
+> TIP:
+> Contrary to popular belief, stress does not increase acid production in the stomach or cause stomach ulcers. Stomach ulcers are actually caused by a bacterial infection.
+
 
