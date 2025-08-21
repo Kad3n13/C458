@@ -3245,6 +3245,49 @@ Self-awareness is the ability to observe and understand your emotions, thoughts,
 | **Expression**        | Experienced physically (e.g., heart racing, sweating).               | Experienced mentally and emotionally (e.g., feeling hurt or anxious). |
 | **Interaction**       | Emotions trigger feelings.                                           | Feelings are the personal interpretation of emotions.                 |
 
-| **Skill**                | **Definition**                                                                                                            | **Example**                                                                                                        | **Non-Example**                                                     
-|
 
+  | **Skill**                   | **Description**                                                                                                                                          | **Key Points**                                                                                                                                     |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Recognizing Emotions**   | The ability to identify emotions and understand how they affect your thoughts, feelings, and behavior.                                                   | - Emotions occur in the body<br>- Feelings are responses to emotions<br>- Helps with expression and emotional regulation                         |
+| **Self-Efficacy**          | Belief in your ability to learn, accomplish tasks, and achieve goals.                                                                                    | - Builds confidence<br>- Encourages effort and persistence<br>- Empowers you to use your potential                                                |
+| **Growth Mindset**         | The belief that skills and intelligence can be developed through effort and learning.                                                                    | - Focuses on improvement and learning<br>- Views failure as opportunity<br>- Encourages trying new strategies and seeking help when needed        |
+
+<ul>
+  <li>Three key skills for self-awareness include recognizing emotions and understanding feelings, self-efficacy, and a growth mindset. </li>
+  <li>Recognizing emotions is an important skill because it will help you express yourself. Emotions occur in your body as the result of events, and feelings manifest according to your emotions.</li>
+  <li>Self-efficacy is people's belief in their own ability to learn, accomplish tasks, and achieve goals. It is an important skill and a key to self-awareness because it can empower individuals to utilize their potential to achieve their goals in all aspects of life.</li>
+  <li>People with a growth mindset know that they can develop their intelligence through effort and strategic problem-solving. It is a key skill to self-awareness because such people are less likely to be dissuaded by failure; rather, they will continually try to improve themselves.</li>
+</ul>
+
+> Identify examples of self-awareness skills applied in educational, professional, and personal development settings.
+
+<p>You have learned about what self-awareness is, why it is important, and which characteristics and skills comprise self-awareness. You have also read examples of people applying self-awareness in different situations. As a 21st-century skill, self-awareness is applicable to all aspects of your life. You can practice and utilize self-awareness skills in school, at work, at home, and in your community. Often, when you apply self-awareness in one area of your life, such as work, you will receive the benefits of it in other areas as well (e.g., at home or within your community). </p>
+
+<h3>Applying Self-Awareness Skills</h3>
+
+<p>Self-awareness comprises several skills that are usually integrated when applied in personal and professional settings. The characteristics and skills overlap somewhat in terms of what they are and which benefits they offer. The four stories that follow illustrate social and emotional learning. In each scenario, the person applies the self-awareness skills in different environments.</p>
+
+| Person  | Scenario Summary                                                                                                                                      | Identifying Emotions | Self-Efficacy | Growth Mindset |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------|----------------|
+| Maya    | Creates a time-efficient haiku journal to reflect on emotions and shares it with her husband.                                                         | ✅ Yes               | ✅ Yes         | ❌ No          |
+| Maria   | Faced difficulty with course readings, sought help, applied new strategies, and improved comprehension.                                                | ❌ No                | ✅ Yes         | ✅ Yes         |
+| William | Recognized frustration over a new work software, paused to reflect, sought help, and offered to lead training for others.                             | ✅ Yes               | ✅ Yes         | ✅ Yes         |
+| Lucas   | Felt sadness and unhealthy habits creeping in, started coaching basketball, learned from kids, improved emotionally and physically.                   | ✅ Yes               | ❌ Not directly| ✅ Yes         |
+
+## Lesson Summary: Self-Awareness Skills
+
+| Key Point                                                                                         | Explanation                                                                                         |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Self-awareness skills include:**                                                                | - Identifying emotions<br>- Having self-efficacy<br>- Modeling a growth mindset                    |
+| **Developing and applying these skills leads to self-awareness**                                 | A combination of these skills supports reflection, emotional regulation, and goal setting.         |
+| **Self-awareness can be applied in various areas of life**                                       | Useful for personal growth, academic achievement, workplace effectiveness, and community building. |
+
+## Self-Awareness Quiz Summary
+
+| **Question** | **Correct Answer** | **Explanation** |
+|--------------|---------------------|------------------|
+| **1. Which statement describes a characteristic and benefit of self-awareness?** | *Being honest about mistakes but not being defeated by them can help you learn and achieve greater goals.* | Self-aware individuals learn from mistakes and continue to grow. |
+| **2. Which statement about emotions and feelings is true?** | *Two people can experience the same emotion in response to an event and have different feelings about it.* | Emotions are universal; feelings are shaped by personal experience. |
+| **3. New employee tasked with a complex project — best application of self-awareness?** | *The employee realizes the project will be challenging but knows she has the necessary skills. She sets achievable goals, consults with colleagues, reflects on her feelings, and learns from mistakes.* | This response shows self-efficacy, emotional regulation, and a growth mindset. |
+
+<h1>Module 18(PG)[105]</h1>
