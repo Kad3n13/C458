@@ -3176,8 +3176,75 @@ Here are the answers based on your questions:
 
 <h1>Module 17(PG)[99]</h1>
 
+<p>Have you ever found yourself in a situation in which you didn't even realize you were angry until you lost your temper? Have you been surprised when a friend or colleague complimented you on a skill you didn't realize you had? As you become more self-aware, you learn to recognize your emotions and understand yourself. You come to understand, in a deliberate and conscientious way, who you are and why you do what you do.</p>
 
+<p>This may seem simple and straightforward. Interestingly, researchers have found that most people think they are more self-aware than they actually are. In one often-cited study, 95% of the participants reported that they were self-aware, while researchers found that only about 15% of them actually truly were (Kauflin, 2017). After engaging in this module, you should be able to identify the application of self-awareness skills in educational, professional, and personal development settings. </p>
 
+| **Skill**                | **Description**                                                                                                                                   |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Recognizing Emotions** | The ability to distinguish between various emotional states and understand how they affect your physical body, behavior, and attitudes.           |
+| **Self-Efficacy**        | Belief in your ability to complete tasks and achieve goals, and the willingness to act in ways that support that belief.                          |
+| **Growth Mindset**       | The belief that skills and abilities can be developed over time through effort, learning, and persistence—not determined solely by innate talent. |
 
+> Identify the characteristics and significance of self-awareness.
 
+| **Person** | **Situation**                                                                | **Self-Awareness Demonstrated**                                                                                                                               |
+| ---------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Maria**  | She would rather relax or go shopping than study for an exam.                | Maria connects her current actions with her future goals. She chooses to study, demonstrating discipline and goal-focused decision-making.                    |
+| **Hannah** | She’s deeply saddened by a recent loss and finds it hard to leave the house. | Hannah acknowledges her emotions and uses mindfulness and journaling to regulate them. She balances self-care with personal responsibilities.                 |
+| **Lucas**  | He feels fatigued despite getting enough sleep and initially ignores it.     | Lucas listens to his body, practices self-compassion, and prioritizes his health by taking time off to see a doctor.                                          |
+| **Nora**   | She’s invited to a party after a hard week, but feels exhausted.             | Nora sets a personal boundary, declines the party to focus on rest, and plans to reconnect with friends later—prioritizing emotional and physical well-being. |
+
+Definition of Self-Awareness
+
+Self-awareness is the ability to observe and understand your emotions, thoughts, behaviors, and how they influence your actions and outcomes—without judgment. It involves regulation, self-care, and compassion.
+
+| **Characteristic**                                                  | **Explanation**                                                                        |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Recognize and regulate emotions                                     | Understanding how you're feeling and adjusting your response accordingly.              |
+| Reflect on how feelings affect behavior                             | Observing how your emotions influence your actions and decisions.                      |
+| Identify healthy and unhealthy behaviors and habits                 | Noticing what behaviors serve your well-being and which don’t.                         |
+| Show appreciation for your own and others’ efforts                  | Practicing gratitude and recognizing effort.                                           |
+| Believe in your ability to learn and achieve goals (Self-efficacy)  | Trusting in your own ability to succeed and acting in ways that reinforce that belief. |
+| View mistakes or failures as opportunities                          | Seeing errors as a chance to grow instead of reasons to feel shame.                    |
+| Believe skills and abilities can improve over time (Growth mindset) | Understanding that intelligence and talent are not fixed.                              |
+| Know your strengths, values, and motivations                        | Understanding what drives you and what matters most.                                   |
+
+| **Scenario**                                                              | **Self-Awareness Characteristic**       |
+| ------------------------------------------------------------------------- | --------------------------------------- |
+| A friend journals about their feelings and behaviors while on a diet.     | Reflect on how feelings affect behavior |
+| A teacher is confronted by a parent and calmly asks to resolve it later.  | Recognize and regulate emotions         |
+| A coworker makes mistakes at work and decides to improve future outcomes. | View mistakes as opportunities to grow  |
+
+| **Person** | **Scenario**                                                                               | **Self-Awareness Trait**                               |
+| ---------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| **Maria**  | Wants to avoid studying, but connects it to long-term goals and chooses to study.          | Future-minded decision-making and emotional regulation |
+| **Hannah** | Experiences grief but journals and uses mindfulness to regulate her emotions and function. | Emotional reflection and self-care                     |
+| **Lucas**  | Notices unexplained fatigue, chooses to see a doctor.                                      | Self-compassion and physical awareness                 |
+| **Nora**   | Skips a party to rest after a stressful week, plans to see friends later.                  | Boundary-setting and prioritizing well-being           |
+
+| **Benefit**                                                        |
+| ------------------------------------------------------------------ |
+| Helps respond more productively to situations                      |
+| Improves decision-making and awareness of healthy/unhealthy habits |
+| Boosts personal well-being and relationships                       |
+| Enables learning from mistakes and avoiding repetition             |
+| Increases motivation and chances of success                        |
+| Supports value-aligned life choices and goal-setting               |
+
+> Identify the skills associated with self-awareness.
+
+| **Aspect**            | **Emotions**                                                         | **Feelings**                                                          |
+| --------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Definition**        | Physical responses to an event, often experienced in the body.       | Learned responses to emotions based on personal experiences.          |
+| **Origin**            | Triggered by external stimuli (e.g., an event or situation).         | Emerge from how an individual interprets or reacts to emotions.       |
+| **Nature**            | Often unconscious, automatic, and **not necessarily rational**.      | Conscious awareness of emotional states.                              |
+| **Universality**      | Universal across all cultures.                                       | Personal and vary widely depending on one’s background.               |
+| **Examples**          | Anger, disgust, fear, happiness, sadness, surprise.                  | Lonely, insecure, rejected, hopeful, discouraged.                     |
+| **Number Identified** | Varies — from 4 to 27 distinct emotions identified by psychologists. | Over **4,000 English words** used to describe feelings.               |
+| **Expression**        | Experienced physically (e.g., heart racing, sweating).               | Experienced mentally and emotionally (e.g., feeling hurt or anxious). |
+| **Interaction**       | Emotions trigger feelings.                                           | Feelings are the personal interpretation of emotions.                 |
+
+| **Skill**                | **Definition**                                                                                                            | **Example**                                                                                                        | **Non-Example**                                                     
+|
 
