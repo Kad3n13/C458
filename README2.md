@@ -2879,3 +2879,116 @@ Which strategy helps maintain emotional wellness?
 | Tension headache     | ✅                | Can occur in the resistance stage of stress response.   |
 | Increased heart rate | ✅                | Immediate response from adrenaline and stress hormones. |
 
+| **Topic**                        | **Key Points**                                                                                                                             |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Understanding Stress**         | Stress can be **positive and beneficial** if recognized and managed properly.                                                              |
+| **Common Causes of Stress**      | Death of a loved one, school performance, job changes, bullying, illness, unhealthy relationships, etc.                                    |
+| **GAS Stages (Stress Response)** | 1. **Alarm** – Fight-or-flight response<br>2. **Resistance** – Body tries to adapt<br>3. **Exhaustion** – Resources depleted, body weakens |
+| **Body’s Physical Response**     | Body systems respond immediately to stress to help survival.                                                                               |
+| **Long-term Health Effects**     | Prolonged stress increases risk of **chronic diseases** like:                                                                              |
+|                                  | - Hypertension (high blood pressure)                                                                                                       |
+|                                  | - Heart attack                                                                                                                             |
+|                                  | - Stroke                                                                                                                                   |
+|                                  | - Diabetes                                                                                                                                 |
+|                                  | - Obesity                                                                                                                                  |
+
+> Identify stress management techniques.
+
+<h3>Three Tips to Handle Stress</h3>
+
+> The methods to handle stress are similar to those methods used to manage your emotions. Try these three tips to manage stress.
+
+| **Category**                  | **Strategy**            | **Description**                                                                              |
+| ----------------------------- | ----------------------- | -------------------------------------------------------------------------------------------- |
+| **1. Develop a New Attitude** | Become a problem solver | List your stressors. Solve small problems first. Let go of what you can't control right now. |
+|                               | Be flexible             | Avoid unnecessary conflict. Compromise or walk away when needed.                             |
+|                               | Get organized           | Plan your day. Prioritize tasks with a checklist. Complete important tasks first.            |
+|                               | Set limits              | Know your limits. Say no when needed to protect your time and energy.                        |
+| **2. Take Care of Your Body** | Get enough sleep        | Aim for 7–9 hours per night to improve focus and resilience.                                 |
+|                               | Eat right               | Choose whole foods like fruits, vegetables, and whole grains. Avoid high sugar and caffeine. |
+|                               | Get moving              | Exercise to relieve tension and boost your mood. Helps with depression and anxiety.          |
+|                               | Avoid unhealthy coping  | Don’t use alcohol, drugs, smoking, or overeating to manage stress.                           |
+| **3. Connect with Others**    | Share your stress       | Talk to friends or family to release stress and gain new perspectives.                       |
+|                               | Seek professional help  | If stress is overwhelming, talk to a doctor or counselor.                                    |
+|                               | Help others             | Volunteer to build self-worth and social connections.                                        |
+
+| **Category**              | **Technique**            | **Description**                                                                            |
+| ------------------------- | ------------------------ | ------------------------------------------------------------------------------------------ |
+| **Relaxation Techniques** | Deep breathing           | Slows your breathing and helps your muscles relax. Useful during moments of acute stress.  |
+|                           | Stretching               | Relieves physical tension and promotes relaxation in the body.                             |
+|                           | Muscle massage           | Massaging tense areas like the neck and upper back reduces stress and physical discomfort. |
+|                           | Personal enjoyment       | Take time for activities you love (music, reading, movies) to recharge emotionally.        |
+|                           | Progressive relaxation   | Tensing and then relaxing muscle groups to reduce overall tension.                         |
+|                           | Guided imagery           | Using mental visualizations to promote a sense of calm and focus.                          |
+|                           | Biofeedback              | Using devices to gain awareness and control over physiological functions like heart rate.  |
+|                           | Self-hypnosis            | Using focused attention and suggestion to reach a state of relaxation.                     |
+|                           | Deep breathing exercises | Focused breathing techniques to calm the nervous system.                                   |
+| **Meditation**            | Quiet environment        | A calm space with minimal distractions enhances focus and relaxation.                      |
+|                           | Comfortable posture      | Sit, lie down, or walk in a relaxed position to support mindfulness.                       |
+|                           | Focus of attention       | Concentrate on a word, breath, sensation, or movement (e.g., yoga, tai chi).               |
+|                           | Open attitude            | Let thoughts come and go naturally without judgment.                                       |
+| **Meditation Benefits**   | Physical relaxation      | Lowers blood pressure and slows breathing.                                                 |
+|                           | Psychological balance    | Reduces anxiety, depression, and enhances emotional control.                               |
+|                           | Illness coping support   | Helps manage symptoms and improve overall well-being.                                      |
+|                           | Mind-body connection     | Enhances awareness of the relationship between thoughts, body, and emotions.               |
+
+
+| **Scenario**                                                          | **Effective Strategies**                                                                                      | **Why They Work**                                                                                                                               |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Charlene** <br>*(Overwhelmed by tasks)*                             | ✅ Write a list of the things that are causing stress <br> ✅ Go out for a short walk before planning           | Listing stressors helps identify solvable problems. <br> A short walk helps relax tense muscles and improves mood.                              |
+| **Ineffective Options**                                               | ❌ Go to bed and make a list in the morning <br> ❌ Start solving the biggest task                              | Postponing can increase anxiety. <br> Tackling the biggest task first may feel overwhelming.                                                    |
+| **Sherry** <br>*(Stressed about her upcoming wedding)*                | ✅ Decline nonessential requests <br> ✅ Talk about the problems with friends                                   | Setting limits protects your time and energy. <br> Talking with others can reduce anxiety and offer new perspectives.                           |
+| **Ineffective Options**                                               | ❌ Start a low-carbohydrate diet <br> ❌ Get 10 hours of sleep                                                  | Changing diet doesn’t directly address current stress. <br> Too much sleep can disrupt balance and productivity.                                |
+| **David** <br>*(Full-time worker & grad student, constantly anxious)* | ✅ Find time to stretch <br> ✅ Take a slow walk and listen to music <br> ✅ Use long, slow breathing techniques | These are relaxation techniques that trigger the body’s natural calming response: reduced heart rate, lower blood pressure, and mental clarity. |
+| **Ineffective Option**                                                | ❌ Complete his schoolwork at a coffee shop                                                                    | While helpful for productivity, it doesn't directly support relaxation.                                                                         |
+
+| **Key Area**                            | **Summary**                                                                                                                                                                                                       |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Positive Attitude & Problem Solving** | Develop a new mindset toward stress. Identify stressors, focus on what you can control, and take small, manageable steps to solve problems.                                                                       |
+| **Physical Self-Care**                  | Support your body with **quality sleep**, **nutritious foods**, and **regular physical activity** to improve resilience against stress.                                                                           |
+| **Social Connections**                  | Build strong relationships. **Talk to others**, **share your stress**, and seek **support** when needed to reduce feelings of isolation and anxiety.                                                              |
+| **Relaxation Techniques**               | Use tools like **meditation**, **deep breathing**, and **stretching** to trigger the body’s **natural relaxation response** — leading to slower breathing, reduced blood pressure, and greater emotional balance. |
+
+| **Topic**                        | **Key Takeaways**                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nature of Stress**             | - Stress can be **positive** (motivating) or **negative** (harmful).<br>- Understanding stress helps in managing its effects.                                                                                                                                                                                                                                                                                                                                                   |
+| **Common Causes of Stress**      | - Death of a spouse or loved one<br>- Academic pressure (success or failure)<br>- Job changes<br>- Bullying and harassment                                                                                                                                                                                                                                                                                                                                                      |
+| **Body’s Response to Stress**    | - The body reacts immediately for **survival** (fight-or-flight response).<br>- Long-term stress can increase risk for chronic diseases such as:<br>  - Hypertension<br>  - Heart attack<br>  - Stroke<br>  - Diabetes<br>  - Obesity                                                                                                                                                                                                                                           |
+| **Stress Management Techniques** | - **Develop a positive, problem-solving attitude**<br>  - Identify controllable stressors and take small steps to solve them.<br>- **Take care of your body**<br>  - Get quality sleep, eat nutritious foods, and exercise regularly.<br>- **Connect with others**<br>  - Share feelings and seek social support.<br>- **Practice relaxation techniques**<br>  - Deep breathing, stretching, meditation, and other calming activities to reduce tension and enhance well-being. |
+
+| **Option**                                | **Correct?** | **Explanation**                            |
+| ----------------------------------------- | ------------ | ------------------------------------------ |
+| Financial burden                          | ❌            | Typically a long-term or chronic stressor. |
+| Caring for a disabled parent or loved one | ❌            | Ongoing situation = chronic stress.        |
+| Major physical illness or injury          | ❌            | A serious and extended stressor.           |
+| **Missing the bus to work**               | ✅            | An immediate, short-term (acute) stressor. |
+
+| **Option**                                   | **Correct?** | **Explanation**                                  |
+| -------------------------------------------- | ------------ | ------------------------------------------------ |
+| **Avoid caffeine and alcohol**               | ✅            | Helps regulate mood and stress response.         |
+| Continue to discuss the same problem         | ❌            | May lead to rumination and increased stress.     |
+| Plan a family event                          | ❌            | Could add more responsibilities and stress.      |
+| Find alternative activities to avoid problem | ❌            | Avoidance does not address the source of stress. |
+
+| **Option**                                  | **Correct?** | **Explanation**                                      |
+| ------------------------------------------- | ------------ | ---------------------------------------------------- |
+| Increased risk of viral infection           | ❌            | More typical of long-term/chronic stress.            |
+| Stomach acid and ulcers                     | ❌            | Generally associated with prolonged stress.          |
+| Weight gain or loss                         | ❌            | Often linked to chronic stress.                      |
+| **Increased heart rate and blood pressure** | ✅            | Common immediate response in the alarm stage of GAS. |
+
+
+| #  | Question Summary                                             | Correct Answer                                                         | Explanation                                                                              |
+| -- | ------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1  | Behavior indicating potential autism spectrum disorder (ASD) | Facial expressions, movements, and gestures that contradict words said | ASD affects communication and social behaviors, including non-verbal cues.               |
+| 2  | Warning sign of depression                                   | Feelings of worthlessness                                              | Depression includes persistent sadness, loss of interest, and feelings of worthlessness. |
+| 3  | Example of sexual harassment                                 | Making unwanted sexual advances toward a co-worker                     | Sexual harassment involves unwelcome sexual advances or requests.                        |
+| 4  | Type of barrier contraception                                | A diaphragm                                                            | Diaphragm is a physical barrier method; does not protect against STDs.                   |
+| 5  | Behavior characteristic of self-awareness                    | Being capable of observing and recognizing a feeling as it happens     | Self-awareness is recognizing and understanding one’s emotions as they arise.            |
+| 6  | Stage of the grieving process                                | Denying loss                                                           | Denial is a common initial reaction to grief.                                            |
+| 7  | Drug type that alters awareness of surroundings and thoughts | Hallucinogens                                                          | Hallucinogens cause altered perceptions and sensory experiences.                         |
+| 8  | Drug causing altered senses, mood changes, memory issues     | Marijuana                                                              | THC in marijuana affects memory, senses, and cognitive functions.                        |
+| 9  | Effective stress reduction method before job interview       | Think ahead about how to answer the interview questions                | Planning and visualization reduce stress effectively.                                    |
+| 10 | Stress coping strategy involving documenting feelings        | Journaling                                                             | Writing about feelings promotes self-reflection and stress relief.                       |
+
+<h1>MODULE 16(PG)[95]</h1>
