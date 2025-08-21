@@ -2846,3 +2846,36 @@ Which strategy helps maintain emotional wellness?
 > Contrary to popular belief, stress does not increase acid production in the stomach or cause stomach ulcers. Stomach ulcers are actually caused by a bacterial infection.
 
 
+<h3>Psychological Effects of Stress</h3>
+> In addition to physical effects, some people who are under stress may experience a number of other effects:
+
+<ul>
+  <li>Worry</li>
+  <li>Anger</li>
+  <li>Irritability</li>
+  <li>Depression</li>
+  <li>Forgetfulness</li>
+  <li>Inability to focus</li>
+</ul>
+
+| Stressful Life Event      | Stressful? | Explanation                                                                   |
+| ------------------------- | ---------- | ----------------------------------------------------------------------------- |
+| Passing a capstone course | ✅          | Major academic achievements can bring performance pressure and stress.        |
+| Planning a vacation       | ✅          | Even positive experiences can be stressful due to logistics and expectations. |
+| Death of a pet            | ✅          | Loss of a loved one (including pets) is a significant emotional stressor.     |
+| Getting married           | ✅          | Positive life changes often bring emotional and logistical stress.            |
+
+| GAS Stage  | Order | Description                                                          |
+| ---------- | ----- | -------------------------------------------------------------------- |
+| Alarm      | 1st   | Initial fight-or-flight response to perceived stress.                |
+| Resistance | 2nd   | Body remains alert, attempting to adapt to ongoing stress.           |
+| Exhaustion | 3rd   | Resources are depleted; long-term stress causes fatigue and illness. |
+
+| Physical Response    | Likely to Occur? | Explanation                                             |
+| -------------------- | ---------------- | ------------------------------------------------------- |
+| Shortness of breath  | ✅                | Part of fight-or-flight response.                       |
+| Nausea               | ✅                | Can occur due to anxiety and shock after the event.     |
+| Lower-back ache      | ❌                | Not typically an immediate reaction to acute stress.    |
+| Tension headache     | ✅                | Can occur in the resistance stage of stress response.   |
+| Increased heart rate | ✅                | Immediate response from adrenaline and stress hormones. |
+
