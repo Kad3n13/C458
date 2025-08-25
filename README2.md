@@ -3492,5 +3492,5 @@ In this example, the teacher:
 - Applies **goal setting** by creating lesson plans with a specific timeframe
 - Practices **stress management** through meditative breathing
 
----
+<h1>MODULE 19(PG)[111]</h1>
 
