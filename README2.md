@@ -3291,3 +3291,206 @@ Self-awareness is the ability to observe and understand your emotions, thoughts,
 | **3. New employee tasked with a complex project — best application of self-awareness?** | *The employee realizes the project will be challenging but knows she has the necessary skills. She sets achievable goals, consults with colleagues, reflects on her feelings, and learns from mistakes.* | This response shows self-efficacy, emotional regulation, and a growth mindset. |
 
 <h1>Module 18(PG)[105]</h1>
+
+| **Concept**       | **Description** |
+|-------------------|-----------------|
+| **Self-Management** | Individuals' ability to regulate their emotions in different situations, control impulses, set goals, and manage stress. |
+| **Key Skill: Stress Management** | Incorporate techniques, habits, and preventative practices for managing one's own thoughts, emotional response, and physiology during stressful situations. |
+| **Key Skill: Goal Setting** | Identify value-based personal and professional milestones and establish a fixed timeline and action steps to achieve them. |
+| **Key Skill: Self-Discipline** | Engage in a consistent regimen of positive habits, behaviors, and self-regulation strategies in an effort to complete tasks, achieve goals, and maintain well-being. |
+
+
+| **Section** | **Content** |
+|-------------|-------------|
+| **Introduction** | Are there people in your life you admire for their ability to manage stress, persist when things are difficult, and get a lot accomplished? If so, it is likely that they have good self-management skills. Self-management can help you understand how to manage your emotions, manage stress, build resilience, and persevere through challenges so that you are able to make the best use of your time and achieve your goals. In this lesson, you will learn what self-management is, why it is important, and what it looks like when applied to daily life. |
+| **Self-Management Overview** | Do you have a personal mission statement? Do you know what your priorities are and how they align with the goals you have for your life? Self-management can help you manage your behavior so that you can live a life that aligns with your personal mission statement and life goals. |
+| **What Is Self-Management?** | Self-management is the ability to accept responsibility for, be accountable for, and effectively manage one's own emotions, behavior, actions, and well-being. Self-management skills help an individual become organized and more effective in their endeavors by incorporating systems, strategies, and mindsets to achieve optimal outcomes and results. |
+| **Examples of Self-Management in Everyday Life** | |
+| **Maya** | Maya is preparing to return to her third-grade classroom after summer break. Maya felt overwhelmed at this point the previous year. She knows that starting out organized will help minimize back-to-school stress for herself and her students. To ensure she is prepared, she organizes the materials and space in her classroom. She reviews curriculum material to remember the broader year-end goals and solidifies lesson plans for the first few weeks. |
+| **William** | William has recently been promoted at work. He knows that his new position will initially require more time and focus than his last one. He also realizes that it will be stressful in the first few months. He and his wife have young children, and their home life is very busy. He plans on working longer days at least a few nights a week. William knows that exercising and spending time with people he enjoys will help him manage the stress of the new job. He schedules time to jog in the mornings. He also reserves Friday nights for the family and schedules to have coffee with a friend one day over the weekend. |
+
+| **Section** | **Content** |
+|-------------|-------------|
+| **The Role of Emotion in Self-Awareness and Self-Management** | Both self-awareness and self-management involve understanding and regulating emotions and related behaviors. However, one major difference is that self-awareness focuses on the recognition and identification of emotions, while self-management focuses on how people handle their emotions and their ability to modify their external behavior in response to emotions. Self-management is informed and guided by self-awareness. |
+| **Characteristics of Self-Management** | People with strong self-management skills tend to: <ul><li>Manage daily and ongoing stress</li><li>Recover from adversity</li><li>Avoid reacting on impulse</li><li>Are self-motivated</li><li>Establish goals and make plans to achieve them</li><li>Organize priorities and manage time</li><li>Ignore distractions and maintain focus on tasks</li></ul> |
+| **Scenario Example** | A fellow student calls and expresses frustration about writing a paper. He almost deletes his draft but instead takes deep breaths and a break. The next day, he sets a goal to finish in two days, makes a plan (starting with an outline), and puts his phone in another room to stay focused. He demonstrates:<ul><li>Manages stress</li><li>Does not react on impulse</li><li>Sets goals and makes plans</li><li>Ignores distractions and stays focused</li></ul> |
+| **Tip: Let Go of Multitasking** | While multitasking may seem efficient, only 2% of people can do it effectively. For most, multitasking reduces productivity. |
+| **Self-Management Benefits** | <ul><li>Improved relationships, even in difficult situations</li><li>Better physical and mental health</li><li>Greater focus, even with distractions</li><li>Better decision-making</li><li>Accomplish more in less time = more free time and less stress</li><li>Improved learning outcomes and success in school/work</li><li>Greater self-confidence and self-esteem</li></ul> |
+| **Question 2 – Example Response** | *Prompt:* How can you benefit in your professional career from self-management?<br>**Sample Answer:** The way I can improve from self-management would first be to set up and formulate 3 goals. From there, I would give each goal 1 main focus area and then allocate constructive timed intervals for work and stress management. |
+| **Lesson Summary** | <ul><li>Self-management = taking responsibility for your emotions, behavior, and well-being</li><li>Involves being self-motivated, focused, organized, and resilient</li><li>Leads to better health, relationships, productivity, learning, and confidence</li></ul> |
+
+| **Section** | **Content** |
+|-------------|-------------|
+| **Introduction to Self-Management Skills** | You now know that self-management can benefit you in many areas of your life. In this lesson, you will learn about three of the key skills that can help you achieve these benefits: stress management, goal setting, and self-discipline. |
+| **Self-Management: Stress Management Skills** | You can probably easily describe a recent event or situation that was stressful. How did you manage it? What worked well, and what did not? |
+| **Definition: Stress Management** | Stress management is the process of managing factors that cause anxiety and maintaining overall well-being. |
+| **Positive Stress** | Positive stress is energizing and motivational. It can help you focus and achieve goals, often occurring when you're looking forward to something you feel prepared for. |
+| **Negative Stress** | Negative stress causes anxiety, reduces performance, and can leave you feeling overwhelmed. It often occurs when you feel unequipped to handle a situation. |
+| **Individual Differences in Stress** | What people find stressful varies from person to person. For example, public speaking might be positively stressful for some, and negatively stressful for others. |
+| **Importance of Managing Negative Stress** | Learning to manage negative stress is essential for maintaining both physical and mental health. |
+| **Stress Management Strategies** | Stress management strategies fall into two main categories: eliminating stressors and using relief techniques. |
+| **Eliminate Unnecessary Stressors** | <ul><li>Practice getting rid of negative thoughts</li><li>Recognize and end unhealthy relationships when possible</li><li>Reduce clutter and create an organized environment</li></ul> |
+| **Use Relief Strategies** | <ul><li>Practice deep breathing and count slowly with each breath</li><li>Relax muscles progressively and observe changes</li><li>Visualize peaceful and calming settings</li><li>Maintain healthy habits: regular exercise, enough rest, and meaningful social time</li></ul> |
+
+| **Section** | **Content** |
+|-------------|-------------|
+| **Managing Stress – Tip** | To manage stress caused by feeling overwhelmed, focus on your senses instead of your thoughts. Simple grounding exercises, such as holding an object and describing its texture or listening to relaxing music, can help calm both children and adults. |
+| **Did I Get This – Question 1** | **Scenario:**<br>Hannah takes her dog for a walk. The dog escapes the leash and runs off. Hannah starts to panic but instead takes deep breaths to calm down. She uses treats to call the dog back successfully. Later, still feeling some stress, she goes for a run and takes a bath while listening to relaxing music. |
+| **Identified Stress Management Techniques** | <ul><li>**Practiced deep breathing** – Paused and took deep breaths to manage initial panic</li><li>**Removed negative thoughts** – Reframed the situation with a calm plan (calling the dog with treats)</li><li>**Incorporated exercise** – Went for a run and used relaxing music to reduce lingering stress</li></ul> |
+| **Incorrect Options (Not Demonstrated)** | <ul><li>Recognized unhealthy relationships</li><li>Reduced clutter and created an organized environment</li></ul> |
+| **Explanation** | Hannah effectively managed stress by using multiple techniques from both categories: eliminating negative stressors and using stress-relief strategies. Her actions demonstrate how self-awareness and coping strategies work together in real-life situations. |
+
+| **Section** | **Content** |
+|-------------|-------------|
+| **Goal Setting as a Self-Management Skill** | Goal setting is an essential skill for achieving personal and professional milestones. It plays a key role in self-management by helping you stay organized, manage your time, and build the structure needed for self-discipline and success. |
+| **Definition: SMART Goals** | SMART is an acronym for Specific, Measurable, Achievable, Relevant, and Timely. Research shows that people are more successful when their goals follow this structure. SMART goals provide clarity, motivation, and a way to track progress. |
+| **SMART Goals Breakdown** | **SMART GOALS** | **QUESTIONS TO DEVELOP SMART GOALS** |
+| Specific | Does the goal answer who, what, when, where, and why? |
+| Measurable | How will I know when I've met the goal? Can I measure the goal by how often I accomplish something or how much I achieve? |
+| Achievable | How realistic is the goal? What can help me reach the goal? What will help me make progress toward achieving the goal? |
+| Relevant | Is the goal worthwhile? Do I have the skills or information I need, or can I get them? Does this goal align with my needs? |
+| Timely | What is a reasonable schedule for my goal? What can I do today? What can I do in the next few months? |
+
+| **Statement** | **SMART Goal Component** | **Explanation** |
+|---------------|--------------------------|------------------|
+| Survey volunteers to verify the program is worthwhile and determine interest and availability | **Relevant** | This ensures the goal aligns with actual needs and interests. |
+| Plan and launch a volunteer dog-walking program with existing volunteers within six months | **Specific** | Clearly defines who, what, when, and how — making it a concrete goal. |
+| Begin with a goal of each dog receiving at least three volunteer-led walks per week (given volunteer capacity) | **Achievable** | The goal is realistic based on current resources (volunteer capacity). |
+| Begin with three walks a week, and at the end of three months, review the program | **Measurable** | Progress can be tracked through the number of walks and a planned review. |
+| At the end of three months, review the program and make adjustments needed to attain the six-month goal | **Timely** | Sets both short-term and long-term timelines to keep the goal on track. |
+
+> Setting SMART Goals with Groups
+
+> Tip: 
+> When working with others, such as a group of students or a team at work, you may wish to augment the "achievable" part of a SMART goal with "agreed upon." You want to be sure that everyone agrees with the goals and has the same understanding of what the goals mean. Remind students or team members that working on smaller goals will help them reach larger goals.
+
+| **Section** | **Content** |
+|-------------|-------------|
+| **Self-Management: Self-Discipline Skills** | Self-discipline is the ability to use techniques for self-monitoring and time management. It also includes the ability to focus and persevere through challenges to complete a task and achieve goals. |
+| **Strategies to Improve Self-Discipline** | |
+| **Strategy** | **Tip** |
+| Know your sources of temptation or distraction, and make a plan to address them. | Set short-term goals and readjust as needed. Use self-reflection to evaluate how achieving the goal made you feel. |
+| Persist and have faith in your abilities. | Use self-efficacy skills to remind yourself that you are capable. Ask for help when needed and try new approaches to overcome obstacles. |
+| Know what helps you focus. | Use tools that support your focus — e.g., background music, quiet spaces, or time-blocking. Choose the environment that works best for you. |
+| **Lesson Summary** | |
+| Key Self-Management Skills | <ul><li>**Stress Management** – Stress can be positive or negative. It varies by person and can be managed by eliminating stressors or using relief strategies.</li><li>**Goal Setting** – Setting SMART goals (Specific, Measurable, Achievable, Relevant, Timely) helps organize time and focus efforts for success.</li><li>**Self-Discipline** – Involves time management, self-monitoring, focus, and perseverance to overcome distractions and challenges.</li></ul> |
+
+| **Context** | **Individual** | **Scenario Summary** | **Self-Management Skills Applied** | **Strategies Used** |
+|-------------|----------------|------------------------|------------------------------------|----------------------|
+| **Home** | **Hannah** | Renovating a home with her husband; initially overwhelmed, calms herself, sets a detailed plan, and resists distractions. | - Stress Management<br>- Goal Setting<br>- Self-Discipline | - Took a calming sensory break (smelled a rose)<br>- Ate healthfully and got enough rest<br>- Created SMART goals with timelines and tools<br>- Avoided distractions like socializing and watching TV |
+| **Work** | **Nora** | Managing new responsibilities as a senior manager; works with a coach to improve listening and reduce anxiety. | - Stress Management<br>- Goal Setting | - Recognized physical symptoms of stress and found ways to relax<br>- Sought coaching to improve skills<br>- Created a structured listening plan and requested feedback<br>- Set personal goals (e.g., lunch with a peer, peaceful dog walks) |
+| **Community** | **Lucas** | Youth basketball coach aiming to improve his coaching and playing skills; tracks progress despite distractions. | - Goal Setting<br>- Self-Discipline | - Wrote a SMART goal to improve dribbling skills<br>- Practiced consistently, tracked performance<br>- Resisted temptation to socialize or watch games<br>- Reminded himself of the goal’s importance |
+| **School** | **Maria** | College student working to improve her writing skills; overcomes negative thoughts and develops a plan. | - Stress Management<br>- Goal Setting<br>- Self-Discipline | - Replaced negative thoughts with positive affirmations<br>- Used deep breathing to manage writing anxiety<br>- Followed a specific weekly writing plan<br>- Measured progress by grade improvement |
+| **Lesson Summary** | — | This lesson emphasized recognizing and applying self-management skills across life settings. | - Stress Management<br>- Goal Setting<br>- Self-Discipline | - Combine and practice these skills to build habits that lead to personal and professional success. |
+
+#  Self-Management Module Summary
+
+##  What Is Self-Management?
+
+**Self-management** is the ability to:
+- Accept responsibility for your emotions, behaviors, and actions
+- Be accountable for your own well-being
+- Effectively regulate your response to challenges and goals
+
+---
+
+##  Benefits of Strong Self-Management Skills
+
+- Improved relationships (even during conflict)
+- Better physical and mental health
+- More personal free time
+- Less stress and anxiety
+- Increased productivity and focus
+- Enhanced learning outcomes and academic/workplace success
+
+---
+
+##  Three Key Self-Management Skills
+
+### 1. **Stress Management**
+- Understand the difference between **positive** (motivating) and **negative** (overwhelming) stress
+- Strategies include:
+  - Eliminating unnecessary stressors
+  - Deep breathing and relaxation techniques
+  - Physical activity and healthy habits
+  - Positive self-talk and mindfulness
+
+### 2. **Goal Setting**
+- Organize time and efforts to achieve personal/professional goals
+- Use the **SMART Goal** framework:
+  - **S**pecific – What exactly do you want to achieve?
+  - **M**easurable – How will success be measured?
+  - **A**chievable – Is the goal realistic?
+  - **R**elevant – Does it align with your priorities?
+  - **T**imely – What is the timeframe?
+
+### 3. **Self-Discipline**
+- Focus, persist, and resist distractions
+- Use time management and self-monitoring techniques
+- Develop routines and stick to them, even through challenges
+
+---
+
+## Where Can You Apply Self-Management?
+
+- **At Home** – Managing chores, projects, personal goals
+- **At Work** – Setting professional goals, managing stress, staying productive
+- **At School** – Handling deadlines, building study habits, improving performance
+- **In the Community** – Volunteering, leading others, maintaining accountability
+
+---
+
+##  Final Thought
+
+Developing and consistently applying self-management skills leads to more balanced, productive, and fulfilling personal and professional lives. These are **lifelong tools** that help you **grow, adapt, and succeed** in any environment.
+
+
+# ✅ Self-Management Skills: Quiz & Answers
+
+---
+
+## **Question 1**  
+**Which scenario demonstrates self-management skills?**
+
+- [ ] Daniel knows that he gets stressed when he has to present in front of his colleagues.  
+- [ ] Fatima set notifications to alert her to new emails. She prides herself in answering an email as soon as she receives an alert.  
+- [ ] Mateo sets a goal to exercise in the mornings.  
+- [x] **Mei organizes and manages her time well, leaving more free time for family and friends.**
+
+**✔️ Correct!**  
+Good time management is a characteristic of self-management. The benefits include less stress and a greater likelihood of having more free time.
+
+---
+
+## **Question 2**  
+**Which action is an example of self-discipline?**
+
+- [ ] Taking deep breaths to calm yourself down so you can focus on an important task  
+- [ ] Determining the most important task you need to complete for the week  
+- [x] **Refraining from calling a friend until you have completed the reading assignment for class**  
+- [ ] Telling yourself that you must do better on this paper than you did on the last one and that failure is not an option
+
+**✔️ Correct!**  
+Refraining from activities that will interrupt your focus is part of self-discipline.
+
+---
+
+## **Question 3**  
+**A teacher is asked to implement a new science curriculum. Which response describes the best application of the key self-management skills?**
+
+- [ ] The teacher begins to plan in early July, but then he learns about an opportunity to teach geology at a summer camp for preteens. The teacher loves geology and takes the job. When school starts, the teacher feels stressed about not being prepared, but he decides he will use last year's plans instead.
+
+- [ ] The teacher reviews the curriculum and creates a long list of tasks he needs to accomplish. As he makes the list, he begins to worry that he will not have enough time to get it all done, so he decides to complete it another day.
+
+- [ ] The teacher works in the teachers' lounge to prepare a lesson for the next month. He is tired from staying up late the night before, so he drinks coffee to keep himself alert.
+
+- [x] **The teacher works in a quiet room at home to create the first two weeks' worth of lesson plans. He asks his family to avoid disturbing him for two hours. If negative thoughts arise, he calms himself with a minute of meditative breathing.**
+
+**✔️ Correct!**  
+In this example, the teacher:
+- Uses **self-discipline** to focus in a quiet space
+- Applies **goal setting** by creating lesson plans with a specific timeframe
+- Practices **stress management** through meditative breathing
+
+---
+
