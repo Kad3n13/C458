@@ -3494,3 +3494,528 @@ In this example, the teacher:
 
 <h1>MODULE 19(PG)[111]</h1>
 
+| **Category**                               | **Definition**                                                                                                                                                          | **Key Skill**               | **Description**                                                                                                                                                                                                 |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (Interpersonal) Communication and Leadership | The process by which information is exchanged between individuals through a common system of symbols, signs, or behavior: focuses on a one-to-one dynamic.               | Empathy                     | Share, understand, and demonstrate sensitivity for the feelings and experiences of others through compassion, understanding, and perspective-taking.                                                           |
+| (Interpersonal) Communication and Leadership | The process by which information is exchanged between individuals through a common system of symbols, signs, or behavior: focuses on a one-to-one dynamic.               | Conflict Resolution         | The ability to use a variety of interpersonal communication techniques, including assertiveness, persuasion, and perspective-taking, to negotiate and resolve conflicts between individuals and teams.          |
+| (Interpersonal) Communication and Leadership | The process by which information is exchanged between individuals through a common system of symbols, signs, or behavior: focuses on a one-to-one dynamic.               | Teamwork and Collaboration  | Apply effective interpersonal communication skills, such as empathy, active listening, conflict resolution, and perspective-taking, to develop agency, trust, and camaraderie within collaborative team settings. |
+
+> Identify the characteristics and significance of effective communication and leadership.
+
+<p>According to a survey published in 2013, 98% of employers consider good communication skills more important than an applicant's college major. Furthermore, studies indicate that as much as 70% of the mistakes in business are due to poor communication skills. Effective communication is essential at work, but it is also important at home, in school, and in the community. In this lesson, you will learn how to easily recognize the characteristics of someone who effectively communicates, and you will examine how communication skills can benefit you.</p>
+
+<h3>What Is Effective Interpersonal Communication and Leadership?</h3>
+<p>Effective interpersonal communication and leadership skills include actively listening, empathizing, collaborating and cooperating, respecting diversity, and taking the initiative to solve problems. Effective communication and leadership require using all of these skills to interact effectively with others.</p>
+
+<h3>Communication and Leadership in Everyday Life</h3>
+
+<p>What does effective communication and leadership look like in everyday life? The following examples show how people can use these skills at work and in the community.</p>
+
+| **Leader** | **Example Details** |
+|------------|---------------------|
+| **Nora**   | Nora is a senior manager. Last month, her team made some mistakes that were attributed to unclear communication and conflict. Nora has been working with a coach to improve her communication and leadership skills so these types of mistakes don't happen again. Now, when Nora introduces a new project to the team, she considers what people say and observes their nonverbal cues to gauge their understanding. She makes it clear that she wants to hear what her team members think about a project goal and considers their perspectives. Additionally, she uses team-building strategies to build trust within the team and motivate members to collaborate with one another. |
+| **Maria**  | Maria is a volunteer in her neighborhood community garden. She enjoys gardening because it calms her and reduces her stress. Maria noticed that William, another gardener, seemed upset. She learned that his cat died recently in an accident. Maria asked him about his cat, shared how she herself felt when she lost a pet and asked him how she could support him. William shared that digging in the dirt and watching plants grow was helping him feel better. Maria took the initiative to start a "gardening through grief" program. Once the program was established, she used her writing skills to share information about the program with others. She created and distributed flyers, emailed interested organizations, and posted about the program on local gardening sites and blogs. |
+
+<h3>Who Needs Communication and Leadership Skills?</h3>
+  
+<p>Communication and leadership skills are essential for your personal and professional growth. Effective interpersonal communication skills can help you improve relationships and grow personally and professionally. They can afford you greater opportunities in all areas of your life. They will also help you approach interactions and situations with other people and teams with confidence and clarity.</p>
+
+<h3>Characteristics of Effective Communication and Leadership</h3>
+
+<p>Are there people you admire for their communication and leadership skills? How would you describe them? People who are effective interpersonal communicators listen to and cooperate with others. They create healthy relationships with people who have different backgrounds and perspectives.</p>
+
+<h3>Characteristics of Effective Interpersonal Communicators</h3>
+
+# Effective Interpersonal Communication and Leadership
+
+## ✅ Key Characteristics of Effective Communication
+
+| **Skill**                          | **Description**                                                                                      |
+|-----------------------------------|------------------------------------------------------------------------------------------------------|
+| **Active Listening**              | Using verbal and nonverbal cues to understand others.                                                |
+| **Appropriate Communication**     | Adapting to verbal, written, or digital formats depending on the situation.                         |
+| **Building Relationships**        | Developing trust and alliances based on empathy, trust, and respect.                                |
+| **Compassion**                    | Demonstrating care, consideration, and compassion for others.                                       |
+| **Perspective-Taking**            | Applying strategies to understand others' views and experiences.                                    |
+| **Motivating and Mentoring**      | Encouraging others to achieve collective goals and coaching others for development.                 |
+
+---
+
+## 🧠 Scenario Analysis: Eva (ESOL Tutor)
+
+### Scenario Summary:
+Eva volunteers as an ESOL tutor. She pays close attention to facial expressions to gauge student understanding, expresses care and respect for her students, seeks feedback to improve learning, and plans to mentor new teachers.
+
+### Identified Skills Demonstrated:
+
+- ✅ **Used active listening skills, including verbal and nonverbal techniques**
+- ✅ **Showed care, consideration, and compassion for others**
+- ✅ **Sought others' perspectives**
+
+---
+
+## 💼 Question 2: Personal Career Application
+
+### Original Response:
+> Working in a code base and having a re-pore with the person you're communicating with so you can have a mutual interpersonal communication for better work and app development.
+
+### Improved Response (Rewritten):
+> In a software development environment, effective interpersonal communication helps me build strong relationships with teammates, avoid misunderstandings in the codebase, and collaborate better on solutions. This boosts team morale, reduces errors, and supports mentoring junior developers.
+
+---
+
+## 🎯 Benefits of Effective Communication and Leadership
+
+| **Benefit**                                                         |
+|---------------------------------------------------------------------|
+| Reduction in misunderstandings and related mistakes                 |
+| Boost in self-esteem and confidence in decision-making abilities    |
+| Improved morale through use of positive feedback                    |
+| Increased engagement and achievement                                |
+| Increased mutual trust and stronger relationships                   |
+| Sustained relationships during times of stress                      |
+| Fulfillment from helping others through mentoring and coaching      |
+
+---
+
+## 📝 Lesson Summary
+
+- Interpersonal communication focuses on the one-to-one dynamic.
+- Effective communicators and leaders:
+  - Listen actively
+  - Use appropriate verbal, written, and digital communication
+  - Build alliances
+  - Demonstrate compassion
+  - Consider others' perspectives
+  - Motivate and mentor others
+- Benefits:
+  - Fewer misunderstandings and mistakes
+  - Improved self-confidence and morale
+  - Increased engagement and trust
+  - Stronger relationships even in stressful situations
+
+<p>Effective interpersonal communicators are empathetic rather than sympathetic. Understanding how to communicate with empathy, resolve conflicts, and collaborate within teams will help you become a more effective communicator. In this lesson, you will learn about empathy, conflict resolution, and collaboration and teamwork, three key skills that can help you achieve the benefits of effective communication.</p>
+
+<h3>Interpersonal Communication: Empathy</h3>
+<p>Have you ever been so involved in a character's story in a book or a film that you find yourself imagining yourself as this character? Perhaps you find yourself understanding the character's emotions and seeing a situation from their perspective, even if it is different from your own. Empathy  is the ability to imagine yourself in another person's situation and understand that person's feelings and perspectives. </p>
+
+<h3>Empathy versus Sympathy</h3>
+<p>Empathy is not interchangeable in meaning with sympathy. Sympathy is compassion for or commiseration with another, whereas empathy is the ability to imagine oneself in another person's position and to experience all the sensations associated with it. Empathy is about actually understanding someone's feelings. When empathizing, you imagine how another person feels. This does not mean you completely adopt the person's feelings or agree with their feelings; it means you want them to feel understood. There is nothing wrong with expressing sympathy. However, sympathy does not usually help resolve a problem or result in understanding as effectively as empathy does.</p>
+
+#  Sympathy vs. Empathy
+
+##  Example Scenario
+
+A new employee says:
+
+> "I was late this morning due to a bad accident on the freeway. So I did not have time to get the materials printed for the presentation. Instead of delivering a clear, concise presentation, most of my colleagues were confused, which also reflected poorly on my boss."
+
+###  Response with Sympathy:
+
+> "Oh, that is a shame. I am sorry you had a stressful day."
+
+- **Focus:** Acknowledges distress but stays distant from the experience.
+
+###  Response with Empathy:
+
+> "That sounds nerve-racking! Are you worried about disappointing your colleagues? I know that those kits can be frustrating to get printed. It took me a while, but I figured out some shortcuts that I can share with you."
+
+- **Focus:** Validates feelings, connects to experience, offers help.
+
+---
+
+##  Empathy and Effective Communication
+
+Listening with the intent to **understand others' perspectives**:
+- Helps you *understand others*
+- Helps *others feel understood*
+
+### ✅ Tips:
+- **Paraphrase** or reiterate what someone said to check your understanding.
+- **Demonstrate genuine interest** to create open, supportive environments.
+- Empathetic people can **anticipate others’ needs** more effectively.
+
+---
+
+##  Strategies for Developing Empathy
+
+Empathy can be developed through intentional habits:
+
+| **Strategy**           | **Description**                                                                                 |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| **Cultivate curiosity** | Ask questions about others’ experiences instead of making assumptions.                       |
+| **Diversify experiences** | Connect with people from different cultures and backgrounds to challenge and expand perception. |
+| **Read quality literature** | Stories with complex characters deepen understanding of unfamiliar thoughts and feelings.      |
+
+---
+
+##  Learn by Doing: Fill in the Blank
+
+### **Question:**
+
+Sympathy is **_different from_** empathy. Sympathy is **_showing concern_** for someone. A person who feels empathy will **_understand_** another person's feelings and relate to their experiences.
+
+---
+
+## ✅ Summary
+
+| **Sympathy**                     | **Empathy**                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| Acknowledges distress            | Shares and understands the emotional experience                             |
+| Feels sorry for someone          | Feels with someone                                                          |
+| Distant concern                  | Deep connection through shared or imagined experience                       |
+| Passive support                  | Active listening, understanding, and often helpful action                   |
+
+Empathy is a cornerstone of effective interpersonal communication and leadership.
+
+<h3>Interpersonal Communication: Conflict Resolution</h3>
+
+<p>Almost 60 percent of employees in the United States have never received basic conflict management and dispute resolution training (Short, 2016). Yet business leaders cite the ability to resolve conflicts as a critically important interpersonal communication and leadership skill. Conflict resolution is the ability to use a variety of communication techniques—including assertiveness, persuasion, perspective-taking, and cooperation—to negotiate and resolve disagreements. While conflict resolution can help you in your professional life, you can also use this skill at home, in school, and in your community.</p>
+
+# Conflict Resolution Scenario
+
+## Scenario
+
+You and a fellow student are developing a final project to present at the end of the semester. You’re excited and confident about your unique idea. However, near the end of the semester, you discover that another team is creating a nearly identical project—different from what they initially proposed.
+
+You try to set up a meeting with the other group to discuss the issue. Your partner delays the meeting three times. When the meeting finally happens, your partner says he feels like giving up. Then, during the meeting, he becomes angry and tells the other students that your team's ideas are better and they shouldn't be allowed to proceed.
+
+---
+
+## Question 1: What Did the Partner Do to Cause Conflict?
+
+**Answer:**
+
+The partner did not use stress management skills to identify his state of mind and to assess the situation and act accordingly.
+
+**Explanation:**
+- The partner initially avoided the situation.
+- Later, he responded with aggression and competitiveness.
+- He failed to regulate emotions or engage in collaborative problem-solving.
+
+---
+
+## Question 2: Which Three Actions Represent a More Effective Approach?
+
+| Action                                                                                          | Reason                                                                                               |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| You ask everyone what they ultimately want in order to be successful in the class.              | Refocuses the discussion on shared goals and outcomes.                                               |
+| You suggest identifying which components of each team's work meet the project objectives.       | Encourages logical evaluation based on work done and alignment with the assignment.                 |
+| You propose creating a group of four to combine ideas from both teams.                          | Promotes collaboration, compromise, and innovation.                                                  |
+
+**Ineffective Options:**
+
+- Suggesting to end the meeting because your partner is too angry  
+  - This avoids resolution instead of managing the issue.
+
+- Agreeing with your partner that the other team shouldn't move forward  
+  - Escalates conflict and displays bias rather than leadership.
+
+---
+
+## Conflict Resolution Skills Demonstrated
+
+- **Perspective-taking** – Considering the views and concerns of both teams.
+- **Collaboration** – Offering joint solutions that benefit everyone.
+- **Communication** – Facilitating a constructive and respectful conversation.
+- **Problem-solving** – Focusing on class goals and the quality of work produced.
+
+---
+
+## Summary
+
+| Poor Conflict Resolution             | Effective Conflict Resolution                        |
+|--------------------------------------|------------------------------------------------------|
+| Avoiding the issue                   | Initiating open, respectful dialogue                 |
+| Emotional outbursts                  | Regulating emotions and focusing on shared goals     |
+| Blame and aggression                 | Encouraging compromise and cooperative problem-solving |
+
+# Interpersonal Communication: Collaboration and Teamwork
+
+## Conceptual Mind Map Description
+
+At the center: **Collaboration and Teamwork**
+
+Arrows pointing to it from:
+- Empathy **(highlighted)**
+- Perspective-taking
+- Interpersonal skills
+- Service mindset
+- Conflict resolution **(highlighted)**
+- Negotiation
+- Trust
+
+These interpersonal communication skills contribute to successful teamwork and collaboration.
+
+---
+
+## The Importance of Teamwork and Collaboration
+
+People begin developing teamwork and collaboration skills early in life. Like many communication skills, these are essential to personal happiness and professional success.
+
+**Effective teamwork and collaboration** require:
+- Communicating
+- Cooperating
+- Coordinating
+
+They also involve using a range of interpersonal skills:
+- Empathy
+- Perspective-taking
+- Trust
+- Service-oriented mindset
+- Conflict resolution
+- Negotiation
+
+> Teamwork and collaboration are built on empathy and conflict resolution, demonstrating how multiple skills work together in collaborative environments.
+
+---
+
+## Strategies for Effective Collaboration in Team Settings
+
+Like any skill, collaboration and teamwork can be practiced and improved. Here are key strategies:
+
+### 1. Create Space for Imagination and Innovation
+- Schedule time for brainstorming.
+- Encourage open sharing of ideas.
+- Build buy-in and trust, even through unconventional ideas.
+
+### 2. Ensure the Work Is Coordinated
+- Assign clear roles and responsibilities.
+- Communicate deadlines and expectations.
+- Keep everyone aligned and informed.
+
+### 3. Be Adaptable to Change
+- Recognize that priorities and timelines can shift.
+- Develop backup plans and flexible workflows.
+- Acknowledge and prepare for change as a team to reduce stress.
+
+---
+
+## Example Scenario: Teamwork and Collaboration in Action
+
+**Situation:**
+You are working with two new employees, Ren and Ahmed, on selecting new project management software.
+
+**Team Dialogue:**
+
+- **Ren:** "I know which project management software is the best. I think you should use it."
+- **Ahmed:** "Great! Can you provide more information about how it will meet the team's needs?"
+- **Ren:** "I have used the program before, and I know it is really good."
+- **Ahmed:** "Perhaps the three of us can first create a list of functions that we need the new program to perform. Each of us can share ideas for what would be ideal."
+- **Ren:** "I don't know why you don't just listen to me. I have a lot of experience with project management, so I know what is best."
+- **Ahmed:** "I can see that you have expertise in an area that I do not, and I admire that. I just want to be sure we make the best choice for our situation. Maybe we can look at the software you like first and then compare it to others. I can create criteria based on our discussion, and we can each research one or two other options and then share our results."
+
+### Analysis:
+**Ahmed** is demonstrating collaboration and teamwork skills:
+- Encouraging brainstorming and innovation
+- Promoting fair evaluation of all options
+- Creating a process for coordination
+- Showing adaptability and openness
+
+---
+
+## Lesson Summary
+
+You should now be able to identify key skills related to effective communication and leadership:
+
+### 1. **Empathy**
+- Understanding and being sensitive to another person's experiences and perspectives
+- Does not require shared experiences, only willingness to understand
+
+### 2. **Conflict Resolution**
+- Using interpersonal techniques such as:
+  - Assertiveness
+  - Persuasion
+  - Perspective-taking
+  - Cooperation
+- Aimed at resolving disagreements and maintaining positive relationships
+
+### 3. **Teamwork and Collaboration**
+- Applying interpersonal skills including:
+  - Empathy
+  - Active listening
+  - Conflict resolution
+  - Perspective-taking
+- Building trust, agency, and camaraderie in teams
+
+> Successful collaboration relies on a balance of emotional intelligence and strategic thinking.
+
+<h3>Identify examples of communication and leadership skills applied in educational, professional, and personal development settings.</h3>
+
+<p>Effective communication consists of an integrated set of subskills that can help you in all areas of your life and be key to your success. In this lesson, you will identify examples of the three key communication and leadership skills applied in educational, professional, and personal development settings.</p>
+
+<h3>Applying Communication and Leadership in Different Environments</h3>
+<p>You have learned about what effective communication is, why it is important, and which characteristics and skills it is comprised of. Effective communication consists of a number of skills that are usually integrated when applied in personal and professional settings. You have also read examples of people applying communication skills in different situations. Often, when you successfully apply effective communication skills in one area of your life, such as at school, you will receive the benefits of it in other areas as well, perhaps at home or within your community.</p>
+
+<h3>Applying Effective Communication Skills at Home</h3>
+
+# Applying Communication and Leadership Skills
+
+---
+
+## Scenario 1: Lucas and Marcus
+
+**Context:**  
+Lucas's 21-year-old son, Marcus, moves back home after losing his job. They experience tension over household responsibilities.
+
+**Marcus's Response:**  
+He admits he may be depressed, spends time with friends or attends networking events to cope, and often isolates himself when home.
+
+**Lucas’s Response:**  
+- Acknowledges how hard unemployment can be.
+- Shares his own experience to show understanding.
+- Sets reasonable expectations around dinner cleanup.
+- Offers support for job searching.
+- Proposes a flexible agreement with Marcus.
+
+**Skills Demonstrated:**
+- **Empathy**
+- **Conflict resolution**
+
+**Explanation:**  
+Lucas considers Marcus’s perspective and emotional state, negotiates expectations clearly, and compromises while showing support.
+
+---
+
+## Scenario 2: Maya and Diego (School)
+
+**Context:**  
+Maya, a medical assistant, is enrolled in an online certification program. Her team member Diego misses a meeting and fails to contribute to the group project.
+
+**Maya’s Actions:**
+- Contacts Diego and learns he had a sick baby and is now sick himself.
+- Expresses empathy despite not being a parent.
+- Updates the team about Diego's situation.
+- Suggests the group brainstorm a compromise.
+- Diego volunteers to take on editing and writing to compensate.
+- Maya confirms the new plan with everyone.
+
+**Skills Demonstrated:**
+- **Empathy**
+- **Conflict resolution**
+- **Collaboration and teamwork**
+
+**Explanation:**  
+Maya listens without judgment, encourages team compromise, and coordinates a new plan that satisfies all members.
+
+---
+
+## Scenario 3: Hannah and the Wedding Reception (Work)
+
+**Context:**  
+Hannah, a caterer, relies on her staff during a major wedding reception. A key server, Daniel, forgets his task and is visibly upset due to personal issues.
+
+**Hannah’s Actions:**
+- Recognizes Daniel’s emotional distress and relates to his experience.
+- Shows understanding and sends him on a break.
+- Gathers the staff and asks for volunteers to cover the task.
+- Reorganizes roles and communicates expectations.
+
+**Skills Demonstrated:**
+- **Empathy**
+- **Collaboration and teamwork**
+
+**Explanation:**  
+Hannah calmly addresses the issue, validates Daniel’s feelings, and mobilizes the team to adjust and meet the client’s needs.
+
+---
+
+## Scenario 4: William and the Block Party (Community)
+
+**Context:**  
+William leads a neighborhood group planning a block party. Two streets disagree on where the event should be held.
+
+**William’s Actions:**
+- Recognizes the value in both perspectives.
+- Suggests identifying shared event goals first (excluding location).
+- Gathers feedback from all neighbors, including via email.
+- Proposes a neutral solution (middle school venue) based on community input.
+- Ensures all groups have a role in planning and execution.
+
+**Skills Demonstrated:**
+- **Empathy**
+- **Conflict resolution**
+- **Collaboration and teamwork**
+
+**Explanation:**  
+William listens to everyone’s input, fosters inclusive decision-making, and helps the group reach a solution that honors all voices.
+
+---
+
+## Lesson Summary
+
+**Key Communication and Leadership Skills:**
+1. **Empathy**  
+   - Understanding and caring about others' emotions and experiences.
+
+2. **Conflict Resolution**  
+   - Addressing issues using assertiveness, perspective-taking, and compromise.
+
+3. **Teamwork and Collaboration**  
+   - Cooperating with others, building trust, and adapting to change in shared environments.
+
+**Key Takeaways:**
+- These communication skills are essential across **personal**, **educational**, **professional**, and **community** settings.
+- Effective interpersonal communication leads to stronger relationships, reduced conflict, and greater success in shared tasks.
+
+
+# Module Reflection: Communication and Leadership Skills
+
+Take a moment to reflect on what you’ve learned in this module:
+
+- **Communication and leadership skills** are essential for both personal and professional development.
+
+- **Effective communicators and leaders**:
+  - Demonstrate **empathy**
+  - Resolve conflicts through a combination of **negotiation** and **compromise**
+  - Foster **teamwork and collaboration**
+
+- The core skills of **empathy**, **conflict resolution**, and **teamwork and collaboration** can be applied in all areas of life:
+  - At **home**
+  - In **school**
+  - In the **workplace**
+  - Within the **community**
+
+These skills help achieve **positive outcomes**, strengthen relationships, and support growth and success in diverse settings.
+# Communication and Leadership Skills – Quiz Review
+
+---
+
+### ✅ Question 1: Why is empathy important for effective communication?
+
+**Correct Answer:**  
+**Empathy entails active listening and perspective taking, both of which help one person understand another person and ensure the other person feels understood.**
+
+> *Explanation:* Empathy is the ability to imagine oneself in another person’s position. It fosters mutual understanding and is key to effective communication.
+
+---
+
+### ✅ Question 2: Which strategy is an example of effective conflict resolution?
+
+**Correct Answer:**  
+**Settling a disagreement by giving another person something he or she wants while retaining something you want.**
+
+> *Explanation:* This is an example of **compromise**, a proven method for resolving conflict where both parties retain something important to them.
+
+---
+
+### ✅ Question 3: What can Eva do to improve collaboration with her team at work?
+
+**Correct Answer:**  
+**She can facilitate a brainstorming session where everyone shares their ideas.**
+
+> *Explanation:* Creating space for idea-sharing builds trust and promotes a collaborative team culture.
+
+---
+
+What enables people to manage and process a lot of information, ignore distractions, and make responsible decisions? It is done through an information-processing and decision-making system called executive function that involves the brain. Think of executive function as the air traffic control system of the brain. According to Harvard University, "Executive function skills help us plan, focus attention, switch gears, and juggle multiple tasks—much like an air traffic control system at a busy airport" (Center on the Developing Child at Harvard University, 2011). After engaging in this module, you should be able to identify the application of executive function skills in educational, professional, and personal development settings.
+
+# Executive Function and Key Cognitive Skills
+
+Executive function refers to higher-order mental processes that enable individuals to manage complex tasks such as organizing and planning, remembering information, problem-solving, regulating emotions, and controlling cognitive flexibility.
+
+| **Key Skill**              | **Description**                                                                                       |
+|----------------------------|-------------------------------------------------------------------------------------------------------|
+| **Adaptability**           | The ability and capacity to embrace and adapt to ambiguous conditions and change.                    |
+| **Problem Solving**        | The ability to use effective solutions for identifying and resolving complex problems or issues.     |
+| **Self-Directed Learning** | The process of taking initiative, agency, and independence in the pursuit of lifelong self-improvement and professional growth. |
