@@ -4019,3 +4019,431 @@ Executive function refers to higher-order mental processes that enable individua
 | **Adaptability**           | The ability and capacity to embrace and adapt to ambiguous conditions and change.                    |
 | **Problem Solving**        | The ability to use effective solutions for identifying and resolving complex problems or issues.     |
 | **Self-Directed Learning** | The process of taking initiative, agency, and independence in the pursuit of lifelong self-improvement and professional growth. |
+
+<h3>Identify the characteristics and significance of executive function.</h3>
+
+<p>Daniel is having a challenging day. He has to finish a report by the end of the day that may affect an upcoming promotion. At the same time, his coworker is sick, so he must oversee the launch of her next project. Tomorrow is also his wife's birthday, and he hasn't even thought of a gift yet to give her. While this is a lot to handle, Daniel's executive function allows him not to feel overwhelmed. Executive function is made possible by the frontal lobe of the brain. When the brain is functioning well, you can analyze, organize, make decisions, and carry out a plan. In this lesson, you will learn about the characteristics and significance of executive function.</p>
+
+<h3>What Is Executive Function?</h3>
+<p>Executive function skills are the higher-order mental processes that enable individuals to manage complex tasks, such as organizing and planning, remembering information, problem-solving, regulating emotions, and controlling cognitive flexibility. The following examples show how people use executive function in their daily lives.</p>
+
+# Executive Function: Overview and Application
+
+Executive function refers to higher-order mental processes that help individuals manage complex tasks, including:
+
+- Organizing and planning  
+- Remembering information  
+- Problem solving  
+- Regulating emotions  
+- Managing cognitive flexibility  
+
+---
+
+## Key Executive Function Skills
+
+| Skill                  | Description                                                                                     |
+|------------------------|-------------------------------------------------------------------------------------------------|
+| Adaptability           | The ability to embrace and respond to change and ambiguous conditions.                          |
+| Problem Solving        | The ability to identify and implement effective solutions to complex issues.                    |
+| Self-Directed Learning | Taking initiative and responsibility for ongoing learning and personal growth.                 |
+
+---
+
+## Characteristics of Strong Executive Function
+
+- Resists reacting on impulse and exercises self-control  
+- Adapts to changing circumstances  
+- Views problems objectively and from multiple perspectives  
+- Conducts research and evaluates situations to make informed decisions  
+- Uses structured systems to focus, organize, and remember information  
+- Solves problems creatively and strategically  
+- Takes initiative to pursue learning and improvement  
+
+---
+
+## Examples of Executive Function in Everyday Life
+
+### Lucas  
+Lucas considers hosting a foreign exchange student. Instead of acting impulsively, he evaluates his spring schedule, considers pros and cons, and chooses to host in the fall. He updates the family calendar and feels confident in the decision.
+
+**Demonstrated Skills:**
+- Planning and organization  
+- Decision-making  
+- Self-awareness  
+
+### Hannah  
+Hannah wants to install a bathroom vanity that won’t fit through the doorway. She decides to build her own, creates a materials list, researches how to use new tools, and sets a learning schedule.
+
+**Demonstrated Skills:**
+- Problem-solving  
+- Planning and budgeting  
+- Self-directed learning  
+
+---
+
+## Matching Examples to Executive Function Characteristics
+
+| Situation                                                                                     | Executive Function Characteristic                                 |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| A coworker researches vendors and selects the best option after a prior vendor failed.        | Solves problems creatively and makes decisions                    |
+| A teacher incorporates training and curriculum review into his lesson planning schedule.      | Uses processes and systems to learn, organize, and remember       |
+| A friend prepares to relocate by enrolling in a language course and learning about the culture. | Adapts to change                                                 |
+
+---
+
+## Executive Function in Action: Lisa’s Scenario
+
+Lisa is planning a 50th anniversary party. Her assistant forgets to order invitations. Instead of reacting angrily, Lisa quickly comes up with a solution—designing and printing the invitations herself.
+
+**Demonstrated Skills:**
+- Emotional regulation  
+- Problem-solving  
+- Decision-making under pressure  
+
+---
+
+## Benefits of Executive Function
+
+- Makes informed decisions  
+- Improves time and task management  
+- Helps stay organized and meet goals  
+- Encourages effective collaboration  
+- Builds adaptability and resilience  
+- Enhances lifelong learning  
+
+---
+
+## Student Application Example
+
+**Prompt:** How can executive function benefit you as a student?
+
+**Example Response:**  
+Executive function helps me create structured plans, stay organized with assignments, manage my time, and keep up with both school and personal responsibilities.
+
+**Explanation:**  
+Applying executive function allows students to be more productive, solve problems, manage stress, and balance academic and personal obligations effectively.
+
+---
+
+## Improving Executive Function
+
+- Practice breaking tasks into steps  
+- Use planners, checklists, and schedules  
+- Stay physically active (aerobic exercise supports memory and focus)  
+- Take on new challenges that require problem-solving and organization  
+- Reflect regularly on goals and progress  
+
+<h3>Identify the skills associated with executive function.</h3>
+
+<p>No matter how intelligent an adult is, they will not be able to accomplish much without executive function. People are not born with executive function, but they are born with the potential to develop it. While executive function is typically developed throughout early adulthood, studies in neuroplasticity—the ability of the brain to remain flexible and to grow—show that adults can continue to develop these skills, no matter how old they become. In this lesson, you will learn about three skills that can help individuals develop their executive function: adaptability, problem-solving, and self-directed learning.</p>
+
+<h3>Executive Function Skill: Adaptability</h3>
+
+<p>Studies have found that people who are adaptable often outperform and have greater job satisfaction than those who are less flexible. For example, a study of retail employees found that adaptability improves job performance in the long term. This is likely because people who are flexible thinkers understand the broader context of their job and can adapt to changing situations and environments. Improved job performance can lead to greater job satisfaction.</p>
+
+<h3>What Is Adaptability?</h3>
+<p>Adaptabillity is the ability to effectively adjust to changing situations and conditions. A person who is adaptable can adjust to changing roles, jobs, responsibilities, schedules, and work environments in a climate of ambiguity and fluctuation. Adaptability requires cognitive flexibility and the capacity to embrace change.</p>
+
+<h3>Adaptability: A Restaurant Example </h3>
+<p>Sam is allergic to tomatoes. A few weeks ago, he went to a new restaurant and saw a dish on the menu that sounded really good, but it contained diced tomatoes. He asked the server if he could have that dish prepared without the tomatoes. The server returned a few minutes later and said, "The chef says the dish comes with diced tomatoes. He suggests you order something else." Sam had thought his request was reasonable, but he accepted the server's answer and ordered something else. Sam returned to the same restaurant the following week and decided to make the same request for the dish he wanted. When the server returned this time, he said the chef could leave the tomatoes out. Sam explained what happened the previous week and asked what had changed. The server replied that there was a different chef on duty.
+
+In this situation, the second chef is flexible and willing to adapt the recipe to suit Sam's request. </p>
+
+<h3>Advantages of Adaptability</h3>
+                                
+<p>While there are some situations in which adaptability may not be possible, being able to adapt to changing circumstances will serve you well in most aspects of life at home, at work, at school, and in the community. You will be more likely to experiment and, therefore, more likely to find unexpected solutions to problems. Learning new skills will be easier, as will dealing with challenges and rebounding from adversity. Being viewed as flexible and cooperative will benefit your relationships and build your leadership capabilities.</p>
+
+# Executive Function: Adaptability, Problem Solving, and Self-Directed Learning
+
+---
+
+## How to Become More Adaptable
+
+**Key Tips:**
+- **Embrace uncertainty**: Innovation often stems from ambiguous situations.
+- **Cultivate an open mindset**: Be receptive to new outcomes and seek help when needed.
+- **Develop alternate plans**: Always have backup strategies.
+- **Expect mistakes**: Mistakes are opportunities to learn and adapt.
+
+---
+
+## Executive Function Skill: Problem Solving
+
+### Definition:
+Problem solving is the ability to **identify**, **analyze**, and **resolve** problems while evaluating the effectiveness of the chosen solutions.
+
+---
+
+### Problem Solving: An Example
+
+**Scenario:**
+Maria wants to implement center-based learning but struggles with students resisting group assignments and chaotic transitions. She discusses this with a friend and is introduced to structured problem-solving steps.
+
+---
+
+### Problem Solving Steps
+
+| Step                     | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| **1. Define the Problem** | Identify root causes and clearly articulate the problem.                   |
+| **2. Brainstorm Solutions** | Collaborate and generate multiple strategies.                             |
+| **3. Evaluate Options**     | Weigh pros and cons, set goals, and assess resources or barriers.         |
+| **4. Implement Plan**       | Develop an action plan with benchmarks and timelines.                     |
+| **5. Review Results**       | Compare outcomes with goals; determine what worked or didn’t and why.     |
+
+**Note:** The steps are flexible and may require returning to an earlier step based on new insights.
+
+---
+
+## Executive Function Skill: Self-Directed Learning
+
+### What Is It?
+
+Self-directed learning involves **taking initiative** and **responsibility** for one’s own learning process, driven by personal goals or interests.
+
+---
+
+### Self-Directed Learning Examples
+
+| With Self-Direction                                                  | Without Self-Direction                                                  |
+|----------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Maya enrolls in a copyright course to improve her textbook writing. | Sheila completes the same course only because her manager told her to. |
+| She sets goals, reflects, completes all activities, and applies it. | She does the minimum and doesn’t apply what she learns.                |
+
+---
+
+### Strategies for Effective Self-Directed Learning
+
+1. **Identify motivations and rewards**  
+   - Ask: *Why do I want to learn this?*
+2. **Assess current knowledge and skills**  
+   - Recognize what you know and what you need to learn.
+3. **Set SMART goals**  
+   - Specific, Measurable, Achievable, Relevant, Timely.
+4. **Choose methods and resources**  
+   - Use formal (courses) or informal (books, videos) options.
+5. **Engage in active learning**  
+   - Take notes, apply what you're learning, practice regularly.
+6. **Monitor progress**  
+   - Track your learning, adjust your methods, and reinforce skills.
+
+---
+
+### Case Scenario: Antonio's Learning Plan
+
+**What Went Wrong:**
+- Didn't assess his true skill level (started too advanced).
+- Lacked structured study time.
+- Had no clear goals.
+
+**What He Needs to Do:**
+- Reassess his Spanish proficiency.
+- Use the five-hour rule to build a consistent learning routine.
+- Set SMART learning goals.
+- Explore better resources that suit his learning style.
+
+---
+
+## Lesson Summary
+
+- **Adaptability**, **problem-solving**, and **self-directed learning** are crucial components of executive function.
+- Adaptable people more easily find innovative solutions and handle change.
+- Structured problem-solving steps improve decision-making and clarity.
+- Self-directed learning is enhanced by motivation, goal-setting, and resourcefulness.
+
+# Executive Function Skills: Application Across Life Domains
+
+## Learning Objective
+- Identify examples of executive function skills in educational, professional, and personal development settings.
+
+## What Is Executive Function?
+
+Executive function refers to a set of interconnected cognitive skills that help individuals:
+- Make responsible decisions
+- Solve problems
+- Organize and prioritize tasks
+- Adapt to change
+- Manage time and emotions
+- Direct their own learning
+
+These skills are essential at home, school, work, and in the community.
+
+## Core Executive Function Skills
+
+| Skill                 | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| Problem-Solving      | Identifying, analyzing, and resolving issues using logical and creative thinking. |
+| Adaptability         | Adjusting plans and behavior in response to new conditions or challenges.       |
+| Self-Directed Learning | Taking initiative and responsibility for your own learning and growth.         |
+
+---
+
+## Application at Home  
+**Example: Maria**
+
+**Challenge:** Morning routines with her 5-year-old son were chaotic.
+
+**Actions Taken:**
+- Attended a parenting workshop to learn new strategies
+- Remained open-minded about new ideas
+- Created a new plan with her son to improve mornings
+
+**Skills Demonstrated:**
+- Problem-solving  
+- Adaptability  
+- Self-directed learning
+
+---
+
+## Application at Work  
+**Example: Maya**
+
+**Challenge:** Science kits needed to be shared among four third-grade teachers.
+
+**Actions Taken:**
+- Initiated a meeting with colleagues
+- Proposed a schedule and backup plan
+- Worked collaboratively to solve the issue
+
+**Skills Demonstrated:**
+- Problem-solving  
+- Adaptability
+
+---
+
+## Application at School  
+**Example: William**
+
+**Challenge:** Faced a tighter timeline than expected to complete e-learning software training.
+
+**Actions Taken:**
+- Researched tutorials and created a learning plan
+- Set goals and dedicated time daily to study
+- Adjusted the plan to meet new deadlines
+
+**Skills Demonstrated:**
+- Self-directed learning  
+- Problem-solving  
+- Adaptability
+
+---
+
+## Application in the Community  
+**Example: Nora**
+
+**Challenge:** Helping a client manage benefits eligibility after receiving an inheritance.
+
+**Actions Taken:**
+- Identified a need for more knowledge
+- Set goals and conducted additional research
+- Advised client based on informed solutions
+
+**Skills Demonstrated:**
+- Self-directed learning  
+- Problem-solving
+
+---
+
+## Lesson Summary
+
+- Executive function skills are essential across all areas of life.
+
+### Personal Use
+- Helps individuals identify needed skills, adapt to change, and solve real-life problems.
+
+### Educational Use
+- Supports independent learning, goal-setting, and managing evolving academic demands.
+
+### Professional Use
+- Enhances the ability to adapt, problem-solve, and meet goals in challenging environments.
+
+# Executive Function: Module Summary
+
+## What Is Executive Function?
+
+Executive function refers to a set of high-order mental processes that enable individuals to:
+- Analyze situations
+- Make informed decisions
+- Organize and carry out plans
+- Respond appropriately to challenges
+- Continue learning to achieve goals
+
+---
+
+## Characteristics of Well-Developed Executive Function
+
+Individuals with strong executive function skills tend to:
+- Delay impulsive reactions
+- Approach situations with openness and flexibility
+- Use systems and processes to solve problems and stay organized
+- Adapt to change and continuously seek improvement
+
+---
+
+## Three Key Executive Function Skills
+
+### 1. Adaptability
+- Requires cognitive flexibility
+- Enables individuals to adjust to new or uncertain situations
+- Improves job satisfaction and increases potential for achievement
+
+### 2. Problem-Solving
+Effective problem-solving includes the following steps:
+1. Identify the problem  
+2. Brainstorm possible solutions  
+3. Evaluate potential solutions  
+4. Implement the chosen solution  
+5. Review the outcomes and adjust if needed
+
+### 3. Self-Directed Learning
+- Involves taking initiative and responsibility for one’s own learning  
+- Leads to increased personal satisfaction and long-term success  
+- Encourages continuous growth both personally and professionally
+
+---
+
+## Application of Executive Function
+
+A well-developed executive function supports success in:
+- **Home life:** Managing responsibilities, parenting, planning  
+- **Workplace:** Adapting to change, problem-solving, learning new skills  
+- **Education:** Organizing studies, setting goals, self-managing progress  
+- **Community:** Making informed contributions, helping others, continuous growth
+
+---
+
+## Conclusion
+
+Executive function is foundational for personal, educational, and professional success. By strengthening adaptability, problem-solving, and self-directed learning, individuals can better navigate life’s challenges and opportunities.
+
+# Executive Function Quiz Summary
+
+## Question 1  
+**Which sentence offers the best explanation for why adaptability is important for well-developed executive function?**
+
+✅ **Correct Answer:**  
+**Adaptability helps individuals adjust to changing circumstances and make good decisions.**
+
+_A person who is adaptable can adjust to changing roles, jobs, responsibilities, schedules, and work environments in a climate of ambiguity and fluctuation._
+
+---
+
+## Question 2  
+**Which statement describes the most effective approach to solving a problem?**
+
+✅ **Correct Answer:**  
+**Define the problem and then take a step-by-step approach to gather information, generate and evaluate ideas, implement a chosen solution, and review results.**
+
+_Clearly defining a problem and then following a series of steps to solve it is an effective approach._
+
+---
+
+## Question 3  
+**Paul wants to learn a new software program and has signed up for an online tutorial. Which statement reflects self-directed learning skills that will give him the best results?**
+
+✅ **Correct Answer:**  
+**Paul writes down what he wants to learn about the program. As he reviews the content, he takes notes and thinks about how he will use what he is learning.**
+
+_Paul uses self-directed learning by setting clear goals, taking notes, and thinking critically about application._
+
+<h1>Module 21(PG)[123]/h1>
