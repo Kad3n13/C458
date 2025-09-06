@@ -4447,3 +4447,231 @@ _Clearly defining a problem and then following a series of steps to solve it is 
 _Paul uses self-directed learning by setting clear goals, taking notes, and thinking critically about application._
 
 <h1>Module 21(PG)[123]/h1>
+
+# Social Awareness
+The ability to engage, react, and respond to a diverse population in a variety of social situations.
+
+---
+
+## Key Skills
+
+### Sociability  
+The ability to engage in social or collaborative situations, which involve communicating effectively with others while maintaining an attitude of openness and curiosity.
+
+### Appreciation for Diversity  
+The ability to acknowledge and welcome cultural and other differences among various individuals and groups.
+
+### Responsibility to Others  
+The ability to demonstrate accountability and attentiveness to the needs of other individuals or a group.
+
+<p>Social awareness is an individual's ability to engage, react, and respond in a variety of social situations with diverse groups of people. These skills are essential for adapting to diverse workplace environments and communities and understanding the complex needs of others. Socially aware individuals understand social norms and are able to appropriately modify their behavior and apply effective communication strategies to achieve the most optimal outcomes in many different social contexts.</p>
+
+# Social Awareness in Everyday Life
+
+The following examples demonstrate how people develop and use social awareness in their daily lives.  
+As you read through the stories, look for the following behaviors:
+
+- Engaging, reacting, and responding in a social situation  
+- Interacting appropriately with a variety of people  
+- Adapting to a diverse workplace environment  
+- Understanding the complex needs of others  
+
+---
+
+## Social Awareness Examples in Everyday Life
+
+### William
+William was recently promoted and has taken on some management responsibilities. He is excited about his first meeting with the small team he will be managing.  
+
+At the start of the meeting, William greets everyone. He reads through the agenda and starts to summarize some related research. After a few minutes, he looks up and notices that a few people's eyes are heavy, and two people are furrowing their brows and frowning slightly. He realizes that he has lost the attention of some of his team and that others seem to be confused.  
+
+He stops reading and says:  
+*"Okay, let's take a few minutes to look at the agenda and then we will discuss it."*  
+
+After a few minutes, William facilitates a discussion about the project plan and writes down a few key notes that he can review later. He notices that people are now engaged, sitting upright, and sharing ideas. He closes the meeting with a summary of what the team accomplished together.  
+
+---
+
+### Maya
+Maya posts a story on social media to her friend group related to an issue she cares about. Many friends reply with sad emoticons, including her close childhood friend Louis, which surprises her.  
+
+Maya knows she should not assume anything about what her friend might think about her post, but it does appear that something may be wrong. She decides to call him to talk. She asks him how he is doing and learns that he has been going through a difficult time. Coincidentally, her post indirectly related to something he had been struggling with recently.  
+
+Maya listens and understands why he reacted the way he did. She empathizes with him, and they discuss the issue. Later, Louis texts Maya with a kind message, thanking her for the great conversation.  
+
+#  Social Awareness—Online and Face-to-Face Settings
+
+**Tip:**  
+The principles of social awareness apply to interactions between people on social media, as well as other online and offline group interactions, such as telephone calls and face-to-face settings.  
+
+These interactions can give individuals greater access to a diverse group of people and ideas, which has many advantages. However, it is essential to employ respectful, effective communication strategies when using social media and online communications.  
+
+Being able to see an issue from another’s point of view and expressing empathy can help ensure constructive online and offline interactions.
+
+<h3>Characteristics of Social Awareness</h3>
+
+<p>Are there people you admire for their ability to effectively respond and react in a variety of social situations? Are you impressed by these individuals' abilities to interact with many different groups of people? How would you describe these individuals? Social awareness is not about being exceptionally outgoing or becoming someone who always wants to be in the company of others. It is about getting along well with others and understanding what facilitates the formation of good relationships. It is about successfully navigating interactions with others, especially groups of people, at work and out in the world.</p>
+
+# Social Awareness Characteristics
+
+Review this list of characteristics you may see in people who have well-developed social awareness skills:
+
+- Interact appropriately with a variety of people  
+- Engage, react, and respond appropriately in social situations  
+- Form and maintain good relationships with diverse groups of people  
+- Refrain from judgment and remain open-minded  
+- Adapt to diverse workplace environments  
+- Demonstrate cultural awareness and welcome differences among various individuals and groups  
+- Apply ethical principles in the treatment of others  
+
+It would be highly unusual for any one individual to possess and demonstrate all the characteristics listed.  
+Most people fall within a continuum of competence in their social awareness skills. And like most skills, it is possible to improve one's social awareness.  
+
+---
+
+#  Did I Get This?
+
+### Instructions
+"Fill in the blank" question: select the correct answer.  
+Match each situation to the **social awareness characteristic** it demonstrates.  
+
+---
+
+### Situations and Responses
+
+| Situation | Characteristic of Social Awareness | Response |
+|-----------|-------------------------------------|----------|
+| A student is working with her study group to prepare for an end-of-term exam. The student notices that a few of her classmates seem stressed and are struggling with a specific topic in which she excels. The student offers to help her classmates after the group meeting. | **Engage, react, and respond appropriately in social situations** | ✅ Correct! In this scenario, the student demonstrates the ability to engage with others in a group, react to nonverbal cues, and respond to the needs of others. |
+| An artist and city councilor is chairing a committee to review proposals for an art program at the local library. He plans to help the committee decide as a group who will receive a certain grant. Some of the members want to include only artists with whom they have personal connections. The city councilor responds by encouraging the members to obtain proposals from a diverse group of artists from throughout the community. | **Demonstrate cultural awareness and welcome differences among various individuals and groups** | ✅ Correct! In this situation, the city councilor treats all the grant applicants equally. He does not let any personal preferences or biases influence his decision. |
+
+---
+
+# Social Awareness versus Communication and Leadership Skills
+
+**Tip:**  
+Do some of these social awareness characteristics sound familiar? The skills within this area of social and emotional learning overlap with those related to communication and leadership. Both areas apply to relationships with others at work, in school, at home, and in the community.  
+
+The difference is that **social awareness** focuses specifically on using these skills in social situations, particularly with groups of people.  
+The **communication and leadership** area focuses more on interpersonal or one-on-one relationships.  
+
+---
+
+# The Benefits of Social Awareness
+
+Research has shown that people who are able to develop and maintain positive relationships and interact with others regularly experience:  
+
+- More positive moods, such as joy  
+- Increased energy and interest in life compared to those lacking social awareness skills  
+
+Studies of businesses worldwide also show that employees and managers who are socially aware outperform their counterparts. By forming and maintaining relationships and by appreciating and understanding others, socially aware individuals contribute to the successes of their businesses, organizations, and communities.  
+
+---
+
+## Benefits of Social Awareness
+
+- Experiencing more positive moods  
+- Having more energy and interest in life  
+- Outperforming those who lack social awareness skills  
+- Contributing to the successes of businesses, organizations, and communities  
+
+<h3>Example of Social Awareness in Action</h3>
+
+<p>Lulu is a regular customer at Orange Zest Café, which is near downtown and on her way to work. The people who frequent the café represent the ethnic and racial diversity of the city. Regular customers include construction workers, office workers, students, parents, and retirees. Ahmed, the café manager, is usually at the register when Lulu gets her coffee. He is equally friendly to everyone, remembers people by name, and is always interested to hear how his customers are doing. Lulu notices that Ahmed knows how to respond positively to customers who are agitated, as well as to those who want to chat and linger, even when there is a long line behind them.
+
+One day, Lulu realizes that Charlotte, a regular customer with whom she often chats, has not been to the cafe in a while. Lulu wonders if perhaps Charlotte has moved or changed jobs. However, a few months later, Charlotte is at the café. Ahmed greets Charlotte and tells her how happy he is to see that she is well enough to come in. Charlotte thanks Ahmed for his thoughtfulness during her illness. On Lulu's way out, Charlotte tells her that Ahmed learned about her illness and had his son deliver her favorite orange scones to her home, along with cards and well wishes.
+
+Can you see how Ahmed, his business, and his customers all benefit from social awareness in this situation?</p>
+
+# Did I Get This  
+**Question 2**
+
+This is not a form; we suggest that you use the browse mode and read all parts of the question carefully.  
+
+**How can social awareness help you in your professional career?**
+
+**Instructions:** Type your response. Then, click "Submit and Compare."  
+
+**Sample Response:**  
+One way you can be socially aware is by staying alert, being fair to everyone, and remaining open-minded while helping customers—satisfying their needs without judgment.  
+
+**Explanation:**  
+Social awareness represents skills that are highly valued in the workplace. Being able to interact constructively and effectively with diverse groups of people at work, which includes considering others' perspectives and understanding and responding to others' needs, can help build and maintain good relationships.  
+
+People who have positive relationships at work are happier and more productive than those who lack these relationships and social awareness skills. Social awareness can help people develop and use skills that contribute to their own success and the success of their organizations.  
+
+---
+
+# Cultural Awareness
+
+**Tip:**  
+Social awareness includes cultural awareness, which is the ability to identify and appreciate a variety of perspectives, attitudes, values, and social norms—both from one's own culture and from individuals or groups from other countries, communities, backgrounds, and belief systems.  
+
+---
+
+# Lesson Summary
+
+Now that you have completed this lesson, you should be able to identify the characteristics and significance of social awareness.  
+Take a moment to reflect on what you have learned:
+
+- Social awareness is the ability to engage, react, and respond to people in a variety of social situations.  
+- Characteristics of people with well-developed social awareness skills include the ability to interact appropriately with a variety of people in social situations, refrain from judgment, adapt to a diverse workplace environment, demonstrate cultural awareness, and apply ethical principles in the treatment of others.  
+- Benefits of social awareness include a more positive mood, more energy and interest in life, and the possibility of outperforming others who lack social awareness skills. Social awareness skills also involve the ability to successfully contribute to social situations in all areas of life.  
+
+# Manager with Sociability Skills vs. Manager without Sociability Skills
+
+**Manager with Sociability Skills**  
+Talia knows a lot about market research and is always happy to share what she has learned with others. Her team views her as a person with integrity who cares about them both personally and professionally and can bring out the best in them. She meets with team members regularly and asks how they are doing. She is an effective communicator who pays attention to what people say as well as what they convey nonverbally. She collaborates with the team and encourages collaboration within the team because it can solve problems and help team members work more effectively with one another.  
+
+**Manager without Sociability Skills**  
+Eva knows a lot about marketing and is a brilliant market researcher. However, she is almost always certain that she knows the best way to solve every problem. She doesn't notice when the people on her team disagree with her approach to solving a problem and does not collaborate with her team. At meetings, she presents well-researched findings but is unaware of the effect of her communication. She doesn't notice or respond when others are confused. She rarely asks her team members how they are doing and doesn't feel personally connected with them, nor do they feel connected to her.  
+
+As you may imagine, any employee—manager or not—who has well-developed sociability will be more successful in getting along with others and being productive and effective than someone who lacks these skills. Sociability is a skill that is widely sought and highly prized in the workplace.  
+
+---
+
+# Strategies for Strengthening Sociability Skills
+
+Studies have shown that people who lack sociability skills can learn them. Scientists have found that after learning about sociability, the brains of study participants showed changes in the socio-cognition hub, with gains associated with increased empathy.  
+
+Strategies for improving sociability include the following:  
+
+- Warmly greet the people you encounter during your day, even strangers.  
+- Prior to attending a meeting or social event, think about what you may want to ask others and what you can contribute to the conversation or discussion.  
+- Don't focus solely on notetaking in workplace meetings. Be present and pay attention to what people say and how they say it. Watch for nonverbal cues that convey what people are thinking or feeling, and respond appropriately.  
+- Find opportunities to collaborate on projects or tasks with others, and reflect on what you learn from these interactions.  
+- If you disagree with another person, do your best to remain open-minded as you listen to their point of view.  
+
+---
+
+# The Effect of Social Media on Sociability
+
+**Tip:**  
+Research is mixed regarding the effect of social media on sociability. Some studies indicate that social media can increase social support, which has a positive effect. However, others show that people tend to represent only the most exciting and happiest parts of their lives. This can lead to negative self-comparison and feelings of loneliness.  
+
+The general conclusion is that some social media use is fine, but it is essential to develop and maintain positive relationships with the people you interact with offline.  
+
+# Sociability
+
+**Instructions:**  
+Reread the scenario from the lesson and identify three effective strategies Eva could use to strengthen her sociability and relationships with people at work.  
+
+---
+
+## Scenario  
+
+Eva knows a lot about marketing and is a brilliant market researcher. However, she is almost always certain that she knows the best way to solve every problem. She doesn't notice when the people on her team disagree with her approach to solving a problem and does not collaborate with her team. At meetings, she presents well-researched findings but is unaware of the effect of her communication. She doesn't notice or respond when others are confused. She rarely asks her team members how they are doing and doesn't feel personally connected with them, nor do they feel connected to her.  
+
+---
+
+## Multiple Choice Table  
+
+| Strategy | Effective or Not? | Explanation |
+|----------|-------------------|-------------|
+| Invite team members to contribute ideas for meeting agenda items. | **Effective** | Encouraging collaboration and participation strengthens sociability. |
+| Stop by team members' desks a few times a day to see how they are doing, and check on their progress toward meeting deadlines. | **Not Effective** | Stopping by a team member's desk to ask about progress isn’t likely to be interpreted as showing interest in others, but rather as making sure they are complying with directives. |
+| Focus on what team members say, both verbally and nonverbally, to gauge understanding. | **Effective** | Paying closer attention to what and how people are communicating while responding appropriately will strengthen sociability. |
+| When team members disagree, ask questions and try to see the situation from different perspectives. | **Effective** | Practicing perspective-taking and open-mindedness when solving problems will strengthen sociability. |
+| Arrange a social gathering after work or over a weekend and request that people attend. | **Not Effective** | While people may appreciate a manager wanting to connect socially, requiring attendance may not respect employees’ obligations outside of work. |
+
+
+
