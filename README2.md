@@ -4673,5 +4673,353 @@ Eva knows a lot about marketing and is a brilliant market researcher. However, s
 | When team members disagree, ask questions and try to see the situation from different perspectives. | **Effective** | Practicing perspective-taking and open-mindedness when solving problems will strengthen sociability. |
 | Arrange a social gathering after work or over a weekend and request that people attend. | **Not Effective** | While people may appreciate a manager wanting to connect socially, requiring attendance may not respect employees’ obligations outside of work. |
 
+# Responsibility to Others
 
+## Definition
+Responsibility to others refers to the ability to empathetically consider the interests of others and act responsibly out of respect for the larger community. People who are responsible to others are accountable for their actions and attentive to the needs of other individuals or groups.
 
+---
+
+## Workplace Example
+Jack works full-time and goes to school part-time. Despite his demanding schedule, he refuses his colleague Sophia’s suggestions to cut corners at work, such as skipping research, guessing information, or using other people’s reports. Jack explains that it would not be fair or ethical to do so, and he owes it to the company, coworkers, and clients to complete his work accurately.
+
+In this scenario:  
+- Jack demonstrates responsibility to others by maintaining honesty, integrity, and accountability.  
+- Sophia represents the opposite by suggesting shortcuts that would be unfair and unethical.
+
+---
+
+## Importance of Responsibility to Others
+- Responsibility and dependability are among the most important traits employers seek in new hires.  
+- Ethical behavior, honesty, and integrity build trust and support workplace morale.  
+- Taking shortcuts, failing to be accountable, or taking credit for others’ work harms both the organization and its people.  
+- Admitting mistakes and being accountable is the first step toward correcting errors and maintaining trust.
+
+---
+
+## Three Social Awareness Skills
+1. **Sociability**: The ability to engage in social or collaborative situations and communicate effectively with diverse groups.  
+2. **Appreciation for Diversity**: Respecting and valuing differences, fostering open communication, and collaborating positively with others.  
+3. **Responsibility to Others**: Acting ethically, considering the needs of others, and being accountable for one’s actions.
+
+# Applying Social Awareness Skills at Home
+
+## Scenario
+Lucas and his spouse are hosting Maria, a foreign exchange student from Guatemala. Although Maria is polite, her body language shows she may not fully understand Lucas. To help everyone get to know each other, Lucas suggests cooking a meal together rather than just eating.
+
+During the cooking session, Lucas learns that Maria has never prepared a meal before because her family has a cook and a housekeeper. He reflects on his own experience growing up, when he often cooked for his younger siblings. Lucas asks Maria questions about her family and upbringing, and they share stories about growing up. He also observes Maria's expressions and gestures to better understand her thoughts.
+
+By the next day, Lucas notices Maria seems to understand him more easily, and he feels he understands her better as well.
+
+---
+
+## Social Awareness Skills Demonstrated
+
+- **Sociability**: Lucas engages in a collaborative activity to interact and build rapport with Maria.  
+- **Appreciation for Diversity**: Lucas respects and shows interest in differences between his upbringing and Maria's culture, learning more about her experiences.
+
+# Applying Social Awareness Skills in Different Environments
+
+Social awareness skills can be applied in school, work, community, and home. Practicing these skills in one area often benefits other areas of life. The three key social awareness skills are:
+
+1. **Sociability**  
+2. **Appreciation for Diversity**  
+3. **Responsibility to Others**
+
+---
+
+## Applying Social Awareness Skills at Home
+
+### Scenario: Lucas and Maria
+Lucas and his spouse host Maria, a foreign exchange student. Lucas notices that Maria may not fully understand him and suggests they cook together. During the activity:  
+- Lucas learns that Maria has never prepared a meal because her family has a cook.  
+- He reflects on his own upbringing and asks Maria questions about her family.  
+- Lucas observes Maria’s expressions and gestures to better understand her.  
+- He communicates his interest in learning more about Maria and her culture.  
+
+### Skills Demonstrated
+- **Sociability**: Engages in a collaborative activity to build rapport.  
+- **Appreciation for Diversity**: Shows interest in Maria’s cultural differences and upbringing.
+
+---
+
+## Applying Social Awareness Skills at Work
+
+### Scenario: Nora
+Nora, a senior manager, enrolls in a business communications class. She:  
+- Makes an effort to remember classmates’ names and greet them warmly.  
+- Forms a diverse team for a group project, inviting students with different backgrounds.  
+- Participates actively in brainstorming and values diverse perspectives.  
+- Notices errors in citations, admits mistakes, and encourages the team to correct them.  
+
+### Scenario: Maria
+Maria returns to school while working at a clothing store. She:  
+- Notices coworkers speaking Russian and addresses stereotypes when a friend criticizes them.  
+- Teaches new employees, admits when her examples were confusing, and clarifies.  
+- Learns more about the Russian coworkers’ backgrounds and invites them to collaborate over lunch.  
+
+### Skills Demonstrated
+- **Sociability**: Engages effectively with classmates and coworkers.  
+- **Appreciation for Diversity**: Values and respects differences in culture and background.  
+- **Responsibility to Others**: Acknowledges mistakes and takes action to correct them.
+
+---
+
+## Applying Social Awareness Skills in the Community
+
+### Scenario: Hannah
+Hannah, owner of a small catering company, helps a high school theater production by building a set. She:  
+- Collaborates with students, learning alongside them.  
+- Pays attention to communication to ensure effectiveness.  
+- Admits mistakes (broken backdrop) and takes responsibility by fixing it.  
+- Reflects on her contributions and feels a sense of fulfillment.  
+
+### Skills Demonstrated
+- **Sociability**: Builds positive relationships with students through collaboration.  
+- **Responsibility to Others**: Admits mistakes and ensures others’ time and efforts are respected.
+
+---
+
+## Lesson Summary
+- Social awareness skills—**sociability, appreciation for diversity, and responsibility to others**—can be applied in any social setting.  
+- **Sociability** helps develop and maintain good relationships and communicate effectively.  
+- **Appreciation for Diversity** provides opportunities for new perspectives, enriches life, and contributes to organizational success.  
+- **Responsibility to Others** supports people, strengthens organizations, and brings personal satisfaction and fulfillment.
+
+# Social Awareness Overview
+
+**Social awareness** is the ability to engage and respond in a variety of different situations with different groups of people.  
+It helps individuals:  
+- Communicate effectively  
+- Respond appropriately  
+- Achieve optimal outcomes  
+
+Individuals who are socially aware know how to develop and maintain good relationships, which contributes to their well-being and quality of life.
+
+---
+
+## Benefits of Social Awareness
+- A more positive outlook on life  
+- Increased energy  
+- Ability to contribute to the success of businesses, organizations, and communities  
+
+---
+
+## Three Key Skills of Social Awareness
+
+### 1. Sociability
+- Being curious about others  
+- Communicating effectively with groups of people  
+- Highly valuable in the workplace  
+- Creates productive work environments  
+
+### 2. Appreciation for Diversity
+- Embracing cultural and other differences among people  
+- Recognizing when others express bias or stereotypes  
+- Emphasizing that such attitudes are harmful to society  
+- Choosing to learn from people who are different from oneself  
+
+### 3. Responsibility to Others
+- Being accountable for one’s own actions  
+- Demonstrating ethical behavior  
+- Showing thoughtfulness and consideration toward others  
+
+---
+
+## Conclusion
+Social awareness is **essential for success in every area of life**.  
+It strengthens relationships, fosters inclusion, and enhances both personal and professional growth.
+
+# Social Awareness – Practice Questions
+
+---
+
+## Question 1 of 3
+
+**Scenario:**  
+Sandra has moved to a new city where she knows very few people. She wants to improve her sociability skills and use them at work to build good relationships with others.  
+
+**Which statement describes actions that will give Sandra the best results?**
+
+- Sandra rehearses ideas for what she wants to say to people at work so she will be prepared. She makes a point to stop by people's desks to start conversations.  
+- Sandra goes online to learn about her new city. On social media, she finds people whom she has met at work and requests to "connect" with several people.  
+- Sandra works hard on her first project and decides to get feedback from a coworker. When the coworker points out some flaws, Sandra doesn't agree and decides to get feedback from others, hoping she does not have to make any changes.  
+- **Sandra pays close attention, both to what people say and how they say it and asks people about themselves and their work. She initiates a project that will enable her to collaborate with others. ✅**
+
+**Correct:** Sandra is using effective listening and communication skills and showing interest in others. By collaborating on a project, she builds strong relationships.
+
+---
+
+## Question 2 of 3
+
+**Scenario:**  
+Daniel is deaf and uses sign language and lip reading to communicate. Some of his coworkers want to learn American Sign Language, so he teaches others in the department to communicate common greetings.  
+
+**Which social awareness skill does this demonstrate?**
+
+- Goal setting  
+- Responsibility to others  
+- **Appreciation for diversity ✅**  
+- Sociability  
+
+**Correct:** Appreciation for diversity is shown by embracing cultural and other differences among people.
+
+---
+
+## Question 3 of 3
+
+**Scenario:**  
+Carson made a mistake and included the wrong information in a report. His coworker Anika helped him correct the error and rewrite the report. At the next staff meeting, Carson’s manager held up the report as an example of high-quality work.  
+
+**Which course of action best represents responsibility to others?**
+
+- **Carson waited for the appropriate moment and then told the people in the meeting, "Actually, I initially made a mistake on the report. Anika spotted it first and then helped me edit the report. She's a great editor!" ✅**  
+- Carson approached Anika the next day and thanked her for helping with the report, offering to give her tips about speaking up.  
+- Carson waited until after the meeting to explain to his manager that he initially made a mistake but realized it later.  
+- Carson told another coworker that Anika is a great editor and suggested asking her for help if needed.  
+
+**Correct:** Responsibility to others means being accountable, giving proper credit, and showing ethical behavior.
+
+---
+
+# Social Awareness
+
+Social awareness is the ability to engage and respond in a variety of different situations with different groups of people. It helps individuals communicate effectively, respond appropriately, and achieve optimal outcomes. Individuals who are socially aware know how to develop and maintain good relationships, which contributes to their well-being and quality of life.
+
+Individuals who have well-developed social awareness skills may experience a more positive outlook on life and have more energy. They can also more readily contribute to the success of businesses, organizations, and communities.
+
+## Key Skills of Social Awareness
+
+### 1. Sociability
+Sociability entails being curious about others and communicating effectively with groups of people. It is a highly valuable skill in the workplace and can help create productive work environments.
+
+### 2. Appreciation for Diversity
+Appreciation for diversity is demonstrated by embracing cultural and other differences among people. Individuals who appreciate diversity recognize when others express bias or use stereotypes. They emphasize that these attitudes and actions are harmful to society. They choose to get to know and learn from people who are different from themselves.
+
+### 3. Responsibility to Others
+Responsibility to others entails being accountable for one's own actions and demonstrating ethical behavior as well as thoughtfulness and consideration toward others.
+
+---
+
+## Why It Matters
+Social awareness is essential for success in every area of life.
+
+# Social and Emotional Learning (SEL) – Quiz Review
+
+---
+
+## Question 1
+**Which statement exemplifies a characteristic of social and emotional learning?**
+
+- It will facilitate extroversion  
+- It is a lifelong process  
+- It is difficult to develop during adulthood  
+- It is only applicable in the workplace  
+
+Correct Answer: It is a lifelong process  
+Explanation: SEL is a lifelong process, emphasizing whole-person development.
+
+---
+
+## Question 2
+**After you receive a low grade on a paper, you speak to your professor about how to improve instead of letting yourself become discouraged.  
+Which SEL skill area is being demonstrated?**
+
+- Self-management  
+- Executive function  
+- Self-awareness  
+- Social awareness  
+
+Correct Answer: Self-awareness  
+Explanation: Self-awareness is the ability to recognize your own emotions and reactions.
+
+---
+
+## Question 3
+**Which behavior is an application of self-awareness?**
+
+- Recognizing your emotions  
+- Coping with a very stressful situation  
+- Managing your emotions  
+- Organizing your life’s activities  
+
+Correct Answer: Recognizing your emotions  
+Explanation: Recognizing emotions is a key self-awareness skill.
+
+---
+
+## Question 4
+**Which behavior is an application of self-management?**
+
+- Being able to recognize emotions  
+- Being able to ignore emotions  
+- Believing in one's ability to develop intelligence  
+- Practicing deep breathing and counting slowly through each breath instead of overreacting  
+
+Correct Answer: Practicing deep breathing and counting slowly through each breath instead of overreacting  
+Explanation: Stress management strategies (like deep breathing) are part of self-management.
+
+---
+
+## Question 5
+**Which SEL skill area is demonstrated when turning off a cell phone while studying for a test?**
+
+- Self-management  
+- Self-awareness  
+- Communication and leadership  
+- Social awareness  
+
+Correct Answer: Self-management  
+Explanation: Self-discipline strategies (like removing distractions) belong to self-management.
+
+---
+
+## Question 6
+**Which behavior is an application of the communication and leadership SEL skill area?**
+
+- Getting people to agree with your point of view  
+- Sympathizing with a coworker who is stressed out at work  
+- Getting along well with others from diverse populations at a company gathering  
+- Expressing your understanding of another person's feelings and perspective  
+
+Correct Answer: Expressing your understanding of another person's feelings and perspective  
+Explanation: Empathy is a key communication and leadership skill.
+
+---
+
+## Question 7
+**Which SEL skill area is demonstrated when you are mindful of your tone and word choice before commenting on a coworker's presentation?**
+
+- Communication and leadership  
+- Self-management  
+- Executive function  
+- Self-awareness  
+
+Correct Answer: Communication and leadership  
+Explanation: Communication and leadership strengthen relationships through careful word choice.
+
+---
+
+## Question 8
+**Which action is an application of the executive function SEL skill area?**
+
+- Managing one's emotions in a difficult conversation with a family member  
+- Taking the initiative to learn something new to improve technical skills  
+- Resolving conflicts with a manager  
+- Effectively communicating with a direct report  
+
+Correct Answer: Taking the initiative to learn something new to improve technical skills  
+Explanation: Self-directed learning is part of executive function.
+
+---
+
+## Question 9
+**Which SEL skill area is demonstrated by analyzing the possible solutions to a problem before acting?**
+
+- Executive function  
+- Communication and leadership  
+- Self-management  
+- Self-awareness  
+
+Correct Answer: Executive function  
+Explanation: Executive function involves higher-order thinking for problem-solving and planning.
